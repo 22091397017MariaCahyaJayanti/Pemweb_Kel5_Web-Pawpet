@@ -1,7 +1,7 @@
 # Pemweb_Kel5_Web-Pawpet
 Web Pawpet ( Html + Css)
 
-# HTML Index (home)
+# HTML HOME
 
 - `<!DOCTYPE html>`: Ini adalah deklarasi tipe dokumen (Document Type Declaration atau DOCTYPE) yang mengindikasikan bahwa halaman ini merupakan dokumen HTML. Ini adalah bagian yang penting karena memberi tahu browser bahwa dokumen ini adalah dokumen HTML.
 - `<html>`: Ini adalah elemen root (akar) dari halaman web. Semua elemen HTML berada di dalam elemen `<html>` ini. Ini juga menandakan awal dari dokumen HTML.
@@ -99,7 +99,7 @@ Web Pawpet ( Html + Css)
   - `<h1>`: Elemen heading level 1 yang digunakan untuk menampilkan judul besar di halaman web. Dalam hal ini, judulnya adalah "Terima Kasih, Pesan Anda Telah Tersampaikan."
   - `<a>`: Elemen anchor (tautan) yang digunakan untuk membuat tautan ke halaman lain. Tautan ini mengarah ke halaman "Contact.html," yang memungkinkan pengguna untuk kembali ke halaman kontak. Atribut href digunakan untuk menentukan URL halaman yang akan ditautkan.
 
-## CSS HOME (Index)
+## CSS HOME 
 
 Berikut adalah penjelasan singkat tentang setiap bagian kode:
 
