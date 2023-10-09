@@ -267,7 +267,7 @@ Berikut adalah penjelasan setiap bagian kode:
 
 - **Hover Tautan**: Ini adalah pseudo-class (:hover) yang mengatur gaya tautan saat kursor mouse berada di atasnya (hover).
 
-- **Warna Latar Belakang Tautan Hover**: Properti ini mengatur warna latar belakang tautan menjadi ungu tua yang lebih gelap (#6c3483) saat tautan dihover oleh kursor mouse.
+- **Warna Latar Belakang Tautan Hover**: Properti ini mengatur warna latar belakang tautan menjadi ungu tua yang lebih gelap (#6c3483) saat tautan dihover oleh kursor mouse..
 
 
 
