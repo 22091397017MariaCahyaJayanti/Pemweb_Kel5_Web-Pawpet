@@ -241,7 +241,7 @@ Berikut adalah penjelasan setiap bagian kode:
 
 - **Tinggi Body**: Properti ini mengatur tinggi elemen body menjadi 100% dari tinggi viewport (tinggi tampilan browser), sehingga elemen-elemen di dalamnya akan selalu berada di tengah vertikal halaman.
 
-- **Heading 1 (h1)**: Ini adalah selektor yang mengatur gaya untuk elemen heading level 1 (<h1>).
+- **Heading 1 (h1)**: Ini adalah selektor yang mengatur gaya untuk elemen heading level 1.
   
 - **Ukuran Font H1**: Properti ini mengatur ukuran font teks pada elemen h1 menjadi 32 piksel.
   
