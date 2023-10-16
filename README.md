@@ -171,23 +171,40 @@ Data Flow Diagram (DFD) Level 2
 # Penjelasan HTML & CSS
 # HTML HOME
 
+-	<img width="307" alt="1" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/4050cee9-04b5-4abf-8baa-2d39b94a212d">
+
 - `<!DOCTYPE html>`: Ini adalah deklarasi tipe dokumen (Document Type Declaration atau DOCTYPE) yang mengindikasikan bahwa halaman ini merupakan dokumen HTML. Ini adalah bagian yang penting karena memberi tahu browser bahwa dokumen ini adalah dokumen HTML.
 - `<html>`: Ini adalah elemen root (akar) dari halaman web. Semua elemen HTML berada di dalam elemen `<html>` ini. Ini juga menandakan awal dari dokumen HTML.
 - `<head>`: Ini adalah elemen yang digunakan untuk menyertakan informasi tentang dokumen, seperti judul halaman dan tautan ke stylesheet.
   - `<title>`: Ini adalah elemen yang digunakan untuk menentukan judul dari halaman web. Judul halaman ini adalah "Pengertian Kucing."
   - `<link>`: Ini adalah elemen `<link>` yang digunakan untuk menghubungkan halaman dengan file eksternal, yaitu file "home.css". Ini memungkinkan halaman HTML untuk mengambil aturan tampilan dari file CSS terpisah.
 - `</head>`: Ini adalah penutup dari elemen `<head>`, yang menandakan akhir dari bagian informasi tentang dokumen.
+
+-	<img width="362" alt="2" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/5eb20b2f-5f22-4db3-8168-4d719a90c592">
+
 - `<body>`: Ini adalah elemen yang digunakan untuk menampilkan konten yang akan ditampilkan di halaman web. Ini adalah tempat di mana Anda akan menampilkan isi halaman web Anda.
   - `<div class="nav">`: Ini adalah elemen div yang memiliki atribut class "nav." Elemen ini digunakan untuk membuat bagian navigasi halaman web.
     - `<ul>`: Ini adalah elemen daftar tak terurut (unordered list) yang digunakan untuk membuat daftar item navigasi.
       - `<li>`: Ini adalah elemen daftar (list item) yang digunakan untuk membuat setiap item dalam daftar navigasi.
         - `<a>`: Ini adalah elemen anchor (tautan) yang digunakan untuk membuat tautan ke halaman lain. Atribut href digunakan untuk menentukan URL halaman yang akan ditautkan.
-  - `<header>`: Ini adalah elemen `<header>` yang digunakan untuk menampilkan bagian atas halaman web, yang berisi judul "Pengertian Kucing." 
+
+-	<img width="262" alt="3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/5567af23-4c64-4bf0-bbc3-886ff775262b">
+
+
+  - `<header>`: Ini adalah elemen `<header>` yang digunakan untuk menampilkan bagian atas halaman web, yang berisi judul "Pengertian Kucing."
+
+-	<img width="719" alt="4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/3c18d3ef-ccc4-4eee-9506-ed6d785565dd">
+
+
   - `<section>`: Ini adalah elemen `<section>` yang digunakan untuk membagi konten halaman web menjadi beberapa bagian yang berbeda, seperti bagian tentang pengertian kucing, sejarah kucing, karakteristik kucing, dan lain-lain.
   - `<img>`: Ini adalah elemen `<img>` yang digunakan untuk menampilkan gambar-gambar dalam konten halaman. Atribut src digunakan untuk menentukan sumber gambar, dan atribut style digunakan untuk mengatur tampilan gambar, seperti lebar dan margin.
   - `<p>`: Ini adalah elemen paragraf yang digunakan untuk menampilkan teks yang menjelaskan informasi tentang kucing, seperti pengertian kucing, sejarah, karakteristik, dan perilaku.
   - `<h2>`: Ini adalah elemen heading level 2 yang digunakan untuk menampilkan subjudul di dalam setiap bagian konten.
   - `<ol>`: Ini adalah elemen daftar terurut (ordered list) yang digunakan untuk membuat daftar numerik (dalam hal ini, daftar perilaku kucing).
+
+-	<img width="271" alt="5" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/b4ad20a0-0b17-45e9-bf93-2e094214b85b">
+
+
   - `<footer>`: Ini adalah elemen yang digunakan untuk menampilkan footer atau bagian akhir dari halaman web. Pada bagian footer ini, ada teks "©2023 Kelompok 5" yang menunjukkan hak cipta tahun 2023 oleh Kelompok 5.  
 
 # HTML ABOUT
@@ -330,6 +347,7 @@ Berikut adalah ringkasan penjelasan setiap bagian kode:
 - **Z-Index Navigasi**: Properti ini memastikan elemen navigasi tampil di atas elemen lainnya dengan memberikan z-index tinggi.
 
 - **Styling Daftar (ul)**: Bagian ini mengatur tampilan elemen <ul> dalam elemen navigasi, termasuk menghilangkan tanda listing dan mengatur teks menjadi rata tengah.
+<img width="307" alt="1" 
 
 - **Styling Elemen Daftar (li)**: Properti ini mengatur tampilan elemen <li> dalam elemen <ul> dengan mengatur mereka menjadi inline-block dan menambahkan margin dan tinggi garis.
 
