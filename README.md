@@ -1,6 +1,8 @@
 # Pemweb_Kel5_Web-Pawpet
 Web Pawpet ( Html + Css)
 
+
+# Penjelasan HTML & CSS
 # HTML HOME
 
 - `<!DOCTYPE html>`: Ini adalah deklarasi tipe dokumen (Document Type Declaration atau DOCTYPE) yang mengindikasikan bahwa halaman ini merupakan dokumen HTML. Ini adalah bagian yang penting karena memberi tahu browser bahwa dokumen ini adalah dokumen HTML.
