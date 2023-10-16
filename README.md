@@ -8,9 +8,9 @@ for
 Version 1.0 approved
 Prepared by
 Siti Rina (22091397014)
-Lady Cristal Beauty Aqluilera(2091397016)
-Maria Cahya Jayanti(22091397017)
-Dwi Putra Afrilianto(22091397025)
+Lady Cristal Beauty Aqluilera (2091397016)
+Maria Cahya Jayanti (22091397017)
+Dwi Putra Afrilianto (22091397025)
 
 
 
