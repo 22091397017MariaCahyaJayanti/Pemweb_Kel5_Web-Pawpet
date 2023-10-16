@@ -137,8 +137,7 @@ Contact Us merupakan halaman untuk menghubungi pihak admin Website Paw pet. Keti
 LAMPIRAN : model analisis
 
 1.	Use case
-
-
+![use case](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/ab5941a0-7213-4d00-83a4-17467d48eb1d)
 
 
 
