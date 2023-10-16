@@ -137,71 +137,36 @@ Contact Us merupakan halaman untuk menghubungi pihak admin Website Paw pet. Keti
 LAMPIRAN : model analisis
 
 1.	Use case
+
+
+
 ![use case](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/ab5941a0-7213-4d00-83a4-17467d48eb1d)
 
+2.	Diagram Activity
 
 
 
+![diagram](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/0a84cfb9-7e3a-4529-8672-7b53c7dc5ef2)
 
-
-
-
-2.	Diagram
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3.	Data Flow Diagram 
+4.	Data Flow Diagram 
 (DFD) Level 0
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+![dfd 0](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/f0c5f337-2541-434e-90f3-f888964ab924)
 
 Data Flow Diagram (DFD) Level 1
+
+
 		 
 
-
-
-
-
-
-
-
+![dfd 1](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/fd32d2af-8392-4c1b-bba9-c6c6a4cf65a9)
 
 Data Flow Diagram (DFD) Level 2
- 
 
 
+ ![dfd 2](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/95a9c3dd-f73c-4829-9985-2b9bab4fbcb5)
 
 # Penjelasan HTML & CSS
 # HTML HOME
