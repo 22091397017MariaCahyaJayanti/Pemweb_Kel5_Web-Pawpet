@@ -154,29 +154,65 @@ Kendala utama dalam desain dan implementasi website termasuk menciptakan keseimb
 
 Website Paw Pet  ini menyediakan dokumentasi pengguna yang mudah diakses bagi pengunjung dan pengguna situs. Kami berkomitmen untuk memberikan informasi yang jelas dan berguna kepada pengguna kami. Dokumentasi pengguna kami mencakup berbagai aspek terkait kucing, mulai dari perawatan hingga informasi tentang berbagai jenis kucing.
 
-4.	Deskripsi Keseluruhan
+3.	Deskripsi Keseluruhan
    
 3.1	User Interface
+
+
+![1pet](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/311ba654-2911-44e8-9eaf-acea89c73080)
+
+
+
+
 	 
+ ![Pet 2](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/937be2f8-aed8-47ac-a903-5d5142b17b94)
+
+
+
+
  
+![Pet 3](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/302fd6c3-c6fb-4b57-ab7c-0e971ead1448)
+
  
 3.2	Communication Interface
- 
+
+
+![Pet 4](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/ed0b3924-666b-4406-aa16-32c26d2e4c72)
+
+
+
+
+
+
+ ![pet5](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/3301b552-58b6-455c-987b-65051afe64ab)
+
 
  
 
 4.	Deskripsi Keseluruhan
+   
 4.1	Home
+
 4.1.1	Deskripsi dan Prioritas 
+
 Home merupakan halaman awal ketika membuka Website Paw Pet. Ketika membuka Home akan ada beberapa deskripsi penjelasan tentang kucing.
+
 4.2	Care
+
 4.2.1	Deskripsi dan Prioritas 
+
 Care merupakan halaman kedua ketika membuka Website Paw Pet. Ketika membuka Cara akan ada beberapa deskripsi penjelasan tentang perawatan kucing.
+
 4.3	About
+
 4.3.1	Deskripsi dan Prioritas 
+
 About merupakan halaman tentang Website Pawpet. Ketika membuka About akan ada beberapa deskripsi penjelasan tentang website Paw Pet kucing.
+
 4.4	Contact Us
-4.4.1	Deskripsi dan Prioritas 
+
+4.4.1	Deskripsi dan Prioritas
+
 Contact Us merupakan halaman untuk menghubungi pihak admin Website Paw pet. Ketika membuka About akan ada beberapa penjelasan dan yang harus dilakukakan jika akan menghubungi admin website Paw Pet kucing.
 
 
