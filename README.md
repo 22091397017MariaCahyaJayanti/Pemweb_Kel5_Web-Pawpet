@@ -25,47 +25,77 @@ UNIVERSITAS NEGERI SURABAYA
 02 OCTOBER 2023
  
 Table of Contents
+
 1. Pendahuluan	1
+   
 1.1 Tujuan Penulisan Dokumen	1
+
 1.2 Audien yang Dituju dan Pembaca yang Disarankan	1
+
 1.3 Konvensi Dokumen	1
+
 1.4 Lingkup Produk	1
+
 1.5 Refrensi	2
+
 2. Deskripsi Keseluruhan	3
+   
 2.1 Deskripsi Produk	3
+
 2.2 Fungsi Produk	3
+
 2.3 Karakteristik Pengguna	3
+
 2.4 Lingkungan Operasi	3
+
 2.5 Batasan Desain dan Iplementasi	3
+
 2.6 Dokumentasi Pengguna	3
+
 3. Deskripsi Keseluruhan	4
+   
 3.1 User Interface	4
+
 3.2 Communication Interface	5
+
 4. Deskripsi Keseluruhan	6
+   
 4.1 Home	6
+
 4.2 Care	6
+
 4.3 About	6
+
 4.4 Contact Us	6
+
 2. Diagram	7
+   
 Revision History
+
 Name	Date	Reason For Changes	Version
 			
 			
 			
 
+
  
 1.	Pendahuluan
+   
+   
 1.1	Tujuan Penulisan Dokumen
 Tujuan pembuatan website artikel paw pet  antara lain :
 1.Website ini bertujuan untuk memberikan pemilik kucing dan calon pemilik informasi yang bermanfaat. Artikel-artikel informatif kami membantu memahami tentang  kucing, pemilihan makanan yang tepat, dan perawatan kesehatan yang diperlukan.
-2. Website ini bertujuan untuk memberikan edukasi kepada pemilik kucing. Artikel-artikel kami mengulas perilaku, kebutuhan, dan kesejahteraan kucing, meningkatkan pemahaman tentang perawatan yang tepat. 
+3. Website ini bertujuan untuk memberikan edukasi kepada pemilik kucing. Artikel-artikel kami mengulas perilaku, kebutuhan, dan kesejahteraan kucing, meningkatkan pemahaman tentang perawatan yang tepat.
+    
 1.2	Audien yang Dituju dan Pembaca yang Disarankan
+
 Dokumen ini ditujukan untuk pengembang website artikel paw pet . SRS ini, dibagi menjadi beberapa bagian, antara lain :
 1. Pengembang website yang ingin mencari informasi tentang kucing. 
 2. Membantu menambah literatur dalam bidang artikel. 
 3. Menambah wawasan dan informasi mengenai  pemeliharaan. 
 
 1.3	Konvensi Dokumen
+
 Website yang akan dikembangkan adalah website untuk artikel paw pet  yang dapat digunakan oleh masyarakat untuk  mengetahui informasi tentang kucing secara sprsifk , Paw Pet dapat melakukan hal-hal berikut ini : 
 1. Berisi Konten yang relavan tentang kucing
 2. Mendapatkan informasi perawatan kucing
@@ -74,42 +104,58 @@ Website yang akan dikembangkan adalah website untuk artikel paw pet  yang dapat 
 5. kemudahan berbagi
 6. Informasi Edukasi tentang kucing.
 
-
 1.4	Lingkup Produk
+
 Cakupan dari website Daysee ini mulai dari informasi tetang kucing, jenis kucing, perawatan kucing. Jika dikelompokkan berdasarkan keseluruhan maka ruang lingkup Artikel Paw pet dapat dibagi menjadi :
 1. Informasi tentang kucing
 2. Panduan Perawatan Kucing
 3. informasi jenis-jenis kucing
-
 Cakupan dari website artikel  paw pet ini cukup jelas. Oleh karena itu, cakupan ini sangat cukup luas  dan memiliki nilai keindahan dan kebutuhan yang jelas bagi penggunanya.
+
 1.5	Refrensi
+
 Dokumen ini merujuk pada hasil observasi yang berkaitan dengan kebutuhan dan mencakup data secara umum, diperlukannya dan penulis dokumen berdasarkan pada :
-1.	Harsanto Maulana Ibrahim, 10 April 2023. Kucing Hewan Peliharaan
-2.	Nesya Damayanti, 20 Februari 2019. Kucing adalah Hewan Mamalia Karnivora
-3.	Kucing Domestik. Wikipedia_ensiklopedia.Desember 2021
 
+1.Nugraha, F. A., Nugrahadi, E. J., Hidayat, M. N., Ghozy, M., & Rosyani, P. (2023). Forward Chaining Analisa Sistem Pakar Menentukan Jenis Ras Kucing Menggunakan Metode Forward Chaining. AI Dan SPK: Jurnal Artificial Intelligent Dan Sistem Penunjang Keputusan, 1(1), 78–84.
 
+2.Yuliati, N., Sagala, N. R., & Atifah, Y. (2023, September). Perubahan Tingkah Laku Kucing Domestik (Felis domestica) Betina Selama Masa Kebuntingan. In Prosiding Seminar Nasional Biologi (Vol. 3, No. 1, pp. 684-691).
 
+3.Triasanti, D., & Nova, S. (2023). APLIKASI BERBASIS WEB IDENTIFIKASI PENYAKIT UMUM KUCING RAS MENGGUNAKAN METODE FORWARD CHAINING. UG Journal, 16(11).
 
- 
+4.HANIF, Abdurrahman; DHARMAWAN, Tulus; PANGESTU, Amri Siddiq. Catstrate: Solusi Menekan Ledakan Populasi Kucing Lokal. Animal Walfare and Sustainable Community, 2017.
+
+5.Febriansyah, F., & Amalia, R. (2023). PENERAPAN CRM PADA SISTEM INFORMASI TOKO KOPI CAP KUCING BERBASIS WEB MOBILE. ZONAsi: Jurnal Sistem Informasi, 5(2),
+
 2.	Deskripsi Keseluruhan
+   
 2.1	Deskripsi Produk 
+
 Website artikel paw pet adalah sumber pengetahuan yang lengkap tentang kucing dan pemeliharaannya. Kami menyediakan artikel-artikel informatif dan bermanfaat yang dirancang untuk membantu pemilik kucing, calon pemilik, dan pecinta hewan peliharaan memahami dunia kucing dengan lebih baik. Temukan panduan perawatan kucing yang tepat, tips mengenai perawatan kesehatan, panduan pemilihan makanan yang sehat, serta informasi tentang berbagai jenis kucing dan karakteristik mereka. Dengan "Artikel paw pet" Anda akan mendapatkan wawasan mendalam tentang bagaimana merawat kucing Anda dengan penuh kasih sayang dan memastikan kebahagiaan mereka. Jelajahi konten berkualitas kami dan bangun ikatan yang lebih kuat dengan sahabat berbulu Anda.
 
 2.2	Fungsi Produk
+
 Website Artikel Paw Pet merupakan sebuah Website yang menyediakan beragam informasi berguna tentang kucing. Tujuan utamanya adalah untuk menjadi sumber terpercaya yang memberikan pengetahuan mendalam tentang kucing serta memberikan panduan praktis tentang cara merawat kucing dengan baik. Website ini berkomitmen untuk menyajikan informasi yang komprehensif dan solusi perawatan yang bermanfaat bagi pemilik kucing, membantu mereka dalam menjaga kesejahteraan dan kebahagiaan hewan peliharaan mereka.
 
 2.3	Karakteristik Pengguna
+
 Karakteristik dari pengguna Website Paw Pet adalah sebagai berikut: 
 1.	User : Membaca artikel, memilih page
 2.	Server : Mengelola Website, mengelolah masalah
+   
 2.4	Lingkungan Operasi
+
 Website Paw Pet dapat dilihat siapa saja
+
 2.5	Batasan Desain dan Iplementasi
+
 Kendala utama dalam desain dan implementasi website termasuk menciptakan keseimbangan estetika dan fungsionalitas, memastikan tampilan responsif, meningkatkan pengalaman pengguna, mengelola konten, dan menjaga keamanan. Semua ini memerlukan pemahaman mendalam tentang desain web, pemrograman, dan tren teknologi terkini.
+
 2.6	Dokumentasi Pengguna
+
 Website Paw Pet  ini menyediakan dokumentasi pengguna yang mudah diakses bagi pengunjung dan pengguna situs. Kami berkomitmen untuk memberikan informasi yang jelas dan berguna kepada pengguna kami. Dokumentasi pengguna kami mencakup berbagai aspek terkait kucing, mulai dari perawatan hingga informasi tentang berbagai jenis kucing.
-3.	Deskripsi Keseluruhan
+
+4.	Deskripsi Keseluruhan
+   
 3.1	User Interface
 	 
  
