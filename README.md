@@ -537,5 +537,23 @@ Berikut adalah penjelasan setiap bagian kode:
 
 - **Warna Latar Belakang Tautan Hover**: Properti ini mengatur warna latar belakang tautan menjadi ungu tua yang lebih gelap (#6c3483) saat tautan dihover oleh kursor mouse..
 
+- ## HOME JS
+
+  Berikut adalah penjelasan setiap kode:
+  
+-**Document.getElementById**("gambar") dan menyimpannya dalam variabel gambar.
+
+-**Variabel isMirrored**: digunakan untuk melacak apakah gambar sedang dalam mode "mirror" atau tidak. Awalnya, nilai isMirrored diatur sebagai false.
+
+-**Event listener** ditambahkan ke elemen gambar. Event listener ini akan mendengarkan event "click" pada elemen gambar. Ketika gambar di-klik, fungsi yang didefinisikan dalam event listener akan dijalankan.
+
+Fungsi yang dijalankan saat gambar di-klik melakukan tugas berikut:
+
+**1**.Mengecek nilai isMirrored. Jika isMirrored adalah false, maka gambar akan dimirror secara horizontal dengan mengubah properti CSS transform menjadi "**scaleX(-1)**". Ini akan menghasilkan efek mirroring gambar.
+
+**2**.Jika isMirrored adalah true, maka gambar akan dikembalikan ke posisi awal (tanpa mirroring) dengan mengubah properti CSS transform menjadi "**scaleX(1)**".
+
+**3**.Kode yang sama diulang untuk gambar-gambar lainnya seperti **gambar2, gambar3, gambar4, dan gambar5**. Masing-masing gambar memiliki event listener yang sama untuk mengendalikan mirroring saat di-klik.
+
 
 
