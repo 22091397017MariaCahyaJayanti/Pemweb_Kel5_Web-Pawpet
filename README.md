@@ -542,10 +542,9 @@ Berikut adalah penjelasan setiap bagian kode:
 
   Berikut adalah penjelasan setiap kode:
 
-Pejelasan js
--**var gambar** = document.getElementById("gambar");: Baris ini bertujuan untuk mengambil elemen HTML dengan ID "gambar" dari halaman web. ID "gambar" adalah atribut yang diberikan kepada elemen HTML (mungkin gambar) dalam kode HTML yang terkait dengan halaman tersebut. Kode ini menggunakan document.getElementById("gambar") untuk mengakses elemen tersebut dan menyimpannya dalam variabel gambar. Setelah baris ini dijalankan, gambar akan berisi referensi ke elemen HTML dengan ID "gambar".
+-**var gambar** **= document.getElementById("gambar");**: Baris ini bertujuan untuk mengambil elemen HTML dengan ID **"gambar"** dari halaman web. ID **"gambar**" adalah atribut yang diberikan kepada elemen HTML (mungkin gambar) dalam kode HTML yang terkait dengan halaman tersebut. Kode ini menggunakan **document.getElementById("gambar")** untuk mengakses elemen tersebut dan menyimpannya dalam variabel gambar. Setelah baris ini dijalankan, gambar akan berisi referensi ke elemen HTML dengan ID "gambar".
 
--**var isMirrored = false;**: Baris ini menginisialisasi variabel isMirrored dengan nilai false. Variabel ini kemungkinan besar akan digunakan di tempat lain dalam kode untuk melacak status gambar, seperti apakah gambar tersebut dalam keadaan cermin (mirrored) atau tidak. Dengan mengatur nilainya sebagai false, itu menunjukkan bahwa pada awalnya gambar tersebut tidak dalam keadaan cermin.
+-**var isMirrored = false;**: Baris ini menginisialisasi variabel **isMirrored** dengan nilai false. Variabel ini kemungkinan besar akan digunakan di tempat lain dalam kode untuk melacak status gambar, seperti apakah gambar tersebut dalam keadaan cermin (mirrored) atau tidak. Dengan mengatur nilainya sebagai false, itu menunjukkan bahwa pada awalnya gambar tersebut tidak dalam keadaan cermin.
 
 
 -**gambar.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen "gambar". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
@@ -663,5 +662,57 @@ Pejelasan js
 
 -**seeMoreButton.style.display = "none";** akan menyembunyikan tombol** "See More"** setelah teks penuh ditampilkan.
 
+- ## CARE JS
+  Berikut adalah penjelasan setiap kode:
 
-  
+-**var gambar = document.getElementById("gambar");**: Kode ini mengambil elemen HTML dengan ID "gambar" dan menyimpannya dalam variabel **gambar**. Ini memungkinkan Anda untuk mengakses dan memanipulasi elemen gambar tersebut melalui kode JavaScript.
+
+-**var isMirrored = false;: Variabel isMirrored **digunakan untuk melacak status gambar, apakah sudah dalam keadaan mirrored atau tidak. Pada awalnya, variabel ini diatur ke **false** yang menunjukkan gambar tidak dalam keadaan mirrored.
+
+-**gambar.addEventListener("click", function () { ... });**: Ini adalah blok kode yang menambahkan event listener pada elemen gambar. Ketika elemen ini diklik, fungsi yang didefinisikan dalam blok **{ ... }** akan dieksekusi.
+
+-Dalam blok event listener:
+ -**if (!isMirrored) { ... }**: Kondisi ini memeriksa apakah variabel isMirrored adalah false. Jika iya, maka blok kode dalam if akan dieksekusi, yang berarti gambar akan di**-mirror 
+  (flip horizontal).**
+ -Dalam blok if:
+  -**gambar.style.transform = "scaleX(-1)";**: Ini adalah pernyataan yang mengubah properti CSS transform dari elemen gambar untuk melakukan flipping horizontal dengan menggunakan 
+   nilai  **"scaleX(-1)"**. Ini menciptakan efek cermin gambar.
+  -i**sMirrored = true;**: Variabel **isMirrored **diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirrored.
+  -e**lse { ... }**: Jika kondisi if tidak terpenuhi (artinya gambar sudah mirrored), maka blok kode dalam **else** akan dieksekusi.
+ -Dalam blok else:
+  -**gambar.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirror) dengan menggunakan nilai** "scaleX(1)".**
+  -**isMirrored = false;**: Variabel isMirrored diatur menjadi **false** untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirrored.
+
+-**var gambar2 = document.getElementById("gambar2");**: Baris ini mengambil elemen HTML dengan ID "gambar2" dan menyimpannya dalam variabel gambar2. Ini memungkinkan kita untuk merujuk elemen ini dalam kode berikutnya.
+
+-**gambar2.addEventListener("click", function () { ... });**: Kode ini menambahkan event listener ke elemen "gambar2". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok** { ... }** akan dieksekusi.
+
+-**if (!isMirrored) { ... } else { ... }**: Ini adalah struktur pengkondisian yang memeriksa apakah variabel **isMirrored** adalah false.**** Variabel ini mungkin didefinisikan di tempat lain dalam kode atau di luar dari fragmen yang Anda berikan. Jika **isMirrored** adalah **false**,maka kode dalam blok **if** akan dieksekusi**;** jika tidak, kode dalam blok **else** yang dieksekusi.
+
+-Dalam blok if:
+ -**gambar2.style.transform = "scaleX(-1)";**: Ini adalah bagian yang mengubah properti CSS transform dari elemen "gambar2" untuk menciptakan efek cermin horizontal. Nilai 
+  **"scaleX(-1)"** menghasilkan efek ini.
+ -**isMirrored = true;**: Variabel **isMirrored** diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
+
+-Dalam blok else:
+ -**gambar2.style.transform = "scaleX(1)";**: Ini adalah bagian yang mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai** "scaleX(1**)".
+ -**isMirrored = false;**: Variabel** isMirrored** diatur menjadi **false** untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
+
+ 
+-**var gambar3 = document.getElementById("gambar3");**: Kode ini mengambil elemen HTML dengan ID "gambar3" dan menyimpannya dalam variabel **gambar3. **Ini memungkinkan kita untuk mengakses dan memanipulasi elemen ini melalui JavaScript.
+
+-**gambar3.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener ke elemen **"gambar3".** Ini berarti ketika elemen ini diklik, fungsi yang didefinisikan dalam blok **{ ... }** akan dieksekusi.
+
+-**if (!isMirrored) { ... } else { ... }**: Ini adalah pernyataan kondisional yang memeriksa apakah variabel **isMirrored** adalah** false.** Variabel ini digunakan untuk melacak apakah gambar saat ini sedang dalam keadaan cermin (mirrored) atau tidak.
+
+-Dalam blok if:
+ -**gambar3.style.transform = "scaleX(-1)";**: Ini adalah pernyataan yang mengubah properti CSS transform pada elemen **"gambar3".** Ini akan memutar gambar secara horizontal (mirror) dengan menggunakan nilai **"scaleX(-1)".**
+ -**isMirrored = true;**: Setelah efek mirroring diterapkan, variabel **isMirrored** diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
+
+-Dalam blok else:
+ -**gambar3.style.transform = "scaleX(1)";**: Ini adalah pernyataan yang mengembalikan gambar ke posisi semula (tanpa mirroring) dengan menggunakan nilai** "scaleX(1)".**
+ -**isMirrored = false;**: Variabel **isMirrored** diatur kembali menjadi **false** untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
+
+
+- ## ABOUT JS
+  Berikut adalah penjelasan setiap kode:
