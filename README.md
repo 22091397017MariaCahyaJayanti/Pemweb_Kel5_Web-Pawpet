@@ -554,7 +554,7 @@ Berikut adalah penjelasan setiap bagian kode:
 
 -**gambar.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen **"gambar".** Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok **{ ... }** akan dieksekusi.
 
--**if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel** isMirrored** adalah **false.** Jika iya, maka blok kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan dieksekusi.
+-**if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel** isMirrored** adalah **false.** Jika iya, maka blok kode dalam **if** akan dieksekusi; jika tidak, maka blok kode dalam **else** akan dieksekusi.
 
 -**Dalam blok if:**
   -g**ambar.style.transform** **= "scaleX(-1)";**: Ini mengubah properti CSS transform dari elemen "gambar" untuk memutar gambar secara horizontal dengan menggunakan nilai "scaleX(-1)". Ini 
