@@ -552,7 +552,7 @@ Berikut adalah penjelasan setiap bagian kode:
 -**var isMirrored = false;**: Baris ini menginisialisasi variabel **isMirrored** dengan nilai **false**. Variabel ini kemungkinan besar akan digunakan di tempat lain dalam kode untuk melacak status gambar, seperti apakah gambar tersebut dalam keadaan cermin (mirrored) atau tidak. Dengan mengatur nilainya sebagai **false**, itu menunjukkan bahwa pada awalnya gambar tersebut tidak dalam keadaan cermin.
 
 
--**gambar.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen "gambar". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
+-**gambar.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen **"gambar".** Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok **{ ... }** akan dieksekusi.
 
 -**if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel isMirrored adalah false. Jika iya, maka blok kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan dieksekusi.
 
