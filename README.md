@@ -542,7 +542,7 @@ Berikut adalah penjelasan setiap bagian kode:
 
   Berikut adalah penjelasan setiap kode:
 
--**var gambar** **= document.getElementById("gambar");**: Baris ini bertujuan untuk mengambil elemen HTML dengan ID **"gambar"** dari halaman web. ID **"gambar**" adalah atribut yang diberikan kepada elemen HTML (mungkin gambar) dalam kode HTML yang terkait dengan halaman tersebut. Kode ini menggunakan **document.getElementById("gambar")** untuk mengakses elemen tersebut dan menyimpannya dalam variabel gambar. Setelah baris ini dijalankan, gambar akan berisi referensi ke elemen HTML dengan ID "gambar".
+-**var gambar** **= document.getElementById("gambar");**: Baris ini bertujuan untuk mengambil elemen HTML dengan ID **"gambar"** dari halaman web. ID **"gambar**" adalah atribut yang diberikan kepada elemen HTML (mungkin gambar) dalam kode HTML yang terkait dengan halaman tersebut. Kode ini menggunakan **document.getElementById("gambar")** untuk mengakses elemen tersebut dan menyimpannya dalam variabel** gambar.** Setelah baris ini dijalankan, gambar akan berisi referensi ke elemen HTML dengan ID "gambar".
 
 -**var isMirrored = false;**: Baris ini menginisialisasi variabel **isMirrored** dengan nilai false. Variabel ini kemungkinan besar akan digunakan di tempat lain dalam kode untuk melacak status gambar, seperti apakah gambar tersebut dalam keadaan cermin (mirrored) atau tidak. Dengan mengatur nilainya sebagai false, itu menunjukkan bahwa pada awalnya gambar tersebut tidak dalam keadaan cermin.
 
