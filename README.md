@@ -80,8 +80,8 @@ Name	Date	Reason For Changes	Version
 
  
 ## 1.Pendahuluan
-   
-   
+
+
 1.1	Tujuan Penulisan Dokumen
 Tujuan pembuatan website artikel paw pet  antara lain :
 1.Website ini bertujuan untuk memberikan pemilik kucing dan calon pemilik informasi yang bermanfaat. Artikel-artikel informatif kami membantu memahami tentang  kucing, pemilihan makanan yang tepat, dan perawatan kesehatan yang diperlukan.
