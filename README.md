@@ -28,7 +28,7 @@ Table of Contents
 
 [Bab 1. Pendahuluan](#Bab-1-Pendahuluan)
    
-1.1 Tujuan Penulisan Dokumen	1
+[1.1 Tujuan Penulisan Dokumen](#11-Tujuan-Penulisan)
 
 1.2 Audien yang Dituju dan Pembaca yang Disarankan	1
 
@@ -82,7 +82,7 @@ Name	Date	Reason For Changes	Version
 ## Bab 1. Pendahuluan
 
 
-1.1	Tujuan Penulisan Dokumen
+## 1.1 Tujuan Penulisan Dokumen
 Tujuan pembuatan website artikel paw pet  antara lain :
 1.Website ini bertujuan untuk memberikan pemilik kucing dan calon pemilik informasi yang bermanfaat. Artikel-artikel informatif kami membantu memahami tentang  kucing, pemilihan makanan yang tepat, dan perawatan kesehatan yang diperlukan.
 3. Website ini bertujuan untuk memberikan edukasi kepada pemilik kucing. Artikel-artikel kami mengulas perilaku, kebutuhan, dan kesejahteraan kucing, meningkatkan pemahaman tentang perawatan yang tepat.
