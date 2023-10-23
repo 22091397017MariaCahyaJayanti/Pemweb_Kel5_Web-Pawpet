@@ -39,9 +39,9 @@ Table of Contents
 
 - [1.3 Konvensi Dokumen](#13-Konvensi-Dokumen)
 
--[1.4 Lingkup Produk](#14-Lingkup-Produk)	
+- [1.4 Lingkup Produk](#14-Lingkup-Produk)	
 
--[1.5 Refrensi](#15-Refrensi)	
+- [1.5 Refrensi](#15-Refrensi)	
 
 2. Deskripsi Keseluruhan	3
    
@@ -557,20 +557,22 @@ Berikut adalah penjelasan setiap bagian kode:
 -**if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel** isMirrored** adalah **false.** Jika iya, maka blok kode dalam **if** akan dieksekusi; jika tidak, maka blok kode dalam **else** akan dieksekusi.
 
 -**Dalam blok if:**
-  -g**ambar.style.transform** **= "scaleX(-1)";**: Ini mengubah properti CSS transform dari elemen "gambar" untuk memutar gambar secara horizontal dengan menggunakan nilai "scaleX(-1)". Ini 
+  -g**ambar.style.transform** **= "scaleX(-1)";**: Ini mengubah properti CSS transform dari elemen "gambar" untuk memutar gambar secara 
+   horizontal dengan menggunakan nilai **"scaleX(-1)".** Ini 
    efek cermin atau mirroring gambar.
   -**isMirrored = true;**: Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
 
 -**Dalam blok else:**
-  -**gambar.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
+  -**gambar.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai 
+   **"scaleX(1)".**
   -**isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
 
 
 -**var gambar2** = document.getElementById("gambar2");: Baris ini mengambil elemen HTML dengan ID "gambar2" dan menyimpannya dalam variabel gambar2.
 
--**gambar2.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen "gambar2". Ketika elemen ini diklik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
+-**gambar2.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen **"gambar2".** Ketika elemen ini diklik, fungsi yang didefinisikan dalam blok **{ ... }** akan dieksekusi.
 
--**if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel isMirrored adalah false. Jika iya, maka blok kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan dieksekusi.
+-**if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel** isMirrored** adalah **false.** Jika iya, maka blok kode dalam** if** akan dieksekusi**;** jika tidak, maka blok kode dalam **else** akan dieksekusi.
 
 -Dalam blok if:
   -**gambar2.style.transform** = "scaleX(-1)";: Ini mengubah properti CSS transform dari elemen "gambar2" untuk memutar gambar secara horizontal dengan menggunakan nilai "scaleX(-1)". Ini 
