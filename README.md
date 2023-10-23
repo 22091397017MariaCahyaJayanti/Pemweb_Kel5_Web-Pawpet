@@ -540,20 +540,52 @@ Berikut adalah penjelasan setiap bagian kode:
 - ## HOME JS
 
   Berikut adalah penjelasan setiap kode:
+
+
   
--**Document.getElementById**("gambar") dan menyimpannya dalam variabel gambar.
+-var gambar = document.getElementById("gambar");: Kode ini mencari elemen HTML dengan atribut id yang bernilai "gambar" di dalam dokumen. Kemudian, elemen tersebut disimpan dalam variabel gambar. Ini memungkinkan Anda untuk berinteraksi dengan elemen tersebut melalui JavaScript.
 
--**Variabel isMirrored**: digunakan untuk melacak apakah gambar sedang dalam mode "mirror" atau tidak. Awalnya, nilai isMirrored diatur sebagai false.
+-var isMirrored = false;: Kode ini mendefinisikan variabel isMirrored dan menginisialisasinya dengan nilai false. Variabel ini mungkin akan digunakan untuk melacak apakah gambar yang diambil dari elemen dengan ID "gambar" telah dimirroring (dibalikkan) atau tidak.
 
--**Event listener** ditambahkan ke elemen gambar. Event listener ini akan mendengarkan event "click" pada elemen gambar. Ketika gambar di-klik, fungsi yang didefinisikan dalam event listener akan dijalankan.
 
-Fungsi yang dijalankan saat gambar di-klik melakukan tugas berikut:
 
-**1**.Mengecek nilai isMirrored. Jika isMirrored adalah false, maka gambar akan dimirror secara horizontal dengan mengubah properti CSS transform menjadi "**scaleX(-1)**". Ini akan menghasilkan efek mirroring gambar.
+-gambar adalah elemen yang akan diambil dari DOM (Document Object Model) dengan ID "gambar". Ini akan menjadi elemen yang akan diubah animasinya saat di-klik.
 
-**2**.Jika isMirrored adalah true, maka gambar akan dikembalikan ke posisi awal (tanpa mirroring) dengan mengubah properti CSS transform menjadi "**scaleX(1)**".
+-.addEventListener("click", function () {...}) adalah metode yang digunakan untuk menambahkan event listener ke elemen. Dalam hal ini, event listener akan bereaksi terhadap klik pada elemen tersebut.
 
-**3**.Kode yang sama diulang untuk gambar-gambar lainnya seperti **gambar2, gambar3, gambar4, dan gambar5**. Masing-masing gambar memiliki event listener yang sama untuk mengendalikan mirroring saat di-klik.
+-Di dalam fungsi callback, Anda memiliki kondisi if (!isMirrored) yang mengecek apakah variabel isMirrored adalah false. isMirrored mungkin adalah variabel yang digunakan untuk melacak apakah gambar sudah dalam posisi mirror atau tidak.
+
+-Jika isMirrored adalah false, maka gambar akan di-flip horizontal (mirror) dengan mengubah properti transform menggunakan CSS scaleX(-1). Ini akan membuat gambar terlihat seperti cermin.
+
+-Setelah melakukan flip, variabel isMirrored diatur menjadi true untuk mengindikasikan bahwa gambar telah di-mirror.
+
+-Jika isMirrored adalah true (artinya gambar telah di-mirror sebelumnya), maka gambar akan dikembalikan ke posisi awal (tidak mirror) dengan mengatur transform menjadi scaleX(1).
+
+-Terakhir, variabel isMirrored diatur kembali menjadi false, mengindikasikan bahwa gambar sudah tidak dalam posisi mirror lagi.
+
+
+
+-var gambar2 = document.getElementById("gambar2");Ini adalah baris pertama, yang mengambil elemen HTML dengan ID "gambar2" dan menyimpannya dalam variabel gambar2. Ini memungkinkan kita untuk mengakses dan memanipulasi elemen gambar tersebut.
+
+-gambar2.addEventListener("click", function () { Ini adalah event listener yang mendengarkan event "click" pada elemen gambar2. Ketika gambar2 di-klik, kode dalam fungsi anonim (function tanpa nama) akan dijalankan.
+
+-if (!isMirrored) { Ini adalah kondisi if yang memeriksa apakah variabel isMirrored adalah falsy (tidak terdefinisi atau false). Variabel isMirrored digunakan untuk melacak apakah gambar saat ini dalam keadaan mirroring atau tidak.
+
+-gambar2.style.transform = "scaleX(-1)"; Jika isMirrored adalah false, maka gambar2 akan dimirroring dengan mengubah properti transform CSS-nya untuk melakukan scaling horizontal dengan nilai -1. Ini akan membuat gambar diputar secara horizontal (mirroring).
+
+-isMirrored = true; Setelah gambar2 dimirroring, variabel isMirrored diatur ke true untuk menunjukkan bahwa gambar saat ini dalam keadaan mirroring.
+
+- } else { Ini adalah bagian else dari kondisi if. Jika isMirrored adalah true, artinya gambar sedang dalam keadaan mirroring, maka kode di dalam else akan dijalankan.
+
+-gambar2.style.transform = "scaleX(1)"; Kode ini akan mengembalikan gambar ke posisi awal dengan mengubah properti transform CSS-nya untuk melakukan scaling horizontal dengan nilai 1. Ini akan mengembalikan gambar ke posisi semula (tidak mirroring).
+
+-isMirrored = false; Setelah mengembalikan gambar ke posisi awal, variabel isMirrored diatur ke false untuk menunjukkan bahwa gambar saat ini tidak dalam keadaan mirroring.
+
+
+
+
+
+
 
 
 
