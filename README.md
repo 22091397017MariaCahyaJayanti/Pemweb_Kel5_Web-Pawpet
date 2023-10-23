@@ -32,11 +32,11 @@ Table of Contents
 
 - [1.2 Audien yang Dituju dan Pembaca yang Disarankan](#12-Audien-yang-Dituju-dan-Pembaca-yang-Disarankan)
 
-1.3 Konvensi Dokumen	1
+- [1.3 Konvensi Dokumen](#13-Konvensi-Dokumen)
 
-1.4 Lingkup Produk	1
+-[1.4 Lingkup Produk](#14-Lingkup-Produk)	
 
-1.5 Refrensi	2
+-[1.5 Refrensi](#15-Refrensi)	
 
 2. Deskripsi Keseluruhan	3
    
@@ -95,7 +95,7 @@ Dokumen ini ditujukan untuk pengembang website artikel paw pet . SRS ini, dibagi
 2. Membantu menambah literatur dalam bidang artikel. 
 3. Menambah wawasan dan informasi mengenai  pemeliharaan. 
 
-1.3	Konvensi Dokumen
+## 1.3	Konvensi Dokumen
 
 Website yang akan dikembangkan adalah website untuk artikel paw pet  yang dapat digunakan oleh masyarakat untuk  mengetahui informasi tentang kucing secara sprsifk , Paw Pet dapat melakukan hal-hal berikut ini : 
 1. Berisi Konten yang relavan tentang kucing
@@ -105,7 +105,7 @@ Website yang akan dikembangkan adalah website untuk artikel paw pet  yang dapat 
 5. kemudahan berbagi
 6. Informasi Edukasi tentang kucing.
 
-1.4	Lingkup Produk
+## 1.4	Lingkup Produk
 
 Cakupan dari website Daysee ini mulai dari informasi tetang kucing, jenis kucing, perawatan kucing. Jika dikelompokkan berdasarkan keseluruhan maka ruang lingkup Artikel Paw pet dapat dibagi menjadi :
 1. Informasi tentang kucing
@@ -113,7 +113,7 @@ Cakupan dari website Daysee ini mulai dari informasi tetang kucing, jenis kucing
 3. informasi jenis-jenis kucing
 Cakupan dari website artikel  paw pet ini cukup jelas. Oleh karena itu, cakupan ini sangat cukup luas  dan memiliki nilai keindahan dan kebutuhan yang jelas bagi penggunanya.
 
-1.5	Refrensi
+## 1.5	Refrensi
 
 Dokumen ini merujuk pada hasil observasi yang berkaitan dengan kebutuhan dan mencakup data secara umum, diperlukannya dan penulis dokumen berdasarkan pada :
 
