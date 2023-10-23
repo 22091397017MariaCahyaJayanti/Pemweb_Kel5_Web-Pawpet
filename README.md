@@ -30,7 +30,7 @@ Table of Contents
    
 - [1.1 Tujuan Penulisan Dokumen](#11-Tujuan-Penulisan-Dokumen)
 
-1.2 Audien yang Dituju dan Pembaca yang Disarankan	1
+- [1.2 Audien yang Dituju dan Pembaca yang Disarankan](#12-Audien-yang-Dituju-dan-Pembaca-yang-Disarankan)
 
 1.3 Konvensi Dokumen	1
 
@@ -88,7 +88,7 @@ Tujuan pembuatan website artikel paw pet  antara lain :
 1.Website ini bertujuan untuk memberikan pemilik kucing dan calon pemilik informasi yang bermanfaat. Artikel-artikel informatif kami membantu memahami tentang  kucing, pemilihan makanan yang tepat, dan perawatan kesehatan yang diperlukan.
 3. Website ini bertujuan untuk memberikan edukasi kepada pemilik kucing. Artikel-artikel kami mengulas perilaku, kebutuhan, dan kesejahteraan kucing, meningkatkan pemahaman tentang perawatan yang tepat.
     
-1.2	Audien yang Dituju dan Pembaca yang Disarankan
+## 1.2	Audien yang Dituju dan Pembaca yang Disarankan
 
 Dokumen ini ditujukan untuk pengembang website artikel paw pet . SRS ini, dibagi menjadi beberapa bagian, antara lain :
 1. Pengembang website yang ingin mencari informasi tentang kucing. 
