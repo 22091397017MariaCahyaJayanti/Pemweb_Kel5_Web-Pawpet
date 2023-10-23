@@ -28,7 +28,7 @@ Table of Contents
 
 - [Bab 1. Pendahuluan](#Bab-1-Pendahuluan)
    
-- [1.1 Tujuan Penulisan Dokumen](#11-Tujuan-Penulisan)
+- [1.1 Tujuan Penulisan Dokumen](#11-Tujuan-Penulisan-Dokumen)
 
 1.2 Audien yang Dituju dan Pembaca yang Disarankan	1
 
