@@ -26,7 +26,7 @@ UNIVERSITAS NEGERI SURABAYA
  
 Table of Contents
 
-[1.Pendahuluan](#1-Pendahuluan-)
+[Bab 1. Pendahuluan](#Bab-1-Pendahuluan)
    
 1.1 Tujuan Penulisan Dokumen	1
 
@@ -79,7 +79,7 @@ Name	Date	Reason For Changes	Version
 
 
  
-## 1.Pendahuluan
+## Bab 1. Pendahuluan
 
 
 1.1	Tujuan Penulisan Dokumen
