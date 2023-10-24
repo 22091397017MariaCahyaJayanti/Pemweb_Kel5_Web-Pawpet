@@ -777,6 +777,7 @@ Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bag
 - **gambar6.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
 - **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
 
+- ![c49c7b86-c984-4ef8-ac99-befbdece0ebe](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124496474/dfd5fa3c-0d40-4de7-974e-7e322d760958)
 
 
 - **var gambar7 = document.getElementById("gambar7");**: Kode ini mengambil elemen HTML dengan ID "gambar7" dan menyimpannya dalam variabel gambar7. Ini memungkinkan Anda untuk mengakses dan memanipulasi elemen ini melalui JavaScript.
@@ -794,6 +795,10 @@ Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bag
 
 ## JAVA SCRIPTS ABOUT ( ABOUT.Js )
 Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bagian kode:
+
+- <img width="340" alt="js about" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124496474/82ce3d56-243b-4789-9e2f-b4516ad12a64">
+
+
 - **var gambar = document.getElementById("gambar");** : Kode ini  mendefinisikan variabel 'gambar' dan mengambil elemen HTML dengan ID "gambar" dari halaman.
 - **var isMirrored = false;** : Ini mendefinisikan variabel 'isMirrored' yang digunakan untuk melacak apakah gambar saat ini sudah terbalik (mirrored) atau tidak. Pada awalnya, variabel ini diatur sebagai 'false' karena gambar belum terbalik.
 - **gambar.addEventListener("click", function () {** : Ini menambahkan sebuah event listener pada gambar yang akan menangani peristiwa saat gambar di-klik. Ketika gambar di-klik, fungsi di bawah ini akan dijalankan.
