@@ -1,6 +1,11 @@
 # Pemweb_Kel5_Web-Pawpet
-Web Pawpet ( Html + Css)
-# SRS
+Web Pawpet (SRS + Html + Css + Js)
+Daftar Isi
+- [SRS](#SRS)
+- [Laporan Penjelasan Code](#Laporan-Penjelasan-Code)
+
+
+## SRS
 
 Software Requirements Specification
 for
@@ -29,7 +34,7 @@ UNIVERSITAS NEGERI SURABAYA
 
 02 OCTOBER 2023
  
-Table of Contents
+Daftar Isi
 
 - [Bab 1. Pendahuluan](#Bab-1-Pendahuluan)
    
@@ -201,7 +206,7 @@ Website Paw Pet  ini menyediakan dokumentasi pengguna yang mudah diakses bagi pe
 
 ## Bab 4. Deskripsi Keseluruhan
    
-## Bab 4.1 Home
+## 4.1 Home
 
 4.1.1	Deskripsi dan Prioritas 
 
@@ -260,8 +265,9 @@ Data Flow Diagram (DFD) Level 2
 
  ![dfd 2](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/95a9c3dd-f73c-4829-9985-2b9bab4fbcb5)
 
-# Penjelasan HTML & CSS
-# HTML HOME
+## Laporan Penjelasan Code
+
+# HTML HOME (index.Html)
 
 -	<img width="307" alt="1" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/4050cee9-04b5-4abf-8baa-2d39b94a212d">
 
@@ -299,7 +305,7 @@ Data Flow Diagram (DFD) Level 2
 
   - `<footer>`: Ini adalah elemen yang digunakan untuk menampilkan footer atau bagian akhir dari halaman web. Pada bagian footer ini, ada teks "©2023 Kelompok 5" yang menunjukkan hak cipta tahun 2023 oleh Kelompok 5.  
 
-# HTML ABOUT
+# HTML ABOUT ( About.Html )
 
 - `<!DOCTYPE html>`: Ini adalah deklarasi tipe dokumen (Document Type Declaration atau DOCTYPE) yang mengindikasikan bahwa halaman ini merupakan dokumen HTML. Ini adalah bagian yang penting karena memberi tahu browser bahwa dokumen ini adalah dokumen HTML.
 - `<html>`: Ini adalah elemen root (akar) dari halaman web. Semua elemen HTML berada di dalam elemen `<html>` ini. Ini juga menandakan awal dari dokumen HTML.
@@ -318,7 +324,7 @@ Data Flow Diagram (DFD) Level 2
   - `<ol>`: Ini adalah elemen daftar terurut (ordered list) yang digunakan untuk membuat daftar item berurutan.
   - `<footer>`: Ini adalah elemen yang digunakan untuk menampilkan footer atau bagian ak
 
-# HTML CARE
+# HTML CARE (Care.Html)
 
 - `<!DOCTYPE html>`: Deklarasi tipe dokumen (Document Type Declaration atau DOCTYPE) yang mengindikasikan bahwa halaman ini merupakan dokumen HTML. Memberi tahu browser bahwa ini adalah dokumen HTML.
 - `<html>`: Elemen root (akar) dari halaman web. Semua elemen HTML berada di dalam elemen `<html>` ini. Ini menandakan awal dari dokumen HTML.
@@ -338,7 +344,7 @@ Data Flow Diagram (DFD) Level 2
   - `<h2>`: Elemen heading level 2 yang digunakan untuk menampilkan subjudul yang menjelaskan setiap poin atau tip dalam panduan perawatan kucing.
   - `<footer>`: Elemen yang digunakan untuk menampilkan footer atau bagian akhir dari halaman web. Pada bagian footer ini, ada teks "©2023 Kelompok 5" yang menunjukkan hak cipta tahun 2023 oleh Kelompok 5.
 
-# HTML CONTACT
+# HTML CONTACT ( Contact.Html )
 
 - `<!DOCTYPE html>`: Deklarasi tipe dokumen (Document Type Declaration atau DOCTYPE) yang mengindikasikan bahwa halaman ini merupakan dokumen HTML. Memberi tahu browser bahwa ini adalah dokumen HTML.
 - `<html>`: Elemen root (akar) dari halaman web. Semua elemen HTML berada di dalam elemen `<html>` ini. Ini menandakan awal dari dokumen HTML.
@@ -358,13 +364,13 @@ Data Flow Diagram (DFD) Level 2
   - `<h2>`: Elemen heading level 2 yang digunakan untuk menampilkan subjudul yang mengidentifikasi formulir kontak.
   - `<form>`: Elemen formulir yang digunakan untuk membuat formulir kontak. Atribut action menunjukkan URL tempat formulir akan dikirimkan saat disubmit, dan atribut method menentukan metode pengiriman data (POST dalam hal ini).
     - `<label>`: Elemen label yang digunakan untuk menunjukkan label atau instruksi untuk setiap elemen input dalam formulir.
-    - `<input>`: Elemen input yang digunakan untuk mengumpulkan data dari pengguna, seperti nama, email, subjek, dan pesan. A
+    - `<input>`: Elemen input yang digunakan untuk mengumpulkan data dari pengguna, seperti nama, email, subjek, dan pesan. 
     - `<input>`: Elemen input yang digunakan untuk mengumpulkan data dari pengguna, seperti nama, email, subjek, dan pesan. Atribut type menentukan jenis input, seperti teks atau email, dan atribut name memberikan nama untuk setiap input.
     - `<textarea>`: Elemen textarea yang digunakan untuk mengumpulkan teks panjang, seperti pesan dari pengguna.
     - `<input type="submit">`: Elemen input dengan tipe "submit," yang digunakan untuk mengirimkan formulir saat tombol "Kirim" ditekan.
   - `<footer>`: Elemen yang digunakan untuk menampilkan footer atau bagian akhir dari halaman web. Pada bagian footer ini, ada teks "©2023 Kelompok 5" yang menunjukkan hak cipta tahun 2023 oleh Kelompok 5.
 
-# HTML THANKSS
+# HTML THANKS (Thanks.Html)
 
 - `<!DOCTYPE html>`: Deklarasi tipe dokumen (Document Type Declaration atau DOCTYPE) yang mengindikasikan bahwa halaman ini merupakan dokumen HTML. Memberi tahu browser bahwa ini adalah dokumen HTML.
 - `<html>`: Elemen root (akar) dari halaman web. Semua elemen HTML berada di dalam elemen `<html>` ini. Ini menandakan awal dari dokumen HTML.
@@ -376,7 +382,7 @@ Data Flow Diagram (DFD) Level 2
   - `<h1>`: Elemen heading level 1 yang digunakan untuk menampilkan judul besar di halaman web. Dalam hal ini, judulnya adalah "Terima Kasih, Pesan Anda Telah Tersampaikan."
   - `<a>`: Elemen anchor (tautan) yang digunakan untuk membuat tautan ke halaman lain. Tautan ini mengarah ke halaman "Contact.html," yang memungkinkan pengguna untuk kembali ke halaman kontak. Atribut href digunakan untuk menentukan URL halaman yang akan ditautkan.
 
-## CSS HOME 
+## CSS HOME ( Home.css )
 
 Berikut adalah penjelasan singkat tentang setiap bagian kode:
 
@@ -394,7 +400,7 @@ Berikut adalah penjelasan singkat tentang setiap bagian kode:
 
 - **Elemen Footer**: Bagian ini mengatur tampilan elemen footer di halaman. Footer tetap berada di bagian bawah halaman dan memiliki warna latar belakang putih dengan teks warna putih.
 
-## CSS ABOUT 
+## CSS ABOUT (About.css)
 
 Berikut adalah ringkasan penjelasan setiap bagian kode:
 
@@ -412,7 +418,7 @@ Berikut adalah ringkasan penjelasan setiap bagian kode:
 
 - **Elemen Footer**: Bagian ini mengatur tampilan elemen footer di halaman. Footer tetap berada di bagian bawah halaman dan memiliki warna latar belakang putih dengan teks warna putih.
 
-## CSS CARE 
+## CSS CARE ( Care.css )
 
 Berikut adalah ringkasan penjelasan setiap bagian kode:
 
@@ -438,18 +444,18 @@ Berikut adalah ringkasan penjelasan setiap bagian kode:
 
 - **Z-Index Navigasi**: Properti ini memastikan elemen navigasi tampil di atas elemen lainnya dengan memberikan z-index tinggi.
 
-- **Styling Daftar (ul)**: Bagian ini mengatur tampilan elemen <ul> dalam elemen navigasi, termasuk menghilangkan tanda listing dan mengatur teks menjadi rata tengah.
-<img width="307" alt="1" 
+- **Styling Daftar (ul)**: Bagian ini mengatur tampilan elemen `<ul>` dalam elemen navigasi, termasuk menghilangkan tanda listing dan mengatur teks menjadi rata tengah. <img width="307" alt="1"
 
-- **Styling Elemen Daftar (li)**: Properti ini mengatur tampilan elemen <li> dalam elemen <ul> dengan mengatur mereka menjadi inline-block dan menambahkan margin dan tinggi garis.
+- **Styling Elemen Daftar (li)**: Properti ini mengatur tampilan elemen `<li>` dalam elemen `<ul>` dengan mengatur mereka menjadi inline-block dan menambahkan margin dan tinggi garis.
 
-- **Styling Tautan (a)**: Properti ini mengatur tampilan tautan dalam elemen <li>, termasuk warna teks dan penghapusan garis bawah.
+- **Styling Tautan (a)**: Properti ini mengatur tampilan tautan dalam elemen `<li>`, termasuk warna teks dan penghapusan garis bawah.
 
 - **Hover Tautan**: Properti ini mengatur tampilan tautan saat dihover dengan mengubah warna teks menjadi hitam.
 
-## CSS CONTACT 
 
- Berikut adalah penjelasan setiap bagian kode:
+## CSS CONTACT ( Contact.css )
+
+Berikut adalah penjelasan setiap bagian kode:
 
 - **Reset Default Styles**: Bagian ini mereset beberapa properti CSS ke nilai defaultnya pada semua elemen HTML, menghindari perubahan tak terduga pada tampilan elemen.
 
@@ -491,7 +497,7 @@ Berikut adalah ringkasan penjelasan setiap bagian kode:
 
 - **Margin Atas pada Container**: Properti ini memberikan margin atas sebesar 70px pada container untuk menghindari tabrakan dengan elemen navigasi.
 
-## CSS THANKS 
+## CSS THANKS ( Thanks.css )
 
 Berikut adalah penjelasan setiap bagian kode:
 
@@ -520,7 +526,7 @@ Berikut adalah penjelasan setiap bagian kode:
 - **Tinggi Body**: Properti ini mengatur tinggi elemen body menjadi 100% dari tinggi viewport (tinggi tampilan browser), sehingga elemen-elemen di dalamnya akan selalu berada di tengah vertikal halaman.
 
 - **Heading 1 (h1)**: Ini adalah selektor yang mengatur gaya untuk elemen heading level 1.
-  
+
 - **Ukuran Font H1**: Properti ini mengatur ukuran font teks pada elemen h1 menjadi 32 piksel.
   
 - **Margin Bawah H1**: Properti ini menambahkan margin bawah sebesar 20 piksel pada elemen h1, yang akan memberikan jarak antara elemen h1 dengan elemen-elemen di bawahnya.
@@ -547,183 +553,124 @@ Berikut adalah penjelasan setiap bagian kode:
 
 - **Warna Latar Belakang Tautan Hover**: Properti ini mengatur warna latar belakang tautan menjadi ungu tua yang lebih gelap (#6c3483) saat tautan dihover oleh kursor mouse..
 
-- ## HOME JS
+## JAVA SCRIPTS HOME ( Home.Js )
+Terdapat 2 Js dihalaman Home. Js ke 1 menjelasakan mirroring untuk setiap gambar. Berikut adalah penjelasan Js ke 1 disetiap kode:
+- **var gambar = document.getElementById("gambar");**: Baris ini bertujuan untuk mengambil elemen HTML dengan ID 'gambar' dari halaman web. ID 'gambar' adalah atribut yang diberikan kepada elemen HTML dalam kode HTML yang terkait dengan halaman tersebut. Kode ini menggunakan *document.getElementById("gambar")* untuk mengakses elemen tersebut dan menyimpannya dalam variabel 'gambar. Setelah baris ini dijalankan, gambar akan berisi referensi ke elemen HTML dengan ID 'gambar'.
+- **var isMirrored = false;**: Baris ini menginisialisasi variabel 'isMirrored' dengan nilai 'false'. Variabel ini kemungkinan besar akan digunakan di tempat lain dalam kode untuk melacak status gambar, seperti apakah gambar tersebut dalam keadaan cermin (mirrored) atau tidak. Dengan mengatur nilainya sebagai 'false', itu menunjukkan bahwa pada awalnya gambar tersebut tidak dalam keadaan cermin.
+- **gambar.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen 'gambar' Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok '{ ... }' akan dieksekusi.
+- **if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel 'isMirrored' adalah 'false.' Jika iya, maka blok kode dalam 'if' akan dieksekusi; jika tidak, maka blok kode dalam 'else' akan dieksekusi.
+- **Dalam blok if:**
+- **gambar.style.transform = "scaleX(-1)";**: Ini mengubah properti CSS transform dari elemen "gambar" untuk memutar gambar secara horizontal dengan menggunakan nilai 'scaleX(-1)'.Ini efek cermin atau mirroring gambar.
+- **isMirrored = true;**: Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
+- **Dalam blok else:**
+- **gambar.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
+- **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
 
-  Berikut adalah penjelasan setiap kode:
+- **var gambar2 = document.getElementById("gambar2");** : Baris ini mengambil elemen HTML dengan ID "gambar2" dan menyimpannya dalam variabel gambar2.
+- **gambar2.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen 'gambar2'. Ketika elemen ini diklik, fungsi yang didefinisikan dalam blok **{ ... }** akan dieksekusi.
+- **if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel 'isMirrored' adalah 'false.' Jika iya, maka blok kode dalam 'if' akan dieksekusi ';' jika tidak, maka blok kode dalam 'else' akan dieksekusi.
+- **Dalam blok if:**
+- **gambar2.style.transform** = "scaleX(-1)";: Ini mengubah properti CSS transform dari elemen "gambar2" untuk memutar gambar secara horizontal dengan menggunakan nilai "scaleX(-1)". Ini menciptakan efek cermin atau mirroring gambar.
+- **isMirrored = true;**: Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
+- **Dalam blok else:**
+- **gambar2.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
+- **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
 
--**var gambar** **= document.getElementById("gambar");**: Baris ini bertujuan untuk mengambil elemen HTML dengan ID **"gambar"** dari halaman web. ID **"gambar**" adalah atribut yang diberikan kepada elemen HTML (mungkin gambar) dalam kode HTML yang terkait dengan halaman tersebut. Kode ini menggunakan **document.getElementById("gambar")** untuk mengakses elemen tersebut dan menyimpannya dalam variabel** gambar.** Setelah baris ini dijalankan, gambar akan berisi referensi ke elemen HTML dengan ID "gambar".
-
--**var isMirrored = false;**: Baris ini menginisialisasi variabel **isMirrored** dengan nilai **false**. Variabel ini kemungkinan besar akan digunakan di tempat lain dalam kode untuk melacak status gambar, seperti apakah gambar tersebut dalam keadaan cermin (mirrored) atau tidak. Dengan mengatur nilainya sebagai **false**, itu menunjukkan bahwa pada awalnya gambar tersebut tidak dalam keadaan cermin.
-
-
--**gambar.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen **"gambar".** Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok **{ ... }** akan dieksekusi.
-
--**if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel** isMirrored** adalah **false.** Jika iya, maka blok kode dalam **if** akan dieksekusi; jika tidak, maka blok kode dalam **else** akan dieksekusi.
-
--**Dalam blok if:**
-  -g**ambar.style.transform** **= "scaleX(-1)";**: Ini mengubah properti CSS transform dari elemen "gambar" untuk memutar gambar secara 
-   horizontal dengan menggunakan nilai **"scaleX(-1)".** Ini 
-   efek cermin atau mirroring gambar.
-  -**isMirrored = true;**: Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
-
--**Dalam blok else:**
-  -**gambar.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai 
-   **"scaleX(1)".**
-  -**isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
-
-
--**var gambar2** = document.getElementById("gambar2");: Baris ini mengambil elemen HTML dengan ID "gambar2" dan menyimpannya dalam variabel gambar2.
-
--**gambar2.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen **"gambar2".** Ketika elemen ini diklik, fungsi yang didefinisikan dalam blok **{ ... }** akan dieksekusi.
-
--**if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel** isMirrored** adalah **false.** Jika iya, maka blok kode dalam** if** akan dieksekusi**;** jika tidak, maka blok kode dalam **else** akan dieksekusi.
-
--Dalam blok if:
-  -**gambar2.style.transform** = "scaleX(-1)";: Ini mengubah properti CSS transform dari elemen "gambar2" untuk memutar gambar secara horizontal dengan menggunakan nilai "scaleX(-1)". Ini 
-   menciptakan efek cermin atau mirroring gambar.
-  -**isMirrored = true;**: Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
-
--Dalam blok else:
-  -**gambar2.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
-  -**isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
-
-
--**var gambar3 = document.getElementById("gambar3");**: Baris ini mengambil elemen HTML dengan ID "gambar3" dan menyimpannya dalam variabel gambar3.
-
--**gambar3.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen "gambar3". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
-
--**if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel isMirrored adalah false. Jika iya, maka blok kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan dieksekusi.
-
--Dalam blok if:
-  -**gambar3.style.transform = "scaleX(-1)";**: Ini mengubah properti CSS transform dari elemen "gambar3" untuk memutar gambar secara horizontal (mirroring) dengan menggunakan nilai 
-   "scaleX(-1)".
-  -**isMirrored = true;**: Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
-
--Dalam blok else:
-  -**gambar3.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
-  -**isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
-
-
--**var gambar4 = document.getElementById("gambar4");**: Baris ini mengambil elemen HTML dengan ID "gambar4" dan menyimpannya dalam variabel gambar4.
-
--**gambar4.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen "gambar4". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
-
--**if (!isMirrored) { ... } else { ... }**: Ini adalah kondisional yang memeriksa apakah variabel isMirrored adalah false. Jika iya, maka blok kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan dieksekusi.
-
--Dalam blok if:
-  -**gambar4.style.transform = "scaleX(-1)";**: Ini mengubah properti CSS transform dari elemen "gambar4" untuk memutar gambar secara horizontal dengan menggunakan nilai 
-   "scaleX(-1)". Ini efek cermin atau mirroring gambar.
-  -**isMirrored = true;**: Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
+- **var gambar3 = document.getElementById("gambar3");**: Baris ini mengambil elemen HTML dengan ID "gambar3" dan menyimpannya dalam variabel gambar3.
+- **gambar3.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen "gambar3". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
+- **if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel isMirrored adalah false. Jika iya, maka blok kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan dieksekusi.
+- **Dalam blok if:**
+- **gambar3.style.transform = "scaleX(-1)";**: Ini mengubah properti CSS transform dari elemen "gambar3" untuk memutar gambar secara horizontal (mirroring) dengan menggunakan nilai "scaleX(-1)".
+- **isMirrored = true;**: Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
+- **Dalam blok else:**
+- **gambar3.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
+- **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
   
--Dalam blok else:
-  -**gambar4.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
-  -**isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring
+- **var gambar4 = document.getElementById("gambar4");**: Baris ini mengambil elemen HTML dengan ID "gambar4" dan menyimpannya dalam variabel gambar4.
+- **gambar4.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen "gambar4". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
+- **if (!isMirrored) { ... } else { ... }**: Ini adalah kondisional yang memeriksa apakah variabel isMirrored adalah false. Jika iya, maka blok kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan dieksekusi.
+- **Dalam blok if:**
+- **gambar4.style.transform = "scaleX(-1)";**: Ini mengubah properti CSS transform dari elemen "gambar4" untuk memutar gambar secara horizontal dengan menggunakan nilai "scaleX(-1)". Ini efek cermin atau mirroring gambar.
+- **isMirrored = true;**: Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
+- Dalam blok else:
+- **gambar4.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
+- **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring
+
+- **var gambar5 = document.getElementById("gambar5");**: Baris ini mengambil elemen HTML dengan ID "gambar5" dan menyimpannya dalam variabel gambar5. Ini memungkinkan kita untuk berinteraksi dengan elemen tersebut menggunakan JavaScript.
+- **gambar5.addEventListener("click", function () { ... });**: Ini adalah event listener yang ditambahkan ke elemen "gambar5". Event listener ini akan menjalankan fungsi yang didefinisikan dalam blok { ... } ketika elemen "gambar5" diklik.
+- **Dalam fungsi event listener:**
+- **if (!isMirrored) { ... } else { ... }**: Ini adalah pernyataan kondisional yang memeriksa apakah variabel isMirrored adalah false. Jika kondisi ini benar (artinya, gambar tidak sedang dalam keadaan mirrored), maka blok kode dalam if akan dieksekusi. Jika kondisi ini salah (artinya, gambar sudah dalam keadaan mirrored), maka blok kode dalam else akan dieksekusi.
+- **Dalam blok if:**
+- **gambar5.style.transform = "scaleX(-1)";**: Baris ini mengubah properti CSS transform dari elemen "gambar5" untuk mencapai efek cermin (mirroring) horizontal dengan menggunakan nilai "scaleX(-1)".
+- **isMirrored = true;**: Ini mengatur variabel isMirrored menjadi true untuk menandakan bahwa gambar sekarang dalam keadaan mirrored.
+- **Dalam blok else:**
+- **gambar5.style.transform = "scaleX(1)";**: Baris ini mengatur properti CSS transform kembali ke nilai awalnya (tanpa mirroring) dengan menggunakan "scaleX(1)".
+- **isMirrored = false;**: Ini mengatur variabel isMirrored menjadi false untuk menandakan bahwa gambar sekarang dalam keadaan non-mirrored.
+
+**Js ke 2 menjelasakan fungsi untuk menyembunyikan paragraf yang lebih dari 1 paragraf. Berikut adalah penjelasan Js ke 2 disetiap kode:**
+
+- **document.querySelectorAll("section p")**: Baris ini menggunakan metode querySelectorAll untuk mencari dan mengumpulkan semua elemen paragraf (<p>) yang berada di dalam elemen "section" dalam dokumen HTML. Ini menghasilkan nodelist (kumpulan elemen) dari semua elemen paragraf yang sesuai.
+- **.forEach((p, index) => { ... })**: Metode .forEach digunakan untuk melakukan iterasi (perulangan) pada setiap elemen dalam nodelist yang ditemukan dalam langkah sebelumnya. Dalam setiap iterasi, sebuah fungsi yang didefinisikan di dalam tanda kurung kurawal { ... } akan dieksekusi.
+- **Dalam fungsi yang dieksekusi pada setiap iterasi:**
+- **if (index > 0) { ... }**: Kondisi ini memeriksa indeks (posisi) dari elemen paragraf dalam nodelist. Indeks dimulai dari 0 untuk elemen pertama, 1 untuk elemen kedua, dan seterusnya. Oleh karena itu, jika indeks index lebih besar dari 0 (yang berarti elemen paragraf bukan yang pertama), maka blok kode dalam if akan dieksekusi.
+- **p.style.display = "none";**: Jika kondisi dalam if terpenuhi, maka properti CSS display dari elemen paragraf (p) akan diatur menjadi "none". Ini akan membuat elemen paragraf tersebut menjadi tidak terlihat atau disembunyikan di halaman web.
+- **Document.querySelectorAll("section").forEach((section, index) => { ... });**: Ini adalah blok kode yang memilih semua elemen HTML dengan tag `<section>` dan mengulangi setiap elemen menggunakan forEach. Dalam setiap iterasi, section adalah elemen `<section>` saat ini, dan index adalah indeks iterasi.
+- **const paragraphs = section.querySelectorAll("p");**: Ini adalah langkah berikutnya yang mencari semua elemen `<p>` yang ada dalam elemen <section> saat ini dan menyimpannya dalam variabel 'paragraphs'.
+- **if (paragraphs.length > 1) { ... }**: Kode ini memeriksa apakah ada lebih dari satu elemen `<p>` dalam elemen '<section>' saat ini. Jika ya, maka kode akan melanjutkan untuk menambahkan tombol '"See More"'.
+- **const firstParagraph = paragraphs[0];**: Ini adalah langkah yang mengambil elemen pertama dari array 'paragraphs' dan menyimpannya dalam variabel 'firstParagraph'.
+- **paragraphs.forEach((p, i) => { ... });**: Dalam langkah ini, kode mengulangi semua elemen `<p>` dalam array 'paragraphs.' Untuk setiap elemen, ia mengatur gaya CSS display menjadi 'block" jika 'i' (indeks iterasi) kurang dari atau sama dengan 0, yang berarti hanya elemen pertama yang ditampilkan, sedangkan elemen lain akan memiliki gaya display "none".
+- **const seeMoreButton = document.createElement("button");**: Ini adalah langkah yang membuat elemen tombol baru dengan menggunakan *document.createElement("button")* dan menyimpannya dalam variabel 'seeMoreButton.'
+- **seeMoreButton.textContent = "See More";**: Kode ini mengatur teks yang akan ditampilkan pada tombol "See More".
+- **seeMoreButton.classList.add("see-more-button");**: Kode ini menambahkan kelas CSS "see-more-button" ke tombol. Anda dapat menggunakan kelas ini untuk mengubah gaya tombol sesuai keinginan Anda.
+- **seeMoreButton.style.border = "none";**: Ini menghapus garis hitam di sekitar tombol dengan mengatur properti CSS border menjadi "none".
+- **firstParagraph.insertAdjacentElement("afterend", seeMoreButton);**: Kode ini menyisipkan tombol "See More" setelah elemen pertama dalam elemen '<section>' menggunakan insertAdjacentElement.
+- **seeMoreButton.addEventListener("click", () => { ... });**: Kode ini menambahkan event listener pada tombol "See More".** Ketika tombol ini diklik, sebuah fungsi anonim dijalankan.
+- **paragraphs.forEach((p, i) => { ... });** akan mengubah gaya CSS  'display' untuk semua elemen `<p>` dalam elemen `<section>` menjadi "block", sehingga semua teks akan ditampilkan.
+- **seeMoreButton.style.display = "none";** : akan menyembunyikan tombol "See More" setelah teks penuh ditampilkan.
 
 
--**var gambar5 = document.getElementById("gambar5");**: Baris ini mengambil elemen HTML dengan ID "gambar5" dan menyimpannya dalam variabel gambar5. Ini memungkinkan kita untuk berinteraksi dengan elemen tersebut menggunakan JavaScript.
+## JAVA SCRIPTS CARE ( Care.Js )
+Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bagian kode:
+-**var gambar = document.getElementById("gambar");**: Kode ini mengambil elemen HTML dengan ID "gambar" dan menyimpannya dalam variabel 'gambar'. Ini memungkinkan Anda untuk mengakses dan memanipulasi elemen gambar tersebut melalui kode JavaScript.
+- **var isMirrored = false;: Variabel isMirrored**:digunakan untuk melacak status gambar, apakah sudah dalam keadaan mirrored atau tidak. Pada awalnya, variabel ini diatur ke false yang menunjukkan gambar tidak dalam keadaan mirrored.
+- **gambar.addEventListener("click", function () { ... });**: Ini adalah blok kode yang menambahkan event listener pada elemen gambar. Ketika elemen ini diklik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
+- **Dalam blok event listener:**
+ -**if (!isMirrored) { ... }**: Kondisi ini memeriksa apakah variabel isMirrored adalah false. Jika iya, maka blok kode dalam if akan dieksekusi, yang berarti gambar akan di-mirror (flip horizontal).
+- **Dalam blok if:**
+- **gambar.style.transform = "scaleX(-1)";**: Ini adalah pernyataan yang mengubah properti CSS transform dari elemen gambar untuk melakukan flipping horizontal dengan menggunakan nilai "scaleX(-1)". Ini menciptakan efek cermin gambar.
+- **isMirrored = true;**: Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirrored.
+- else { ... }**: Jika kondisi if tidak terpenuhi (artinya gambar sudah mirrored), maka blok kode dalam 'else' akan dieksekusi.
+- **Dalam blok else:**
+- **gambar.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirror) dengan menggunakan nilai "scaleX(1)".
+- **isMirrored = false;**: Variabel isMirrored diatur menjadi 'false' untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirrored.
 
--**gambar5.addEventListener("click", function () { ... });**: Ini adalah event listener yang ditambahkan ke elemen "gambar5". Event listener ini akan menjalankan fungsi yang didefinisikan dalam blok { ... } ketika elemen "gambar5" diklik.
+- **var gambar2 = document.getElementById("gambar2");**: Baris ini mengambil elemen HTML dengan ID "gambar2" dan menyimpannya dalam variabel gambar2. Ini memungkinkan kita untuk merujuk elemen ini dalam kode berikutnya.
+- **gambar2.addEventListener("click", function () { ... });**: Kode ini menambahkan event listener ke elemen "gambar2". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok '{ ... }' akan dieksekusi.
+- **if (!isMirrored) { ... } else { ... }**: Ini adalah struktur pengkondisian yang memeriksa apakah variabel 'isMirrored' adalah false.**** Variabel ini mungkin didefinisikan di tempat lain dalam kode atau di luar dari fragmen yang Anda berikan. Jika 'isMirrored' adalah 'false',maka kode dalam blok 'if' akan dieksekusi ';' jika tidak, kode dalam blok 'else' yang dieksekusi.
+- **Dalam blok if:**
+- **gambar2.style.transform = "scaleX(-1)";**: Ini adalah bagian yang mengubah properti CSS transform dari elemen "gambar2" untuk menciptakan efek cermin horizontal. Nilai "scaleX(-1)" menghasilkan efek ini.
+- **isMirrored = true;**: Variabel 'isMirrored' diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
+- **Dalam blok else:**
+- **gambar2.style.transform = "scaleX(1)";**: Ini adalah bagian yang mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai** "scaleX(1**)".
+- **isMirrored = false;**: Variabel 'isMirrored' diatur menjadi 'false' untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
 
--Dalam fungsi event listener:
-  -**if (!isMirrored) { ... } else { ... }**: Ini adalah pernyataan kondisional yang memeriksa apakah variabel isMirrored adalah false. Jika kondisi ini benar (artinya, 
-   gambar tidak sedang dalam keadaan mirrored), maka blok kode dalam if akan dieksekusi. Jika kondisi ini salah (artinya, gambar sudah dalam keadaan mirrored), maka 
-   blok kode dalam else akan dieksekusi.
-  -Dalam blok if:
-   -**gambar5.style.transform = "scaleX(-1)";**: Baris ini mengubah properti CSS transform dari elemen "gambar5" untuk mencapai efek cermin (mirroring) horizontal dengan 
-     menggunakan nilai "scaleX(-1)".
-   -**isMirrored = true;**: Ini mengatur variabel isMirrored menjadi true untuk menandakan bahwa gambar sekarang dalam keadaan mirrored.
-  -Dalam blok else:
-   -**gambar5.style.transform = "scaleX(1)";**: Baris ini mengatur properti CSS transform kembali ke nilai awalnya (tanpa mirroring) dengan menggunakan "scaleX(1)".
-   -**isMirrored = false;**: Ini mengatur variabel isMirrored menjadi false untuk menandakan bahwa gambar sekarang dalam keadaan non-mirrored.
+- **var gambar3 = document.getElementById("gambar3");**: Kode ini mengambil elemen HTML dengan ID "gambar3" dan menyimpannya dalam variabel 'gambar3'.Ini memungkinkan kita untuk mengakses dan memanipulasi elemen ini melalui JavaScript.
+- **gambar3.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener ke elemen "gambar3". Ini berarti ketika elemen ini diklik, fungsi yang didefinisikan dalam blok '{ ... }' akan dieksekusi.
+- **if (!isMirrored) { ... } else { ... }**: Ini adalah pernyataan kondisional yang memeriksa apakah variabel 'isMirrored' adalah 'false'. Variabel ini digunakan untuk melacak apakah gambar saat ini sedang dalam keadaan cermin (mirrored) atau tidak.
+- **Dalam blok if:**
+- **gambar3.style.transform = "scaleX(-1)";**: Ini adalah pernyataan yang mengubah properti CSS transform pada elemen "gambar3". Ini akan memutar gambar secara horizontal (mirror) dengan menggunakan nilai "scaleX(-1)".
+- **isMirrored = true;**: Setelah efek mirroring diterapkan, variabel 'isMirrored' diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
+- **Dalam blok else:**
+- **gambar3.style.transform = "scaleX(1)";**: Ini adalah pernyataan yang mengembalikan gambar ke posisi semula (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
+- **isMirrored = false;**: Variabel 'isMirrored' diatur kembali menjadi 'false' untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
 
--**document.querySelectorAll("section p")**: Baris ini menggunakan metode querySelectorAll untuk mencari dan mengumpulkan semua elemen paragraf (<p>) yang berada di dalam 
- elemen "section" dalam dokumen HTML. Ini menghasilkan nodelist (kumpulan elemen) dari semua elemen paragraf yang sesuai.
-
--**.forEach((p, index) => { ... })**: Metode .forEach digunakan untuk melakukan iterasi (perulangan) pada setiap elemen dalam nodelist yang ditemukan dalam langkah 
- sebelumnya. Dalam setiap iterasi, sebuah fungsi yang didefinisikan di dalam tanda kurung kurawal { ... } akan dieksekusi.
-
--Dalam fungsi yang dieksekusi pada setiap iterasi:
- -**if (index > 0) { ... }**: Kondisi ini memeriksa indeks (posisi) dari elemen paragraf dalam nodelist. Indeks dimulai dari 0 untuk elemen pertama, 1 untuk elemen kedua, dan seterusnya. Oleh karena itu, jika indeks index lebih besar dari 0 (yang berarti elemen paragraf bukan yang pertama), maka blok kode dalam if akan dieksekusi.
- -**p.style.display = "none";**: Jika kondisi dalam if terpenuhi, maka properti CSS display dari elemen paragraf (p) akan diatur menjadi "none". Ini akan membuat elemen paragraf tersebut menjadi tidak terlihat atau disembunyikan di halaman web.
-
-
--**Document.querySelectorAll("section").forEach((section, index) => { ... });**: Ini adalah blok kode yang memilih semua elemen HTML dengan tag <section> dan mengulangi setiap elemen menggunakan forEach. Dalam setiap iterasi, section adalah elemen** <section>** saat ini, dan index adalah indeks iterasi.
-
--**const paragraphs = section.querySelectorAll("p");**: Ini adalah langkah berikutnya yang mencari semua elemen **<p>** yang ada dalam elemen <section> saat ini dan menyimpannya dalam variabel **paragraphs.**
-
--**if (paragraphs.length > 1) { ... }**: Kode ini memeriksa apakah ada lebih dari satu elemen **<p> **dalam elemen **<section>** saat ini. Jika ya, maka kode akan melanjutkan untuk menambahkan tombol **"See More"**.
-
--**const firstParagraph = paragraphs[0];**: Ini adalah langkah yang mengambil elemen pertama dari array **paragraphs** dan menyimpannya dalam variabel **firstParagraph.
-**
--**paragraphs.forEach((p, i) => { ... });**: Dalam langkah ini, kode mengulangi semua elemen **<p> **dalam array **paragraphs.** Untuk setiap elemen, ia mengatur gaya CSS display menjadi** "block"** jika **i** (indeks iterasi) kurang dari atau sama dengan 0, yang berarti hanya elemen pertama yang ditampilkan, sedangkan elemen lain akan memiliki gaya **display "none".**
-
--**const seeMoreButton = document.createElement("button");**: Ini adalah langkah yang membuat elemen tombol baru dengan menggunakan **document.createElement("button")** dan menyimpannya dalam variabel **seeMoreButton.**
-
--**seeMoreButton.textContent = "See More";**: Kode ini mengatur teks yang akan ditampilkan pada tombol **"See More".**
-
--**seeMoreButton.classList.add("see-more-button");**: Kode ini menambahkan kelas CSS **"see-more-button"** ke tombol. Anda dapat menggunakan kelas ini untuk mengubah gaya tombol sesuai keinginan Anda.
-
--**seeMoreButton.style.border = "none";**: Ini menghapus garis hitam di sekitar tombol dengan mengatur properti CSS border menjadi **"none".**
-
--**firstParagraph.insertAdjacentElement("afterend", seeMoreButton);**: Kode ini menyisipkan tombol **"See More"** setelah elemen pertama dalam elemen **<section>** menggunakan **insertAdjacentElement.
-**
--**seeMoreButton.addEventListener("click", () => { ... });**: Kode ini menambahkan event listener pada tombol **"See More".** Ketika tombol ini diklik, sebuah fungsi anonim dijalankan.
-
--**paragraphs.forEach((p, i) => { ... });** akan mengubah gaya CSS **display** untuk semua elemen **<p>** dalam elemen **<section>** menjadi **"block"**, sehingga semua teks akan ditampilkan.
-
--**seeMoreButton.style.display = "none";** akan menyembunyikan tombol** "See More"** setelah teks penuh ditampilkan.
-
-- ## CARE JS
-  Berikut adalah penjelasan setiap kode:
-
--**var gambar = document.getElementById("gambar");**: Kode ini mengambil elemen HTML dengan ID "gambar" dan menyimpannya dalam variabel **gambar**. Ini memungkinkan Anda untuk mengakses dan memanipulasi elemen gambar tersebut melalui kode JavaScript.
-
--**var isMirrored = false;: Variabel isMirrored **digunakan untuk melacak status gambar, apakah sudah dalam keadaan mirrored atau tidak. Pada awalnya, variabel ini diatur ke **false** yang menunjukkan gambar tidak dalam keadaan mirrored.
-
--**gambar.addEventListener("click", function () { ... });**: Ini adalah blok kode yang menambahkan event listener pada elemen gambar. Ketika elemen ini diklik, fungsi yang didefinisikan dalam blok **{ ... }** akan dieksekusi.
-
--Dalam blok event listener:
- -**if (!isMirrored) { ... }**: Kondisi ini memeriksa apakah variabel isMirrored adalah false. Jika iya, maka blok kode dalam if akan dieksekusi, yang berarti gambar akan di**-mirror 
-  (flip horizontal).**
- -Dalam blok if:
-  -**gambar.style.transform = "scaleX(-1)";**: Ini adalah pernyataan yang mengubah properti CSS transform dari elemen gambar untuk melakukan flipping horizontal dengan menggunakan 
-   nilai  **"scaleX(-1)"**. Ini menciptakan efek cermin gambar.
-  -i**sMirrored = true;**: Variabel **isMirrored **diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirrored.
-  -e**lse { ... }**: Jika kondisi if tidak terpenuhi (artinya gambar sudah mirrored), maka blok kode dalam **else** akan dieksekusi.
- -Dalam blok else:
-  -**gambar.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirror) dengan menggunakan nilai** "scaleX(1)".**
-  -**isMirrored = false;**: Variabel isMirrored diatur menjadi **false** untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirrored.
-
--**var gambar2 = document.getElementById("gambar2");**: Baris ini mengambil elemen HTML dengan ID "gambar2" dan menyimpannya dalam variabel gambar2. Ini memungkinkan kita untuk merujuk elemen ini dalam kode berikutnya.
-
--**gambar2.addEventListener("click", function () { ... });**: Kode ini menambahkan event listener ke elemen "gambar2". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok** { ... }** akan dieksekusi.
-
--**if (!isMirrored) { ... } else { ... }**: Ini adalah struktur pengkondisian yang memeriksa apakah variabel **isMirrored** adalah false.**** Variabel ini mungkin didefinisikan di tempat lain dalam kode atau di luar dari fragmen yang Anda berikan. Jika **isMirrored** adalah **false**,maka kode dalam blok **if** akan dieksekusi**;** jika tidak, kode dalam blok **else** yang dieksekusi.
-
--Dalam blok if:
- -**gambar2.style.transform = "scaleX(-1)";**: Ini adalah bagian yang mengubah properti CSS transform dari elemen "gambar2" untuk menciptakan efek cermin horizontal. Nilai 
-  **"scaleX(-1)"** menghasilkan efek ini.
- -**isMirrored = true;**: Variabel **isMirrored** diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
-
--Dalam blok else:
- -**gambar2.style.transform = "scaleX(1)";**: Ini adalah bagian yang mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai** "scaleX(1**)".
- -**isMirrored = false;**: Variabel** isMirrored** diatur menjadi **false** untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
-
- 
--**var gambar3 = document.getElementById("gambar3");**: Kode ini mengambil elemen HTML dengan ID "gambar3" dan menyimpannya dalam variabel **gambar3. **Ini memungkinkan kita untuk mengakses dan memanipulasi elemen ini melalui JavaScript.
-
--**gambar3.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener ke elemen **"gambar3".** Ini berarti ketika elemen ini diklik, fungsi yang didefinisikan dalam blok **{ ... }** akan dieksekusi.
-
--**if (!isMirrored) { ... } else { ... }**: Ini adalah pernyataan kondisional yang memeriksa apakah variabel **isMirrored** adalah** false.** Variabel ini digunakan untuk melacak apakah gambar saat ini sedang dalam keadaan cermin (mirrored) atau tidak.
-
--Dalam blok if:
- -**gambar3.style.transform = "scaleX(-1)";**: Ini adalah pernyataan yang mengubah properti CSS transform pada elemen **"gambar3".** Ini akan memutar gambar secara horizontal (mirror) dengan menggunakan nilai **"scaleX(-1)".**
- -**isMirrored = true;**: Setelah efek mirroring diterapkan, variabel **isMirrored** diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
-
--Dalam blok else:
- -**gambar3.style.transform = "scaleX(1)";**: Ini adalah pernyataan yang mengembalikan gambar ke posisi semula (tanpa mirroring) dengan menggunakan nilai** "scaleX(1)".**
- -**isMirrored = false;**: Variabel **isMirrored** diatur kembali menjadi **false** untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
-
-
-- ## ABOUT JS
-  Berikut adalah penjelasan setiap kode:
+## JAVA SCRIPTS ABOUT ( ABOUT.Js )
+Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bagian kode:
+- **var gambar = document.getElementById("gambar");** : Kode ini  mendefinisikan variabel 'gambar' dan mengambil elemen HTML dengan ID "gambar" dari halaman.
+- **var isMirrored = false;** : Ini mendefinisikan variabel 'isMirrored' yang digunakan untuk melacak apakah gambar saat ini sudah terbalik (mirrored) atau tidak. Pada awalnya, variabel ini diatur sebagai 'false' karena gambar belum terbalik.
+- **gambar.addEventListener("click", function () {** : Ini menambahkan sebuah event listener pada gambar yang akan menangani peristiwa saat gambar di-klik. Ketika gambar di-klik, fungsi di bawah ini akan dijalankan.
+- **if (!isMirrored) {** : Ini memeriksa apakah gambar saat ini belum terbalik (mirrored) dengan memeriksa nilai 'isMirrored'.
+- **gambar.style.transform = "scaleX(-1)";** : Jika gambar belum terbalik, maka perintah ini akan membalikkan gambar horizontal (mirrored) dengan mengubah properti CSS 'transform' menggunakan 'scaleX(-1)'.
+- **isMirrored = true;** : Ini mengatur variabel 'isMirrored' menjadi 'true' untuk menandakan bahwa gambar saat ini dalam keadaan terbalik (mirrored).
+- **gambar.style.transform = "scaleX(1)";** : Ini mengembalikan gambar ke posisi awal dengan mengubah properti CSS 'transform' menggunakan 'scaleX(1)'.
+- **isMirrored = false;** : Ini mengatur variabel 'isMirrored' kembali menjadi 'false' untuk menandakan bahwa gambar telah dikembalikan ke posisi awal.
