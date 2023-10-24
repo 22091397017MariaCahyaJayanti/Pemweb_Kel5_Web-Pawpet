@@ -515,7 +515,7 @@ Berikut adalah penjelasan setiap bagian kode:
 
 - **Z-Index Navigasi**: Properti ini memastikan elemen navigasi tampil di atas elemen lainnya dengan memberikan z-index tinggi.
 
-<img width="274" alt="kontak css 4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/e8969691-1c72-4225-a6fd-2b20fe514c6e">
+- <img width="274" alt="kontak css 4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/e8969691-1c72-4225-a6fd-2b20fe514c6e">
 
 - **Container Kontak (contact-container)**: Ini adalah class selector yang mengubah tampilan container yang berisi formulir kontak.
 
@@ -533,7 +533,7 @@ Berikut adalah penjelasan setiap bagian kode:
 
 Berikut adalah penjelasan setiap bagian kode:
 
-- <img width="489" alt="css tq 1" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/6f22a08a-07cb-40d6-ac45-419f1316ffa6">
+- <img width="215" alt="css thanks 1" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/1d29c470-0e04-4e25-9bc6-95d64944da33">
 
 - **Reset Default Styles**: Komentar ini digunakan untuk memberikan keterangan terhadap kode. Komentar ini menjelaskan bahwa aturan selanjutnya adalah untuk mereset atau mengatur ulang gaya-gaya bawaan (default styles) browser.
 
@@ -543,7 +543,7 @@ Berikut adalah penjelasan setiap bagian kode:
 
 - **Box-Sizing**: Properti ini mengatur model kotak (box model) untuk semua elemen menjadi "border-box," yang berarti ukuran elemen mencakup padding dan border, bukan hanya kontennya.
 
-
+- <img width="248" alt="css thanks 2" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/99e18892-345f-4fd4-8a78-a2479b0add76">
 
 - **Body**: Selector ini mengatur gaya untuk elemen <body> di halaman HTML.
 
@@ -561,7 +561,7 @@ Berikut adalah penjelasan setiap bagian kode:
 
 - **Tinggi Body**: Properti ini mengatur tinggi elemen body menjadi 100% dari tinggi viewport (tinggi tampilan browser), sehingga elemen-elemen di dalamnya akan selalu berada di tengah vertikal halaman.
 
-
+<img width="203" alt="css thanks 3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/60d70d12-7b31-490f-921f-4fb946666552">
 
 - **Heading 1 (h1)**: Ini adalah selektor yang mengatur gaya untuk elemen heading level 1.
 
@@ -573,7 +573,7 @@ Berikut adalah penjelasan setiap bagian kode:
 
 - **Rata Tengah Teks H1**: Properti ini mengatur teks pada elemen h1 menjadi rata tengah (horizontal).
 
-
+- <img width="428" alt="css thanks 4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/a5a74d73-ade5-41e8-8bb6-a46401fc50bd">
 
 - **Tautan (a)**: Ini adalah selektor yang mengatur gaya untuk elemen anchor (<a>), yaitu tautan atau link.
 
@@ -589,7 +589,7 @@ Berikut adalah penjelasan setiap bagian kode:
 
 - **Transisi Warna Latar Belakang Tautan**: Properti ini menambahkan efek transisi pada perubahan warna latar belakang tautan selama 0.3 detik dengan perubahan yang lembut (ease).
 
-
+- <img width="229" alt="css thanks 5" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/b4cba61b-558e-4a40-b916-b181bafcb6cd">
 
 - **Hover Tautan**: Ini adalah pseudo-class (:hover) yang mengatur gaya tautan saat kursor mouse berada di atasnya (hover).
 
@@ -597,8 +597,14 @@ Berikut adalah penjelasan setiap bagian kode:
 
 ## JAVA SCRIPTS HOME ( Home.Js )
 Terdapat 2 Js dihalaman Home. Js ke 1 menjelasakan mirroring untuk setiap gambar. Berikut adalah penjelasan Js ke 1 disetiap kode:
+
+- <img width="312" alt="js Home 1" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/58cc5690-b96d-4fbc-93fd-0653279a6f1b">
+
 - **var gambar = document.getElementById("gambar");**: Baris ini bertujuan untuk mengambil elemen HTML dengan ID 'gambar' dari halaman web. ID 'gambar' adalah atribut yang diberikan kepada elemen HTML dalam kode HTML yang terkait dengan halaman tersebut. Kode ini menggunakan *document.getElementById("gambar")* untuk mengakses elemen tersebut dan menyimpannya dalam variabel 'gambar. Setelah baris ini dijalankan, gambar akan berisi referensi ke elemen HTML dengan ID 'gambar'.
 - **var isMirrored = false;**: Baris ini menginisialisasi variabel 'isMirrored' dengan nilai 'false'. Variabel ini kemungkinan besar akan digunakan di tempat lain dalam kode untuk melacak status gambar, seperti apakah gambar tersebut dalam keadaan cermin (mirrored) atau tidak. Dengan mengatur nilainya sebagai 'false', itu menunjukkan bahwa pada awalnya gambar tersebut tidak dalam keadaan cermin.
+
+- <img width="340" alt="js Home 2" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/2fd2630c-9d80-444c-a69d-090b7f3bc255">
+
 - **gambar.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen 'gambar' Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok '{ ... }' akan dieksekusi.
 - **if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel 'isMirrored' adalah 'false.' Jika iya, maka blok kode dalam 'if' akan dieksekusi; jika tidak, maka blok kode dalam 'else' akan dieksekusi.
 - **Dalam blok if:**
@@ -607,6 +613,8 @@ Terdapat 2 Js dihalaman Home. Js ke 1 menjelasakan mirroring untuk setiap gambar
 - **Dalam blok else:**
 - **gambar.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
 - **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
+
+- <img width="336" alt="js Home 3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/91af3d84-5b6c-4c9f-98bb-2e74536dc67c">
 
 - **var gambar2 = document.getElementById("gambar2");** : Baris ini mengambil elemen HTML dengan ID "gambar2" dan menyimpannya dalam variabel gambar2.
 - **gambar2.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen 'gambar2'. Ketika elemen ini diklik, fungsi yang didefinisikan dalam blok **{ ... }** akan dieksekusi.
@@ -618,6 +626,8 @@ Terdapat 2 Js dihalaman Home. Js ke 1 menjelasakan mirroring untuk setiap gambar
 - **gambar2.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
 - **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
 
+- <img width="353" alt="js Home 4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/a7c3bf8d-916d-45cd-9b53-2832d3a3d1e9">
+
 - **var gambar3 = document.getElementById("gambar3");**: Baris ini mengambil elemen HTML dengan ID "gambar3" dan menyimpannya dalam variabel gambar3.
 - **gambar3.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen "gambar3". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
 - **if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel isMirrored adalah false. Jika iya, maka blok kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan dieksekusi.
@@ -628,6 +638,8 @@ Terdapat 2 Js dihalaman Home. Js ke 1 menjelasakan mirroring untuk setiap gambar
 - **gambar3.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
 - **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
   
+- <img width="346" alt="js Home 6" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/8d401a1e-d74e-48fa-9222-4412067aebd1">
+
 - **var gambar4 = document.getElementById("gambar4");**: Baris ini mengambil elemen HTML dengan ID "gambar4" dan menyimpannya dalam variabel gambar4.
 - **gambar4.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen "gambar4". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
 - **if (!isMirrored) { ... } else { ... }**: Ini adalah kondisional yang memeriksa apakah variabel isMirrored adalah false. Jika iya, maka blok kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan dieksekusi.
@@ -637,6 +649,8 @@ Terdapat 2 Js dihalaman Home. Js ke 1 menjelasakan mirroring untuk setiap gambar
 - Dalam blok else:
 - **gambar4.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
 - **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring
+
+- <img width="356" alt="js Home 5" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/7dc0b57a-858e-459f-95a9-cb93062773de">
 
 - **var gambar5 = document.getElementById("gambar5");**: Baris ini mengambil elemen HTML dengan ID "gambar5" dan menyimpannya dalam variabel gambar5. Ini memungkinkan kita untuk berinteraksi dengan elemen tersebut menggunakan JavaScript.
 - **gambar5.addEventListener("click", function () { ... });**: Ini adalah event listener yang ditambahkan ke elemen "gambar5". Event listener ini akan menjalankan fungsi yang didefinisikan dalam blok { ... } ketika elemen "gambar5" diklik.
@@ -651,16 +665,24 @@ Terdapat 2 Js dihalaman Home. Js ke 1 menjelasakan mirroring untuk setiap gambar
 
 **Js ke 2 menjelasakan fungsi untuk menyembunyikan paragraf yang lebih dari 1 paragraf. Berikut adalah penjelasan Js ke 2 disetiap kode:**
 
+- <img width="451" alt="js Home 7" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/475fdf3a-358a-4619-a3c4-70d557a4822b">
+
 - **document.querySelectorAll("section p")**: Baris ini menggunakan metode querySelectorAll untuk mencari dan mengumpulkan semua elemen paragraf (<p>) yang berada di dalam elemen "section" dalam dokumen HTML. Ini menghasilkan nodelist (kumpulan elemen) dari semua elemen paragraf yang sesuai.
 - **.forEach((p, index) => { ... })**: Metode .forEach digunakan untuk melakukan iterasi (perulangan) pada setiap elemen dalam nodelist yang ditemukan dalam langkah sebelumnya. Dalam setiap iterasi, sebuah fungsi yang didefinisikan di dalam tanda kurung kurawal { ... } akan dieksekusi.
 - **Dalam fungsi yang dieksekusi pada setiap iterasi:**
 - **if (index > 0) { ... }**: Kondisi ini memeriksa indeks (posisi) dari elemen paragraf dalam nodelist. Indeks dimulai dari 0 untuk elemen pertama, 1 untuk elemen kedua, dan seterusnya. Oleh karena itu, jika indeks index lebih besar dari 0 (yang berarti elemen paragraf bukan yang pertama), maka blok kode dalam if akan dieksekusi.
 - **p.style.display = "none";**: Jika kondisi dalam if terpenuhi, maka properti CSS display dari elemen paragraf (p) akan diatur menjadi "none". Ini akan membuat elemen paragraf tersebut menjadi tidak terlihat atau disembunyikan di halaman web.
+
+- <img width="520" alt="js Home 8" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/7694334d-7c67-485c-b67b-adf054b40598">
+
 - **Document.querySelectorAll("section").forEach((section, index) => { ... });**: Ini adalah blok kode yang memilih semua elemen HTML dengan tag `<section>` dan mengulangi setiap elemen menggunakan forEach. Dalam setiap iterasi, section adalah elemen `<section>` saat ini, dan index adalah indeks iterasi.
 - **const paragraphs = section.querySelectorAll("p");**: Ini adalah langkah berikutnya yang mencari semua elemen `<p>` yang ada dalam elemen <section> saat ini dan menyimpannya dalam variabel 'paragraphs'.
 - **if (paragraphs.length > 1) { ... }**: Kode ini memeriksa apakah ada lebih dari satu elemen `<p>` dalam elemen '<section>' saat ini. Jika ya, maka kode akan melanjutkan untuk menambahkan tombol '"See More"'.
 - **const firstParagraph = paragraphs[0];**: Ini adalah langkah yang mengambil elemen pertama dari array 'paragraphs' dan menyimpannya dalam variabel 'firstParagraph'.
 - **paragraphs.forEach((p, i) => { ... });**: Dalam langkah ini, kode mengulangi semua elemen `<p>` dalam array 'paragraphs.' Untuk setiap elemen, ia mengatur gaya CSS display menjadi 'block" jika 'i' (indeks iterasi) kurang dari atau sama dengan 0, yang berarti hanya elemen pertama yang ditampilkan, sedangkan elemen lain akan memiliki gaya display "none".
+
+- <img width="625" alt="js Home 9" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/7078bd11-d885-4aa7-a26e-522465833c4f">
+
 - **const seeMoreButton = document.createElement("button");**: Ini adalah langkah yang membuat elemen tombol baru dengan menggunakan *document.createElement("button")* dan menyimpannya dalam variabel 'seeMoreButton.'
 - **seeMoreButton.textContent = "See More";**: Kode ini mengatur teks yang akan ditampilkan pada tombol "See More".
 - **seeMoreButton.classList.add("see-more-button");**: Kode ini menambahkan kelas CSS "see-more-button" ke tombol. Anda dapat menggunakan kelas ini untuk mengubah gaya tombol sesuai keinginan Anda.
@@ -673,7 +695,8 @@ Terdapat 2 Js dihalaman Home. Js ke 1 menjelasakan mirroring untuk setiap gambar
 
 ## JAVA SCRIPTS CARE ( Care.Js )
 Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bagian kode:
--**var gambar = document.getElementById("gambar");**: Kode ini mengambil elemen HTML dengan ID "gambar" dan menyimpannya dalam variabel 'gambar'. Ini memungkinkan Anda untuk mengakses dan memanipulasi elemen gambar tersebut melalui kode JavaScript.
+
+- **var gambar = document.getElementById("gambar");**: Kode ini mengambil elemen HTML dengan ID "gambar" dan menyimpannya dalam variabel 'gambar'. Ini memungkinkan Anda untuk mengakses dan memanipulasi elemen gambar tersebut melalui kode JavaScript.
 - **var isMirrored = false;: Variabel isMirrored**:digunakan untuk melacak status gambar, apakah sudah dalam keadaan mirrored atau tidak. Pada awalnya, variabel ini diatur ke false yang menunjukkan gambar tidak dalam keadaan mirrored.
 - **gambar.addEventListener("click", function () { ... });**: Ini adalah blok kode yang menambahkan event listener pada elemen gambar. Ketika elemen ini diklik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
 - **Dalam blok event listener:**
