@@ -175,16 +175,8 @@ Website Paw Pet  ini menyediakan dokumentasi pengguna yang mudah diakses bagi pe
 
 
 ![1pet](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/311ba654-2911-44e8-9eaf-acea89c73080)
-
-
-
-
 	 
- ![Pet 2](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/937be2f8-aed8-47ac-a903-5d5142b17b94)
-
-
-
-
+![Pet 2](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/937be2f8-aed8-47ac-a903-5d5142b17b94)
  
 ![Pet 3](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/302fd6c3-c6fb-4b57-ab7c-0e971ead1448)
 
@@ -194,15 +186,7 @@ Website Paw Pet  ini menyediakan dokumentasi pengguna yang mudah diakses bagi pe
 
 ![Pet 4](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/ed0b3924-666b-4406-aa16-32c26d2e4c72)
 
-
-
-
-
-
- ![pet5](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/3301b552-58b6-455c-987b-65051afe64ab)
-
-
- 
+![pet5](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/3301b552-58b6-455c-987b-65051afe64ab)
 
 ## Bab 4. Deskripsi Keseluruhan
    
@@ -235,35 +219,24 @@ Contact Us merupakan halaman untuk menghubungi pihak admin Website Paw pet. Keti
 
 1.	Use case
 
-
-
 ![use case](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/ab5941a0-7213-4d00-83a4-17467d48eb1d)
 
 2.	Diagram Activity
-
-
 
 ![diagram](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/0a84cfb9-7e3a-4529-8672-7b53c7dc5ef2)
 
 4.	Data Flow Diagram 
 (DFD) Level 0
 
-
-
-
 ![dfd 0](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/f0c5f337-2541-434e-90f3-f888964ab924)
 
 Data Flow Diagram (DFD) Level 1
-
-
-		 
 
 ![dfd 1](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/fd32d2af-8392-4c1b-bba9-c6c6a4cf65a9)
 
 Data Flow Diagram (DFD) Level 2
 
-
- ![dfd 2](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/95a9c3dd-f73c-4829-9985-2b9bab4fbcb5)
+![dfd 2](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124551419/95a9c3dd-f73c-4829-9985-2b9bab4fbcb5)
 
 ## Laporan Penjelasan Code
 
@@ -286,13 +259,11 @@ Data Flow Diagram (DFD) Level 2
       - `<li>`: Ini adalah elemen daftar (list item) yang digunakan untuk membuat setiap item dalam daftar navigasi.
         - `<a>`: Ini adalah elemen anchor (tautan) yang digunakan untuk membuat tautan ke halaman lain. Atribut href digunakan untuk menentukan URL halaman yang akan ditautkan.
 
--	<img width="262" alt="3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/5567af23-4c64-4bf0-bbc3-886ff775262b">
-
+  -	<img width="262" alt="3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/5567af23-4c64-4bf0-bbc3-886ff775262b">
 
   - `<header>`: Ini adalah elemen `<header>` yang digunakan untuk menampilkan bagian atas halaman web, yang berisi judul "Pengertian Kucing."
 
--	<img width="719" alt="4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/3c18d3ef-ccc4-4eee-9506-ed6d785565dd">
-
+  - <img width="709" alt="1 index" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/63c9cab3-f0ad-47cc-8108-d015ebc689f8">
 
   - `<section>`: Ini adalah elemen `<section>` yang digunakan untuk membagi konten halaman web menjadi beberapa bagian yang berbeda, seperti bagian tentang pengertian kucing, sejarah kucing, karakteristik kucing, dan lain-lain.
   - `<img>`: Ini adalah elemen `<img>` yang digunakan untuk menampilkan gambar-gambar dalam konten halaman. Atribut src digunakan untuk menentukan sumber gambar, dan atribut style digunakan untuk mengatur tampilan gambar, seperti lebar dan margin.
@@ -307,24 +278,40 @@ Data Flow Diagram (DFD) Level 2
 
 # HTML ABOUT ( About.Html )
 
+- <img width="317" alt="1" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/6e743fde-bb35-4469-96b5-6fc378540567">
+
 - `<!DOCTYPE html>`: Ini adalah deklarasi tipe dokumen (Document Type Declaration atau DOCTYPE) yang mengindikasikan bahwa halaman ini merupakan dokumen HTML. Ini adalah bagian yang penting karena memberi tahu browser bahwa dokumen ini adalah dokumen HTML.
 - `<html>`: Ini adalah elemen root (akar) dari halaman web. Semua elemen HTML berada di dalam elemen `<html>` ini. Ini juga menandakan awal dari dokumen HTML.
 - `<head>`: Ini adalah elemen yang digunakan untuk menyertakan informasi tentang dokumen, seperti judul halaman, tautan ke stylesheet, dan meta-informasi lainnya.
   - `<title>`: Ini adalah elemen yang digunakan untuk menentukan judul dari halaman web. Judul ini akan muncul di tab browser saat halaman web dibuka. Judul halaman ini adalah "Website Pawpet kelompok 5."
   - `<link>`: Ini adalah elemen yang digunakan untuk menghubungkan dokumen HTML dengan file eksternal, seperti file stylesheet (CSS). Dalam contoh ini, elemen `<link>` digunakan untuk menghubungkan halaman dengan file "About.css". Ini memungkinkan halaman HTML untuk mengambil aturan tampilan dari file CSS terpisah.
 - `</head>`: Ini adalah penutup dari elemen `<head>`, yang menandakan akhir dari bagian informasi tentang dokumen.
+
+- <img width="386" alt="2" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/aa9b1cdc-f117-493a-a2f1-eec2e9c8e45e">
+
 - `<body>`: Ini adalah elemen yang digunakan untuk menampilkan konten yang akan ditampilkan di halaman web. Ini adalah tempat di mana Anda akan menampilkan isi halaman web Anda.
   - `<div class="nav">`: Ini adalah elemen div yang memiliki atribut class "nav." Elemen ini digunakan untuk membuat bagian navigasi halaman web.
     - `<ul>`: Ini adalah elemen daftar tak terurut (unordered list) yang digunakan untuk membuat daftar item navigasi.
       - `<li>`: Ini adalah elemen daftar (list item) yang digunakan untuk membuat setiap item dalam daftar navigasi.
         - `<a>`: Ini adalah elemen anchor (tautan) yang digunakan untuk membuat tautan ke halaman lain. Atribut href digunakan untuk menentukan URL halaman yang akan ditautkan.
+
+  - <img width="323" alt="3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/056d3464-3c07-4eca-969f-cd846ef4a142">
+
   - `<header>`: Ini adalah elemen yang digunakan untuk menampilkan informasi header dari halaman web, seperti judul utama halaman.
+ 
+  - <img width="576" alt="4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/8c45ad38-ed37-492a-8b56-08b54060b02a">
+
   - `<section>`: Ini adalah elemen yang digunakan untuk mengelompokkan konten yang berkaitan dalam bagian-bagian tertentu di halaman web.
   - `<img>`: Ini adalah elemen untuk menampilkan gambar. Dalam contoh ini, gambar "Kel5.jpg" ditampilkan dengan lebar 500px.
   - `<ol>`: Ini adalah elemen daftar terurut (ordered list) yang digunakan untuk membuat daftar item berurutan.
+ 
+  - <img width="257" alt="5" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/ef8f91d6-c2f2-46c9-a61b-ed1dca6c8bc9">
+
   - `<footer>`: Ini adalah elemen yang digunakan untuk menampilkan footer atau bagian ak
 
-# HTML CARE (Care.Html)
+# HTML CARE (Care.html)
+
+- <img width="299" alt="1 care" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/ab279640-b2ee-41b6-a5bc-8544df1b7b22">
 
 - `<!DOCTYPE html>`: Deklarasi tipe dokumen (Document Type Declaration atau DOCTYPE) yang mengindikasikan bahwa halaman ini merupakan dokumen HTML. Memberi tahu browser bahwa ini adalah dokumen HTML.
 - `<html>`: Elemen root (akar) dari halaman web. Semua elemen HTML berada di dalam elemen `<html>` ini. Ini menandakan awal dari dokumen HTML.
@@ -332,16 +319,28 @@ Data Flow Diagram (DFD) Level 2
   - `<title>`: Elemen yang menentukan judul dari halaman web. Judul ini akan muncul di tab browser saat halaman web dibuka. Judul halaman ini adalah "Website Pawpet kelompok 5."
   - `<link>`: Elemen yang menghubungkan dokumen HTML dengan file eksternal, seperti file stylesheet (CSS). Dalam contoh ini, elemen `<link>` digunakan untuk menghubungkan halaman dengan file "Care.css," yang mengatur tampilan halaman.
 - `</head>`: Penutup dari elemen `<head>`, menandakan akhir dari bagian informasi tentang dokumen.
+
+- <img width="379" alt="2 care" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/57aae2b3-8b73-4e13-882a-35959a528445">
+
 - `<body>`: Elemen yang digunakan untuk menampilkan konten yang akan ditampilkan di halaman web. Ini adalah tempat di mana Anda akan menampilkan isi halaman web Anda.
   - `<div class="nav">`: Elemen div yang memiliki atribut class "nav." Digunakan untuk membuat bagian navigasi halaman web.
     - `<ul>`: Elemen daftar tak terurut (unordered list) yang digunakan untuk membuat daftar item navigasi.
       - `<li>`: Elemen daftar (list item) yang digunakan untuk membuat setiap item dalam daftar navigasi.
         - `<a>`: Elemen anchor (tautan) yang digunakan untuk membuat tautan ke halaman lain. Atribut href digunakan untuk menentukan URL halaman yang akan ditautkan.
+
+  - <img width="511" alt="care 3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/ed042b1b-6abf-4eef-a50f-149969a9ecee">
+
   - `<div class="content">`: Elemen div yang memiliki atribut class "content." Digunakan untuk mengelompokkan konten utama halaman web.
   - `<h1>`: Elemen heading level 1 yang digunakan untuk menampilkan judul utama halaman web, yaitu "Perawatan Kucing: Tips dan Panduan."
   - `<img>`: Elemen untuk menampilkan gambar. Dalam konteks ini, ada beberapa gambar kucing yang ditampilkan untuk mengilustrasikan topik yang dibahas.
   - `<p>`: Elemen paragraf yang digunakan untuk menampilkan teks yang menjelaskan topik dan memberikan tips tentang perawatan kucing.
+ 
+  - <img width="285" alt="care 4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/5fc03203-b883-408d-87de-2553d93b2f1e">
+
   - `<h2>`: Elemen heading level 2 yang digunakan untuk menampilkan subjudul yang menjelaskan setiap poin atau tip dalam panduan perawatan kucing.
+ 
+  - <img width="262" alt="care 5" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/9fa1bc64-d9c0-43dd-a090-fc28100f5942">
+
   - `<footer>`: Elemen yang digunakan untuk menampilkan footer atau bagian akhir dari halaman web. Pada bagian footer ini, ada teks "©2023 Kelompok 5" yang menunjukkan hak cipta tahun 2023 oleh Kelompok 5.
 
 # HTML CONTACT ( Contact.Html )
@@ -664,57 +663,45 @@ Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bag
 - **gambar3.style.transform = "scaleX(1)";**: Ini adalah pernyataan yang mengembalikan gambar ke posisi semula (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
 - **isMirrored = false;**: Variabel 'isMirrored' diatur kembali menjadi 'false' untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
 
--**var gambar4 = document.getElementById("gambar4");**: Kode ini mengambil elemen HTML dengan ID "gambar4" dan menyimpannya dalam variabel** gambar4.**
+- **var gambar4 = document.getElementById("gambar4");**: Kode ini mengambil elemen HTML dengan ID "gambar4" dan menyimpannya dalam variabel gambar4.
+- **gambar4.addEventListener("click", function () { ... });**: Ini adalah bagian kode yang menambahkan event listener ke elemen "gambar4". Ketika elemen ini di-klik, fungsi yang didefinisikan dalam blok { ... } akan dijalankan.
+- **if (!isMirrored) { ... } else { ... }**: Ini adalah sebuah kondisi yang memeriksa nilai variabel 'isMirrored.' Variabel ini digunakan untuk melacak apakah gambar saat ini dalam keadaan mirrored (terbalik) atau tidak. Jika 'isMirrored' bernilai 'false', maka blok kode dalam 'if' akan dieksekusi; jika tidak, blok kode dalam 'else' akan dieksekusi.
+- Dalam blok if:
+- **gambar4.style.transform = "scaleX(-1)";**: Kode ini mengubah properti CSS transform dari elemen "gambar4" untuk melakukan pemutaran horizontal (mirror) dengan menggunakan nilai "scaleX(-1)". Ini akan menghasilkan efek cermin atau gambar terbalik secara horizontal.
+- **isMirrored = true;**: Setelah mengubah transformasi gambar, variabel 'isMirrored' diatur menjadi true untuk menandakan bahwa gambar saat ini dalam keadaan mirrored.
+- **Dalam blok else:**
+- **gambar4.style.transform = "scaleX(1)";**: Kode ini mengatur properti CSS transform untuk mengembalikan gambar ke posisi awal dengan menggunakan nilai "scaleX(1)".
+- **isMirrored = false;**: Setelah mengembalikan gambar ke posisi awal, variabel 'isMirrored' diatur kembali menjadi 'false' untuk menandakan bahwa gambar saat ini tidak dalam keadaan mirrored.
 
--**gambar4.addEventListener("click", function () { ... });**: Ini adalah bagian kode yang menambahkan event listener ke elemen** "gambar4".** Ketika elemen ini di-klik, fungsi yang 
- didefinisikan dalam blok** { ... } **akan dijalankan.
- 
--**if (!isMirrored) { ... } else { ... }**: Ini adalah sebuah kondisi yang memeriksa nilai variabel **isMirrored.** Variabel ini digunakan untuk melacak apakah gambar saat ini dalam keadaan mirrored (terbalik) atau tidak. Jika **isMirrored **bernilai **false**, maka blok kode dalam **if **akan dieksekusi; jika tidak, blok kode dalam **else** akan dieksekusi.
+- **var gambar5 = document.getElementById("gambar5");**: Kode ini mengambil elemen HTML dengan ID "gambar5" dan menyimpannya dalam variabel 'gambar5'. Dengan cara ini, kita dapat mengakses dan mengendalikan elemen gambar tersebut melalui JavaScript.
+- **gambar5.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener ke elemen "gambar5". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok '{ ... }' akan dieksekusi.
+- **if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel 'isMirrored' adalah 'false.' Variabel 'isMirrored' mungkin telah didefinisikan di tempat lain dalam kode atau di atas kode ini. Jika 'isMirrored' adalah 'false', maka blok kode dalam 'if' akan dieksekusi ';' jika 'isMirrored' adalah 'true', maka blok kode dalam 'else' akan dieksekusi.
+- **Dalam blok if:**
+- **gambar5.style.transform = "scaleX(-1)";**: Ini adalah pernyataan yang mengubah properti CSS transform pada elemen "gambar5" untuk memiringkan (mirror) gambar horizontal dengan menggunakan nilai "scaleX(-1)". Ini akan menciptakan efek gambar yang terbalik secara horizontal seperti cermin.
+- **isMirrored = true;**: Variabel 'isMirrored' diatur menjadi true untuk menunjukkan bahwa gambar saat ini dalam keadaan mirroring (terbalik secara horizontal).
+- **Dalam blok else:**
+- **gambar5.style.transform = "scaleX(1)";**: Ini adalah pernyataan yang mengembalikan gambar ke posisi awal (tidak mirroring) dengan menggunakan nilai "scaleX(1)" pada properti transform.
+- **isMirrored = false;**: Variabel 'isMirrored' diatur menjadi 'false' untuk menunjukkan bahwa gambar saat ini dalam keadaan non-mirroring (tidak terbalik secara horizontal).
 
--Dalam blok if:
- -**gambar4.style.transform = "scaleX(-1)";**: Kode ini mengubah properti CSS transform dari elemen **"gambar4"** untuk melakukan pemutaran horizontal (mirror) dengan menggunakan nilai  ** "scaleX(-1)".** 
-   Ini akan menghasilkan efek cermin atau gambar terbalik secara horizontal.
- -**isMirrored = true;**: Setelah mengubah transformasi gambar, variabel **isMirrored** diatur menjadi true untuk menandakan bahwa gambar saat ini dalam keadaan mirrored.
- 
--Dalam blok else:
- -**gambar4.style.transform = "scaleX(1)";**: Kode ini mengatur properti CSS transform untuk mengembalikan gambar ke posisi awal dengan menggunakan nilai **"scaleX(1)".**
- -**isMirrored = false;**: Setelah mengembalikan gambar ke posisi awal, variabel **isMirrored** diatur kembali menjadi **false** untuk menandakan bahwa gambar saat ini tidak dalam keadaan mirrored.
+- **var gambar6 = document.getElementById("gambar6");**: Baris ini mengambil elemen HTML dengan ID "gambar6" dan menyimpannya dalam variabel gambar6.
+- **gambar6.addEventListener("click", function () { ... });** : Ini adalah bagian dari kode yang menambahkan event listener untuk elemen "gambar6". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
+- **if (!isMirrored) { ... } else { ... }** : Ini adalah kondisional yang memeriksa apakah variabel isMirrored adalah false. Jika benar, maka blok kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan dieksekusi.
+- **Dalam blok if:**
+- **gambar6.style.transform = "scaleX(-1)";**: Ini mengubah properti CSS transform dari elemen "gambar6" untuk memutar gambar horizontal dengan menggunakan nilai "scaleX(-1)". Ini menciptakan efek cermin atau mirroring pada gambar.
+- **isMirrored = true;:** Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
+- **Dalam blok else:**
+- **gambar6.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
+- **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
 
-
--**var gambar5 = document.getElementById("gambar5");**: Kode ini mengambil elemen HTML dengan ID "gambar5" dan menyimpannya dalam variabel **gambar5.** Dengan cara ini, kita dapat mengakses dan mengendalikan elemen gambar tersebut melalui JavaScript.
--**gambar5.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener ke elemen **"gambar5".** Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok **{ ... }** akan dieksekusi.
--**if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel **isMirrored **adalah **false.** Variabel **isMirrored** mungkin telah didefinisikan di tempat lain dalam kode atau di atas kode ini. Jika** isMirrored** adalah** false**, maka blok kode dalam **if** akan dieksekusi**;** jika **isMirrored** adalah** true**, maka blok kode dalam** else** akan dieksekusi.
--Dalam blok if:
- -**gambar5.style.transform = "scaleX(-1)";**: Ini adalah pernyataan yang mengubah properti CSS transform pada elemen **"gambar5"** untuk memiringkan (mirror) gambar horizontal dengan menggunakan nilai 
- ** "scaleX(-1)".** Ini akan menciptakan efek gambar yang terbalik secara horizontal seperti cermin.
- -**isMirrored = true;**: Variabel **isMirrored** diatur menjadi true untuk menunjukkan bahwa gambar saat ini dalam keadaan mirroring (terbalik secara horizontal).
--Dalam blok else:
- -**gambar5.style.transform = "scaleX(1)";**: Ini adalah pernyataan yang mengembalikan gambar ke posisi awal (tidak mirroring) dengan menggunakan nilai** "scaleX(1)"** pada properti transform.
- -**isMirrored = false;**: Variabel **isMirrored** diatur menjadi **false **untuk menunjukkan bahwa gambar saat ini dalam keadaan non-mirroring (tidak terbalik secara horizontal).
-
--var gambar6 = document.getElementById("gambar6");: Baris ini mengambil elemen HTML dengan ID "gambar6" dan menyimpannya dalam variabel gambar6.
--gambar6.addEventListener("click", function () { ... });: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen "gambar6". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok { 
- ... } akan dieksekusi.
--if (!isMirrored) { ... } else { ... }: Ini adalah kondisional yang memeriksa apakah variabel isMirrored adalah false. Jika benar, maka blok kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan dieksekusi.
--Dalam blok if:
- -gambar6.style.transform = "scaleX(-1)";: Ini mengubah properti CSS transform dari elemen "gambar6" untuk memutar gambar horizontal dengan menggunakan nilai "scaleX(-1)". Ini menciptakan efek cermin atau 
-  mirroring pada gambar.
- -isMirrored = true;: Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
--Dalam blok else:
- -gambar6.style.transform = "scaleX(1)";: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
- -isMirrored = false;: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
-
--var gambar7 = document.getElementById("gambar7");: Kode ini mengambil elemen HTML dengan ID "gambar7" dan menyimpannya dalam variabel gambar7. Ini memungkinkan Anda untuk mengakses dan memanipulasi elemen 
- ini melalui JavaScript.
--gambar7.addEventListener("click", function () { ... });: Ini adalah bagian dari kode yang menambahkan event listener ke elemen "gambar7". Event listener ini akan merespons saat elemen "gambar7" diklik.
--if (!isMirrored) { ... } else { ... }: Ini adalah blok kondisional yang memeriksa apakah variabel isMirrored memiliki nilai false. Variabel isMirrored digunakan untuk melacak apakah gambar sedang dalam keadaan "mirror" atau tidak.
--Dalam blok if:
- -gambar7.style.transform = "scaleX(-1)";: Kode ini mengatur properti CSS transform dari elemen "gambar7" untuk melakukan efek mirroring secara horizontal dengan menggunakan nilai "scaleX(-1)". Ini akan 
-  membuat gambar terlihat seperti dicerminkan secara horizontal.
- -isMirrored = true;: Variabel isMirrored diatur menjadi true untuk menandakan bahwa gambar sekarang dalam keadaan mirroring.
--Dalam blok else:
- -gambar7.style.transform = "scaleX(1)";: Kode ini mengembalikan gambar ke posisi asalnya (tanpa mirroring) dengan mengatur nilai "scaleX(1)".
- -isMirrored = false;: Variabel isMirrored diatur menjadi false untuk menandakan bahwa gambar sekarang dalam keadaan non-mirroring
+- **var gambar7 = document.getElementById("gambar7");**: Kode ini mengambil elemen HTML dengan ID "gambar7" dan menyimpannya dalam variabel gambar7. Ini memungkinkan Anda untuk mengakses dan memanipulasi elemen ini melalui JavaScript.
+- **gambar7.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener ke elemen "gambar7". Event listener ini akan merespons saat elemen "gambar7" diklik.
+- **if (!isMirrored) { ... } else { ... }**: Ini adalah blok kondisional yang memeriksa apakah variabel isMirrored memiliki nilai false. Variabel isMirrored digunakan untuk melacak apakah gambar sedang dalam keadaan "mirror" atau tidak.
+- **Dalam blok if:**
+- **gambar7.style.transform = "scaleX(-1)";**: Kode ini mengatur properti CSS transform dari elemen "gambar7" untuk melakukan efek mirroring secara horizontal dengan menggunakan nilai "scaleX(-1)". Ini akan membuat gambar terlihat seperti dicerminkan secara horizontal.
+- **isMirrored = true;**: Variabel isMirrored diatur menjadi true untuk menandakan bahwa gambar sekarang dalam keadaan mirroring.
+- **Dalam blok else:**
+- **gambar7.style.transform = "scaleX(1)";**: Kode ini mengembalikan gambar ke posisi asalnya (tanpa mirroring) dengan mengatur nilai "scaleX(1)".
+- **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menandakan bahwa gambar sekarang dalam keadaan non-mirroring
 
 
 
