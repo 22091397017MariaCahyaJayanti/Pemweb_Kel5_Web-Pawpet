@@ -692,6 +692,30 @@ Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bag
  -**gambar5.style.transform = "scaleX(1)";**: Ini adalah pernyataan yang mengembalikan gambar ke posisi awal (tidak mirroring) dengan menggunakan nilai** "scaleX(1)"** pada properti transform.
  -**isMirrored = false;**: Variabel **isMirrored** diatur menjadi **false **untuk menunjukkan bahwa gambar saat ini dalam keadaan non-mirroring (tidak terbalik secara horizontal).
 
+-var gambar6 = document.getElementById("gambar6");: Baris ini mengambil elemen HTML dengan ID "gambar6" dan menyimpannya dalam variabel gambar6.
+-gambar6.addEventListener("click", function () { ... });: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen "gambar6". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok { 
+ ... } akan dieksekusi.
+-if (!isMirrored) { ... } else { ... }: Ini adalah kondisional yang memeriksa apakah variabel isMirrored adalah false. Jika benar, maka blok kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan dieksekusi.
+-Dalam blok if:
+ -gambar6.style.transform = "scaleX(-1)";: Ini mengubah properti CSS transform dari elemen "gambar6" untuk memutar gambar horizontal dengan menggunakan nilai "scaleX(-1)". Ini menciptakan efek cermin atau 
+  mirroring pada gambar.
+ -isMirrored = true;: Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
+-Dalam blok else:
+ -gambar6.style.transform = "scaleX(1)";: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
+ -isMirrored = false;: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
+
+-var gambar7 = document.getElementById("gambar7");: Kode ini mengambil elemen HTML dengan ID "gambar7" dan menyimpannya dalam variabel gambar7. Ini memungkinkan Anda untuk mengakses dan memanipulasi elemen 
+ ini melalui JavaScript.
+-gambar7.addEventListener("click", function () { ... });: Ini adalah bagian dari kode yang menambahkan event listener ke elemen "gambar7". Event listener ini akan merespons saat elemen "gambar7" diklik.
+-if (!isMirrored) { ... } else { ... }: Ini adalah blok kondisional yang memeriksa apakah variabel isMirrored memiliki nilai false. Variabel isMirrored digunakan untuk melacak apakah gambar sedang dalam keadaan "mirror" atau tidak.
+-Dalam blok if:
+ -gambar7.style.transform = "scaleX(-1)";: Kode ini mengatur properti CSS transform dari elemen "gambar7" untuk melakukan efek mirroring secara horizontal dengan menggunakan nilai "scaleX(-1)". Ini akan 
+  membuat gambar terlihat seperti dicerminkan secara horizontal.
+ -isMirrored = true;: Variabel isMirrored diatur menjadi true untuk menandakan bahwa gambar sekarang dalam keadaan mirroring.
+-Dalam blok else:
+ -gambar7.style.transform = "scaleX(1)";: Kode ini mengembalikan gambar ke posisi asalnya (tanpa mirroring) dengan mengatur nilai "scaleX(1)".
+ -isMirrored = false;: Variabel isMirrored diatur menjadi false untuk menandakan bahwa gambar sekarang dalam keadaan non-mirroring
+
 
 
 
