@@ -17,7 +17,7 @@ for
 
 Version 1.0 approved
 Prepared by
-- Siti Rina 			/ (22091397014)
+- Siti Rina Sari		/ (22091397014)
 - Lady Cristal Beauty Aqluilera / (2091397016)
 - Maria Cahya Jayanti 		/ (22091397017)
 - Dwi Putra Afrilianto 		/ (22091397025)
@@ -407,23 +407,42 @@ Data Flow Diagram (DFD) Level 2
 
 Berikut adalah penjelasan singkat tentang setiap bagian kode:
 
+-<img width="279" alt="Picture3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/ab4c23d5-74de-47d2-a8a5-a410da87c66a">
+
+
 - **Reset CSS**: Kode ini mengatur ulang margin dan padding pada semua elemen HTML, menghindari margin dan padding default dari browser.
 
-- **Elemen Navigasi (.nav)**: Ini adalah bagian yang mengatur tampilan elemen navigasi di halaman. Properti `position: fixed;` membuatnya tetap di bagian atas halaman saat digulir. 
+  -<img width="506" alt="Picture5" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/893d1707-8ba5-4b13-9e1c-20a1f95da213">
+
+- **Elemen Navigasi (.nav)**: Ini adalah bagian yang mengatur tampilan elemen navigasi di halaman. Properti `position: fixed;` membuatnya tetap di bagian atas halaman saat digulir.
+
+-<img width="287" alt="Picture6" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/169c4e08-eb51-4b34-a848-95f86ea887fc">
+
 
 - **Tautan Navigasi**: Properti ini mengatur tampilan tautan dalam elemen navigasi. Tautan memiliki warna putih, dan saat dihover, warnanya berubah menjadi hitam.
 
+-
 - **Elemen Header**: Bagian ini mendefinisikan tampilan elemen header dengan properti seperti `text-align`, `margin-top`, dan `font-size`.
+
+- <img width="252" alt="Picture10" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/a60f24fe-f349-4c75-80b2-683fde326c67">
+
 
 - **Elemen Section**: Ini adalah bagian yang mengatur tampilan elemen-elemen `<section>` pada halaman. Mereka memiliki lebar maksimum, padding, dan berada di tengah secara horizontal.
 
 - **Judul dan Paragraf Section**: Bagian ini mengatur tampilan judul (`<h2>`) dan paragraf (`<p>`) di dalam elemen-elemen `<section>`.
+  
+-<img width="311" alt="Picture11" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/eaa9c0a2-c5ed-4376-b063-be3bdb7ffa5d">
+
 
 - **Elemen Footer**: Bagian ini mengatur tampilan elemen footer di halaman. Footer tetap berada di bagian bawah halaman dan memiliki warna latar belakang putih dengan teks warna putih.
+
 
 ## CSS ABOUT (About.css)
 
 Berikut adalah ringkasan penjelasan setiap bagian kode:
+
+-<img width="317" alt="Picture16 - Copy" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/ad06bba3-5514-4bab-a025-979e2ce50052">
+
 
 - **Reset CSS**: Kode ini digunakan untuk mengatur ulang margin dan padding pada semua elemen HTML, sehingga menghindari pengaruh margin dan padding default dari browser.
 
@@ -442,6 +461,9 @@ Berikut adalah ringkasan penjelasan setiap bagian kode:
 ## CSS CARE ( Care.css )
 
 Berikut adalah ringkasan penjelasan setiap bagian kode:
+
+
+-<img width="520" alt="Picture30" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/cc634fd0-f386-4b55-8678-0e9928e4d79d">
 
 
 - **Reset CSS**: Kode ini digunakan untuk mereset beberapa properti CSS ke nilai defaultnya pada semua elemen HTML, menghindari perubahan tak terduga pada tampilan elemen.
