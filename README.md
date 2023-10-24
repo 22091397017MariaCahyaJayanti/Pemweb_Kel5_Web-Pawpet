@@ -421,7 +421,6 @@ Berikut adalah penjelasan singkat tentang setiap bagian kode:
 
 - **Tautan Navigasi**: Properti ini mengatur tampilan tautan dalam elemen navigasi. Tautan memiliki warna putih, dan saat dihover, warnanya berubah menjadi hitam.
 
--
 - **Elemen Header**: Bagian ini mendefinisikan tampilan elemen header dengan properti seperti `text-align`, `margin-top`, dan `font-size`.
 
 - <img width="252" alt="Picture10" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/a60f24fe-f349-4c75-80b2-683fde326c67">
@@ -474,6 +473,10 @@ Berikut adalah ringkasan penjelasan setiap bagian kode:
 -<img width="696" alt="Screenshot 2023-10-24 235020" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/cbd9e47c-dc31-47c7-8414-2e555a2f0657">
 
 -<img width="342" alt="Screenshot 2023-10-24 235034" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/84e6e84c-94b7-4e2a-9715-aa4145ea3d94">
+
+-<img width="303" alt="Screenshot 2023-10-24 235408" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/3854acec-28d7-4f1d-86b5-c4be47893a79">
+
+-<img width="415" alt="Screenshot 2023-10-24 235420" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/f8210201-c285-4e48-8a5c-b3dada82e0f4">
 
 
 - **Reset CSS**: Kode ini digunakan untuk mereset beberapa properti CSS ke nilai defaultnya pada semua elemen HTML, menghindari perubahan tak terduga pada tampilan elemen.
