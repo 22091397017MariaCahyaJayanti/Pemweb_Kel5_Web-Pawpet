@@ -471,7 +471,9 @@ Berikut adalah ringkasan penjelasan setiap bagian kode:
 Berikut adalah ringkasan penjelasan setiap bagian kode:
 
 
--<img width="520" alt="Picture30" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/cc634fd0-f386-4b55-8678-0e9928e4d79d">
+-<img width="696" alt="Screenshot 2023-10-24 235020" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/cbd9e47c-dc31-47c7-8414-2e555a2f0657">
+
+-<img width="342" alt="Screenshot 2023-10-24 235034" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/84e6e84c-94b7-4e2a-9715-aa4145ea3d94">
 
 
 - **Reset CSS**: Kode ini digunakan untuk mereset beberapa properti CSS ke nilai defaultnya pada semua elemen HTML, menghindari perubahan tak terduga pada tampilan elemen.
