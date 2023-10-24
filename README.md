@@ -441,7 +441,15 @@ Berikut adalah penjelasan singkat tentang setiap bagian kode:
 
 Berikut adalah ringkasan penjelasan setiap bagian kode:
 
--<img width="317" alt="Picture16 - Copy" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/ad06bba3-5514-4bab-a025-979e2ce50052">
+-<img width="660" alt="Screenshot 2023-10-24 234602" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/5e638351-164b-4ec1-9857-7e2e2d046be1">
+
+-<img width="633" alt="Screenshot 2023-10-24 234627" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/6c8be099-bdbd-4ee6-9f22-037369ec4ca1">
+
+-<img width="658" alt="Screenshot 2023-10-24 234654" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/30523e1b-9415-4ba1-b445-a6c66ccbdcf4">
+
+-<img width="543" alt="Screenshot 2023-10-24 234715" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/98222f9f-14dc-4aa6-b12a-811d23fc7c57">
+
+-<img width="664" alt="Screenshot 2023-10-24 234730" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/95388c50-8224-4fc4-864a-9d6a063d4116">
 
 
 - **Reset CSS**: Kode ini digunakan untuk mengatur ulang margin dan padding pada semua elemen HTML, sehingga menghindari pengaruh margin dan padding default dari browser.
