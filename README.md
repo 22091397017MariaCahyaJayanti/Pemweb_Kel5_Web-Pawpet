@@ -388,12 +388,17 @@ Data Flow Diagram (DFD) Level 2
 
 # HTML THANKS (Thanks.Html)
 
+<img width="328" alt="thanks 1" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/cf10d6a8-fe12-49af-977f-a849a94b7489">
+
 - `<!DOCTYPE html>`: Deklarasi tipe dokumen (Document Type Declaration atau DOCTYPE) yang mengindikasikan bahwa halaman ini merupakan dokumen HTML. Memberi tahu browser bahwa ini adalah dokumen HTML.
 - `<html>`: Elemen root (akar) dari halaman web. Semua elemen HTML berada di dalam elemen `<html>` ini. Ini menandakan awal dari dokumen HTML.
 - `<head>`: Elemen yang digunakan untuk menyertakan informasi tentang dokumen, seperti judul halaman dan tautan ke stylesheet.
   - `<title>`: Elemen yang menentukan judul dari halaman web. Judul halaman ini adalah "Website Pawpet kelompok 5."
   - `<link>`: Elemen `<link>` yang digunakan untuk menghubungkan halaman dengan file eksternal, yaitu file "Thanks.css." Ini memungkinkan halaman HTML untuk mengambil aturan tampilan dari file CSS terpisah.
 - `</head>`: Penutup dari elemen `<head>`, menandakan akhir dari bagian informasi tentang dokumen.
+
+- <img width="392" alt="Thanks 2" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/5160fe29-c7bc-4681-afe2-bde0f0a815b6">
+
 - `<body>`: Elemen yang digunakan untuk menampilkan konten yang akan ditampilkan di halaman web. Ini adalah tempat di mana Anda akan menampilkan pesan "Terima Kasih, Pesan Anda Telah Tersampaikan."
   - `<h1>`: Elemen heading level 1 yang digunakan untuk menampilkan judul besar di halaman web. Dalam hal ini, judulnya adalah "Terima Kasih, Pesan Anda Telah Tersampaikan."
   - `<a>`: Elemen anchor (tautan) yang digunakan untuk membuat tautan ke halaman lain. Tautan ini mengarah ke halaman "Contact.html," yang memungkinkan pengguna untuk kembali ke halaman kontak. Atribut href digunakan untuk menentukan URL halaman yang akan ditautkan.
@@ -438,6 +443,7 @@ Berikut adalah ringkasan penjelasan setiap bagian kode:
 
 Berikut adalah ringkasan penjelasan setiap bagian kode:
 
+
 - **Reset CSS**: Kode ini digunakan untuk mereset beberapa properti CSS ke nilai defaultnya pada semua elemen HTML, menghindari perubahan tak terduga pada tampilan elemen.
 
 - **Selector Universal (*)**: Ini adalah selector universal yang memilih semua elemen HTML di halaman.
@@ -445,6 +451,7 @@ Berikut adalah ringkasan penjelasan setiap bagian kode:
 - **Margin dan Padding**: Properti ini mengatur margin dan padding semua elemen HTML menjadi nol, menghapus ruang tambahan di sekitarnya.
 
 - **Box-Sizing**: Properti ini mengubah model kotak elemen menjadi "border-box," sehingga lebar dan tinggi elemen mencakup padding dan border, bukan hanya isi dalamnya.
+
 
 - **Style untuk Body**: Bagian ini mengatur tampilan elemen <body> halaman, termasuk warna latar belakang dan jenis font.
 
@@ -460,6 +467,7 @@ Berikut adalah ringkasan penjelasan setiap bagian kode:
 
 - **Z-Index Navigasi**: Properti ini memastikan elemen navigasi tampil di atas elemen lainnya dengan memberikan z-index tinggi.
 
+
 - **Styling Daftar (ul)**: Bagian ini mengatur tampilan elemen `<ul>` dalam elemen navigasi, termasuk menghilangkan tanda listing dan mengatur teks menjadi rata tengah. <img width="307" alt="1"
 
 - **Styling Elemen Daftar (li)**: Properti ini mengatur tampilan elemen `<li>` dalam elemen `<ul>` dengan mengatur mereka menjadi inline-block dan menambahkan margin dan tinggi garis.
@@ -473,6 +481,8 @@ Berikut adalah ringkasan penjelasan setiap bagian kode:
 
 Berikut adalah penjelasan setiap bagian kode:
 
+- <img width="215" alt="kontak css 1" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/7af862f4-83a5-42ce-a9f8-9fd87a430c5f">
+
 - **Reset Default Styles**: Bagian ini mereset beberapa properti CSS ke nilai defaultnya pada semua elemen HTML, menghindari perubahan tak terduga pada tampilan elemen.
 
 - **Selector Universal (*)**: Ini adalah selector universal yang memilih semua elemen HTML di halaman.
@@ -481,6 +491,8 @@ Berikut adalah penjelasan setiap bagian kode:
 
 - **Box-Sizing**: Properti ini mengubah model kotak elemen menjadi "border-box," sehingga lebar dan tinggi elemen mencakup padding dan border, bukan hanya isi dalamnya.
 
+- <img width="293" alt="kontak css 2" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/e7df3f6b-8343-4bda-841b-a1e89dcd11bb">
+
 - **Body**: Selector ini digunakan untuk elemen <body> halaman.
 
 - **Warna Latar Belakang Body**: Properti ini mengatur warna latar belakang halaman menjadi putih.
@@ -488,6 +500,8 @@ Berikut adalah penjelasan setiap bagian kode:
 - **Font Family**: Properti ini mengatur jenis font yang akan digunakan untuk teks di dalam halaman, dengan mencakup jenis font "Arial" dan fallback "sans-serif" jika Arial tidak tersedia.
 
 - **Margin Bawah pada Body**: Properti ini memberikan margin bawah sebesar 50px pada elemen <body>, memberikan ruang untuk elemen footer.
+
+- <img width="299" alt="kontak css 3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/b871eba9-2e90-4b73-bf11-30d8796cae4c">
 
 - **Navigasi (nav)**: Ini adalah class selector yang mengubah tampilan elemen dengan class "nav".
 
@@ -500,6 +514,8 @@ Berikut adalah penjelasan setiap bagian kode:
 - **Warna Latar Belakang Navigasi**: Properti ini mengatur warna latar belakang elemen navigasi.
 
 - **Z-Index Navigasi**: Properti ini memastikan elemen navigasi tampil di atas elemen lainnya dengan memberikan z-index tinggi.
+
+<img width="274" alt="kontak css 4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/e8969691-1c72-4225-a6fd-2b20fe514c6e">
 
 - **Container Kontak (contact-container)**: Ini adalah class selector yang mengubah tampilan container yang berisi formulir kontak.
 
@@ -517,6 +533,8 @@ Berikut adalah penjelasan setiap bagian kode:
 
 Berikut adalah penjelasan setiap bagian kode:
 
+- <img width="489" alt="css tq 1" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/6f22a08a-07cb-40d6-ac45-419f1316ffa6">
+
 - **Reset Default Styles**: Komentar ini digunakan untuk memberikan keterangan terhadap kode. Komentar ini menjelaskan bahwa aturan selanjutnya adalah untuk mereset atau mengatur ulang gaya-gaya bawaan (default styles) browser.
 
 - **Selector Universal (*)**: Ini adalah selektor universal yang berarti aturan yang didefinisikan di bawahnya akan berlaku untuk semua elemen HTML di halaman.
@@ -524,6 +542,8 @@ Berikut adalah penjelasan setiap bagian kode:
 - **Margin dan Padding**: Properti ini mengatur margin (ruang putih di sekitar elemen) dan padding (ruang dalam elemen) menjadi nol untuk semua elemen.
 
 - **Box-Sizing**: Properti ini mengatur model kotak (box model) untuk semua elemen menjadi "border-box," yang berarti ukuran elemen mencakup padding dan border, bukan hanya kontennya.
+
+
 
 - **Body**: Selector ini mengatur gaya untuk elemen <body> di halaman HTML.
 
@@ -541,6 +561,8 @@ Berikut adalah penjelasan setiap bagian kode:
 
 - **Tinggi Body**: Properti ini mengatur tinggi elemen body menjadi 100% dari tinggi viewport (tinggi tampilan browser), sehingga elemen-elemen di dalamnya akan selalu berada di tengah vertikal halaman.
 
+
+
 - **Heading 1 (h1)**: Ini adalah selektor yang mengatur gaya untuk elemen heading level 1.
 
 - **Ukuran Font H1**: Properti ini mengatur ukuran font teks pada elemen h1 menjadi 32 piksel.
@@ -550,6 +572,8 @@ Berikut adalah penjelasan setiap bagian kode:
 - **Warna Teks H1**: Properti ini mengatur warna teks pada elemen h1 menjadi abu-abu gelap (#333).
 
 - **Rata Tengah Teks H1**: Properti ini mengatur teks pada elemen h1 menjadi rata tengah (horizontal).
+
+
 
 - **Tautan (a)**: Ini adalah selektor yang mengatur gaya untuk elemen anchor (<a>), yaitu tautan atau link.
 
@@ -564,6 +588,8 @@ Berikut adalah penjelasan setiap bagian kode:
 - **Border Radius Tautan**: Properti ini mengatur sudut border tautan menjadi sudut melengkung sebesar 5 piksel.
 
 - **Transisi Warna Latar Belakang Tautan**: Properti ini menambahkan efek transisi pada perubahan warna latar belakang tautan selama 0.3 detik dengan perubahan yang lembut (ease).
+
+
 
 - **Hover Tautan**: Ini adalah pseudo-class (:hover) yang mengatur gaya tautan saat kursor mouse berada di atasnya (hover).
 
