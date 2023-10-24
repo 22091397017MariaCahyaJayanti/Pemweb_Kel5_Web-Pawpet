@@ -696,6 +696,9 @@ Terdapat 2 Js dihalaman Home. Js ke 1 menjelasakan mirroring untuk setiap gambar
 ## JAVA SCRIPTS CARE ( Care.Js )
 Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bagian kode:
 
+- ![01 js](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124496474/813fe529-2824-40fe-98d7-994bdb012655)
+
+
 - **var gambar = document.getElementById("gambar");**: Kode ini mengambil elemen HTML dengan ID "gambar" dan menyimpannya dalam variabel 'gambar'. Ini memungkinkan Anda untuk mengakses dan memanipulasi elemen gambar tersebut melalui kode JavaScript.
 - **var isMirrored = false;: Variabel isMirrored**:digunakan untuk melacak status gambar, apakah sudah dalam keadaan mirrored atau tidak. Pada awalnya, variabel ini diatur ke false yang menunjukkan gambar tidak dalam keadaan mirrored.
 - **gambar.addEventListener("click", function () { ... });**: Ini adalah blok kode yang menambahkan event listener pada elemen gambar. Ketika elemen ini diklik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
@@ -709,6 +712,9 @@ Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bag
 - **gambar.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirror) dengan menggunakan nilai "scaleX(1)".
 - **isMirrored = false;**: Variabel isMirrored diatur menjadi 'false' untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirrored.
 
+- ![02 jss](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124496474/12341d89-dec7-4114-836b-3ecd03f236fa)
+
+
 - **var gambar2 = document.getElementById("gambar2");**: Baris ini mengambil elemen HTML dengan ID "gambar2" dan menyimpannya dalam variabel gambar2. Ini memungkinkan kita untuk merujuk elemen ini dalam kode berikutnya.
 - **gambar2.addEventListener("click", function () { ... });**: Kode ini menambahkan event listener ke elemen "gambar2". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok '{ ... }' akan dieksekusi.
 - **if (!isMirrored) { ... } else { ... }**: Ini adalah struktur pengkondisian yang memeriksa apakah variabel 'isMirrored' adalah false.**** Variabel ini mungkin didefinisikan di tempat lain dalam kode atau di luar dari fragmen yang Anda berikan. Jika 'isMirrored' adalah 'false',maka kode dalam blok 'if' akan dieksekusi ';' jika tidak, kode dalam blok 'else' yang dieksekusi.
@@ -718,6 +724,9 @@ Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bag
 - **Dalam blok else:**
 - **gambar2.style.transform = "scaleX(1)";**: Ini adalah bagian yang mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai** "scaleX(1**)".
 - **isMirrored = false;**: Variabel 'isMirrored' diatur menjadi 'false' untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
+
+- ![03 js](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124496474/0f85a946-419c-4178-8d61-5bb2f19ad3cf)
+
 
 - **var gambar3 = document.getElementById("gambar3");**: Kode ini mengambil elemen HTML dengan ID "gambar3" dan menyimpannya dalam variabel 'gambar3'.Ini memungkinkan kita untuk mengakses dan memanipulasi elemen ini melalui JavaScript.
 - **gambar3.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener ke elemen "gambar3". Ini berarti ketika elemen ini diklik, fungsi yang didefinisikan dalam blok '{ ... }' akan dieksekusi.
@@ -729,6 +738,9 @@ Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bag
 - **gambar3.style.transform = "scaleX(1)";**: Ini adalah pernyataan yang mengembalikan gambar ke posisi semula (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
 - **isMirrored = false;**: Variabel 'isMirrored' diatur kembali menjadi 'false' untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
 
+- ![04 js](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124496474/b8b0042f-e93b-455d-8983-ec9434a8da33)
+
+
 - **var gambar4 = document.getElementById("gambar4");**: Kode ini mengambil elemen HTML dengan ID "gambar4" dan menyimpannya dalam variabel gambar4.
 - **gambar4.addEventListener("click", function () { ... });**: Ini adalah bagian kode yang menambahkan event listener ke elemen "gambar4". Ketika elemen ini di-klik, fungsi yang didefinisikan dalam blok { ... } akan dijalankan.
 - **if (!isMirrored) { ... } else { ... }**: Ini adalah sebuah kondisi yang memeriksa nilai variabel 'isMirrored.' Variabel ini digunakan untuk melacak apakah gambar saat ini dalam keadaan mirrored (terbalik) atau tidak. Jika 'isMirrored' bernilai 'false', maka blok kode dalam 'if' akan dieksekusi; jika tidak, blok kode dalam 'else' akan dieksekusi.
@@ -738,6 +750,9 @@ Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bag
 - **Dalam blok else:**
 - **gambar4.style.transform = "scaleX(1)";**: Kode ini mengatur properti CSS transform untuk mengembalikan gambar ke posisi awal dengan menggunakan nilai "scaleX(1)".
 - **isMirrored = false;**: Setelah mengembalikan gambar ke posisi awal, variabel 'isMirrored' diatur kembali menjadi 'false' untuk menandakan bahwa gambar saat ini tidak dalam keadaan mirrored.
+
+- ![05 js](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124496474/9e568e47-c0db-4329-af28-2a426a74a4a4)
+
 
 - **var gambar5 = document.getElementById("gambar5");**: Kode ini mengambil elemen HTML dengan ID "gambar5" dan menyimpannya dalam variabel 'gambar5'. Dengan cara ini, kita dapat mengakses dan mengendalikan elemen gambar tersebut melalui JavaScript.
 - **gambar5.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener ke elemen "gambar5". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok '{ ... }' akan dieksekusi.
@@ -749,6 +764,9 @@ Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bag
 - **gambar5.style.transform = "scaleX(1)";**: Ini adalah pernyataan yang mengembalikan gambar ke posisi awal (tidak mirroring) dengan menggunakan nilai "scaleX(1)" pada properti transform.
 - **isMirrored = false;**: Variabel 'isMirrored' diatur menjadi 'false' untuk menunjukkan bahwa gambar saat ini dalam keadaan non-mirroring (tidak terbalik secara horizontal).
 
+- ![06 js](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124496474/9b8c3959-3591-4465-8718-b08dc3d05379)
+
+
 - **var gambar6 = document.getElementById("gambar6");**: Baris ini mengambil elemen HTML dengan ID "gambar6" dan menyimpannya dalam variabel gambar6.
 - **gambar6.addEventListener("click", function () { ... });** : Ini adalah bagian dari kode yang menambahkan event listener untuk elemen "gambar6". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
 - **if (!isMirrored) { ... } else { ... }** : Ini adalah kondisional yang memeriksa apakah variabel isMirrored adalah false. Jika benar, maka blok kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan dieksekusi.
@@ -758,6 +776,8 @@ Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bag
 - **Dalam blok else:**
 - **gambar6.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
 - **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
+
+
 
 - **var gambar7 = document.getElementById("gambar7");**: Kode ini mengambil elemen HTML dengan ID "gambar7" dan menyimpannya dalam variabel gambar7. Ini memungkinkan Anda untuk mengakses dan memanipulasi elemen ini melalui JavaScript.
 - **gambar7.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener ke elemen "gambar7". Event listener ini akan merespons saat elemen "gambar7" diklik.
