@@ -12,10 +12,10 @@ for
 
 Version 1.0 approved
 Prepared by
-Siti Rina (22091397014)
-Lady Cristal Beauty Aqluilera (2091397016)
-Maria Cahya Jayanti (22091397017)
-Dwi Putra Afrilianto (22091397025)
+- Siti Rina 			/ (22091397014)
+- Lady Cristal Beauty Aqluilera / (2091397016)
+- Maria Cahya Jayanti 		/ (22091397017)
+- Dwi Putra Afrilianto 		/ (22091397025)
 
 
 
@@ -43,19 +43,19 @@ Table of Contents
 
 - [1.5 Refrensi](#15-Refrensi)	
 
-2. Deskripsi Keseluruhan	3
+- [Bab 2. Deskripsi Keseluruhan](#Bab-2-Deskripsi-Keseluruhan)
    
-2.1 Deskripsi Produk	3
+- [2.1 Deskripsi Produk](#21-Deskripsi-Produk)
 
-2.2 Fungsi Produk	3
+- [2.2 Fungsi Produk](#22-Fungsi-Produk)
 
-2.3 Karakteristik Pengguna	3
+- [2.3 Karakteristik Pengguna](#23-Karakteristik-Pengguna)
 
-2.4 Lingkungan Operasi	3
+- [2.4 Lingkungan Operasi](#24-Lingkungan-Operasi)
 
-2.5 Batasan Desain dan Iplementasi	3
+- [2.5 Batasan Desain dan Imlementasi](#25-Batasan-Desain-dan-Implementasi)
 
-2.6 Dokumentasi Pengguna	3
+- [2.6 Dokumentasi Pengguna](#26-Dokumentasi-Pengguna)
 
 3. Deskripsi Keseluruhan	4
    
@@ -132,17 +132,17 @@ Dokumen ini merujuk pada hasil observasi yang berkaitan dengan kebutuhan dan men
 
 5.Febriansyah, F., & Amalia, R. (2023). PENERAPAN CRM PADA SISTEM INFORMASI TOKO KOPI CAP KUCING BERBASIS WEB MOBILE. ZONAsi: Jurnal Sistem Informasi, 5(2),
 
-2.	Deskripsi Keseluruhan
+## Bab 2. Deskripsi Keseluruhan
    
-2.1	Deskripsi Produk 
+## 2.1 Deskripsi Produk 
 
 Website artikel paw pet adalah sumber pengetahuan yang lengkap tentang kucing dan pemeliharaannya. Kami menyediakan artikel-artikel informatif dan bermanfaat yang dirancang untuk membantu pemilik kucing, calon pemilik, dan pecinta hewan peliharaan memahami dunia kucing dengan lebih baik. Temukan panduan perawatan kucing yang tepat, tips mengenai perawatan kesehatan, panduan pemilihan makanan yang sehat, serta informasi tentang berbagai jenis kucing dan karakteristik mereka. Dengan "Artikel paw pet" Anda akan mendapatkan wawasan mendalam tentang bagaimana merawat kucing Anda dengan penuh kasih sayang dan memastikan kebahagiaan mereka. Jelajahi konten berkualitas kami dan bangun ikatan yang lebih kuat dengan sahabat berbulu Anda.
 
-2.2	Fungsi Produk
+## 2.2 Fungsi Produk
 
 Website Artikel Paw Pet merupakan sebuah Website yang menyediakan beragam informasi berguna tentang kucing. Tujuan utamanya adalah untuk menjadi sumber terpercaya yang memberikan pengetahuan mendalam tentang kucing serta memberikan panduan praktis tentang cara merawat kucing dengan baik. Website ini berkomitmen untuk menyajikan informasi yang komprehensif dan solusi perawatan yang bermanfaat bagi pemilik kucing, membantu mereka dalam menjaga kesejahteraan dan kebahagiaan hewan peliharaan mereka.
 
-2.3	Karakteristik Pengguna
+## 2.3 Karakteristik Pengguna
 
 Karakteristik dari pengguna Website Paw Pet adalah sebagai berikut: 
 1.	User : Membaca artikel, memilih page
@@ -152,11 +152,11 @@ Karakteristik dari pengguna Website Paw Pet adalah sebagai berikut:
 
 Website Paw Pet dapat dilihat siapa saja
 
-2.5	Batasan Desain dan Iplementasi
+## 2.5 Batasan Desain dan Implementasi
 
 Kendala utama dalam desain dan implementasi website termasuk menciptakan keseimbangan estetika dan fungsionalitas, memastikan tampilan responsif, meningkatkan pengalaman pengguna, mengelola konten, dan menjaga keamanan. Semua ini memerlukan pemahaman mendalam tentang desain web, pemrograman, dan tren teknologi terkini.
 
-2.6	Dokumentasi Pengguna
+## 2.6 Dokumentasi Pengguna
 
 Website Paw Pet  ini menyediakan dokumentasi pengguna yang mudah diakses bagi pengunjung dan pengguna situs. Kami berkomitmen untuk memberikan informasi yang jelas dan berguna kepada pengguna kami. Dokumentasi pengguna kami mencakup berbagai aspek terkait kucing, mulai dari perawatan hingga informasi tentang berbagai jenis kucing.
 
