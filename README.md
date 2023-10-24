@@ -664,6 +664,21 @@ Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bag
 - **gambar3.style.transform = "scaleX(1)";**: Ini adalah pernyataan yang mengembalikan gambar ke posisi semula (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
 - **isMirrored = false;**: Variabel 'isMirrored' diatur kembali menjadi 'false' untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
 
+-**var gambar4 = document.getElementById("gambar4");**: Kode ini mengambil elemen HTML dengan ID "gambar4" dan menyimpannya dalam variabel** gambar4.**
+-**gambar4.addEventListener("click", function () { ... });**: Ini adalah bagian kode yang menambahkan event listener ke elemen** "gambar4".** Ketika elemen ini di-klik, fungsi yang 
+ didefinisikan dalam blok** { ... } **akan dijalankan.
+-**if (!isMirrored) { ... } else { ... }**: Ini adalah sebuah kondisi yang memeriksa nilai variabel **isMirrored.** Variabel ini digunakan untuk melacak apakah gambar saat ini dalam keadaan mirrored (terbalik) atau tidak. Jika **isMirrored **bernilai **false**, maka blok kode dalam **if **akan dieksekusi; jika tidak, blok kode dalam **else** akan dieksekusi.
+-Dalam blok if:
+ •**gambar4.style.transform = "scaleX(-1)";**: Kode ini mengubah properti CSS transform dari elemen **"gambar4"** untuk melakukan pemutaran horizontal (mirror) dengan menggunakan nilai 
+ ** "scaleX(-1)".** Ini akan menghasilkan efek cermin atau gambar terbalik secara horizontal.
+ •**isMirrored = true;**: Setelah mengubah transformasi gambar, variabel **isMirrored** diatur menjadi true untuk menandakan bahwa gambar saat ini dalam keadaan mirrored.
+-Dalam blok else:
+ •**gambar4.style.transform = "scaleX(1)";**: Kode ini mengatur properti CSS transform untuk mengembalikan gambar ke posisi awal dengan menggunakan nilai **"scaleX(1)".**
+ •**isMirrored = false;**: Setelah mengembalikan gambar ke posisi awal, variabel **isMirrored** diatur kembali menjadi **false** untuk menandakan bahwa gambar saat ini tidak dalam keadaan mirrored.
+
+
+
+
 ## JAVA SCRIPTS ABOUT ( ABOUT.Js )
 Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bagian kode:
 - **var gambar = document.getElementById("gambar");** : Kode ini  mendefinisikan variabel 'gambar' dan mengambil elemen HTML dengan ID "gambar" dari halaman.
