@@ -320,7 +320,7 @@ Data Flow Diagram (DFD) Level 2
   - `<link>`: Elemen yang menghubungkan dokumen HTML dengan file eksternal, seperti file stylesheet (CSS). Dalam contoh ini, elemen `<link>` digunakan untuk menghubungkan halaman dengan file "Care.css," yang mengatur tampilan halaman.
 - `</head>`: Penutup dari elemen `<head>`, menandakan akhir dari bagian informasi tentang dokumen.
 
-- <img width="379" alt="2 care" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/57aae2b3-8b73-4e13-882a-35959a528445">
+- <img width="380" alt="care 2" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/273f97dc-abe0-4a3e-8dac-fb9b99431d2f">
 
 - `<body>`: Elemen yang digunakan untuk menampilkan konten yang akan ditampilkan di halaman web. Ini adalah tempat di mana Anda akan menampilkan isi halaman web Anda.
   - `<div class="nav">`: Elemen div yang memiliki atribut class "nav." Digunakan untuk membuat bagian navigasi halaman web.
@@ -334,7 +334,7 @@ Data Flow Diagram (DFD) Level 2
   - `<h1>`: Elemen heading level 1 yang digunakan untuk menampilkan judul utama halaman web, yaitu "Perawatan Kucing: Tips dan Panduan."
   - `<img>`: Elemen untuk menampilkan gambar. Dalam konteks ini, ada beberapa gambar kucing yang ditampilkan untuk mengilustrasikan topik yang dibahas.
   - `<p>`: Elemen paragraf yang digunakan untuk menampilkan teks yang menjelaskan topik dan memberikan tips tentang perawatan kucing.
- 
+
   - <img width="285" alt="care 4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/5fc03203-b883-408d-87de-2553d93b2f1e">
 
   - `<h2>`: Elemen heading level 2 yang digunakan untuk menampilkan subjudul yang menjelaskan setiap poin atau tip dalam panduan perawatan kucing.
@@ -345,28 +345,45 @@ Data Flow Diagram (DFD) Level 2
 
 # HTML CONTACT ( Contact.Html )
 
+- <img width="410" alt="kontak 1" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/1e50b098-b96f-403d-9724-7551d35b7ff2">
+
 - `<!DOCTYPE html>`: Deklarasi tipe dokumen (Document Type Declaration atau DOCTYPE) yang mengindikasikan bahwa halaman ini merupakan dokumen HTML. Memberi tahu browser bahwa ini adalah dokumen HTML.
 - `<html>`: Elemen root (akar) dari halaman web. Semua elemen HTML berada di dalam elemen `<html>` ini. Ini menandakan awal dari dokumen HTML.
 - `<head>`: Elemen yang digunakan untuk menyertakan informasi tentang dokumen, seperti judul halaman, tautan ke stylesheet, dan meta-informasi lainnya.
   - `<title>`: Elemen yang menentukan judul dari halaman web. Judul ini akan muncul di tab browser saat halaman web dibuka. Judul halaman ini adalah "Contact Us."
   - `<link>`: Elemen yang menghubungkan dokumen HTML dengan file eksternal, seperti file stylesheet (CSS). Dalam contoh ini, elemen `<link>` digunakan untuk menghubungkan halaman dengan file "Contact.css," yang mengatur tampilan halaman.
 - `</head>`: Penutup dari elemen `<head>`, menandakan akhir dari bagian informasi tentang dokumen.
+
+- <img width="410" alt="kontak 2" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/3f4ee1fd-143a-45eb-8e5d-1301b321c94c">
+
 - `<body>`: Elemen yang digunakan untuk menampilkan konten yang akan ditampilkan di halaman web. Ini adalah tempat di mana Anda akan menampilkan isi halaman web Anda.
   - `<div class="nav">`: Elemen div yang memiliki atribut class "nav." Digunakan untuk membuat bagian navigasi halaman web.
     - `<ul>`: Elemen daftar tak terurut (unordered list) yang digunakan untuk membuat daftar item navigasi.
       - `<li>`: Elemen daftar (list item) yang digunakan untuk membuat setiap item dalam daftar navigasi.
         - `<a>`: Elemen anchor (tautan) yang digunakan untuk membuat tautan ke halaman lain. Atribut href digunakan untuk menentukan URL halaman yang akan ditautkan.
+       
+  - <img width="704" alt="kontak 3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/743e8b2b-816f-47bd-9773-1646b667fe63">
+
   - `<div class="contact-container">`: Elemen div yang memiliki atribut class "contact-container." Digunakan untuk mengelompokkan konten dalam bagian kontak.
     - `<div class="left-column">` dan `<div class="right-column">`: Elemen div yang digunakan untuk membagi halaman menjadi dua kolom, di mana kolom kiri berisi informasi tentang menghubungi tim admin, dan kolom kanan berisi formulir kontak.
   - `<h1>`: Elemen heading level 1 yang digunakan untuk menampilkan judul utama halaman web, yaitu "Contact Us."
   - `<p>`: Elemen paragraf yang digunakan untuk menampilkan teks yang menjelaskan informasi tentang menghubungi tim admin dan menghargai masukan dari pengguna.
+
+  - <img width="489" alt="kontak 4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/7e8ae1ca-4ce2-4821-8bae-8ca871c56c9c">
+
   - `<h2>`: Elemen heading level 2 yang digunakan untuk menampilkan subjudul yang mengidentifikasi formulir kontak.
   - `<form>`: Elemen formulir yang digunakan untuk membuat formulir kontak. Atribut action menunjukkan URL tempat formulir akan dikirimkan saat disubmit, dan atribut method menentukan metode pengiriman data (POST dalam hal ini).
     - `<label>`: Elemen label yang digunakan untuk menunjukkan label atau instruksi untuk setiap elemen input dalam formulir.
     - `<input>`: Elemen input yang digunakan untuk mengumpulkan data dari pengguna, seperti nama, email, subjek, dan pesan. 
     - `<input>`: Elemen input yang digunakan untuk mengumpulkan data dari pengguna, seperti nama, email, subjek, dan pesan. Atribut type menentukan jenis input, seperti teks atau email, dan atribut name memberikan nama untuk setiap input.
+   
+    - <img width="609" alt="kontak 5" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/cf24d2c1-1912-484e-b92a-4b953b3ab4fa">
+
     - `<textarea>`: Elemen textarea yang digunakan untuk mengumpulkan teks panjang, seperti pesan dari pengguna.
     - `<input type="submit">`: Elemen input dengan tipe "submit," yang digunakan untuk mengirimkan formulir saat tombol "Kirim" ditekan.
+   
+  - <img width="273" alt="kontak 6" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/67b6776a-1294-4675-996a-012f69d6e479">
+
   - `<footer>`: Elemen yang digunakan untuk menampilkan footer atau bagian akhir dari halaman web. Pada bagian footer ini, ada teks "©2023 Kelompok 5" yang menunjukkan hak cipta tahun 2023 oleh Kelompok 5.
 
 # HTML THANKS (Thanks.Html)
