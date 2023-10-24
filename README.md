@@ -78,7 +78,7 @@ Daftar Isi
 
 - [4.4 Contact Us](#44-Contact-Us)
 
-- [LAMPIRAN : model analisis](#LAMPIRAN-:-model-analisis)
+- [LAMPIRAN: model analisis](#LAMPIRAN:-model-analisis)
 
 - 1. Use case
   2. Diagram
@@ -231,7 +231,7 @@ About merupakan halaman tentang Website Pawpet. Ketika membuka About akan ada be
 Contact Us merupakan halaman untuk menghubungi pihak admin Website Paw pet. Ketika membuka About akan ada beberapa penjelasan dan yang harus dilakukakan jika akan menghubungi admin website Paw Pet kucing.
 
 
-## LAMPIRAN : model analisis
+## LAMPIRAN: model analisis
 
 1.	Use case
 
