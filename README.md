@@ -407,41 +407,41 @@ Data Flow Diagram (DFD) Level 2
 
 Berikut adalah penjelasan singkat tentang setiap bagian kode:
 
--<img width="279" alt="Picture3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/ab4c23d5-74de-47d2-a8a5-a410da87c66a"> 
+- <img width="279" alt="Picture3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/ab4c23d5-74de-47d2-a8a5-a410da87c66a"> 
 - **Reset CSS**:Bagian ini bertujuan untuk mengatur ulang elemen-elemen HTML ke nilai dasar (default). Ini dilakukan dengan menghilangkan margin dan padding default dari browser serta mengatur model kotak elemen HTML menjadi "border-box." Dengan begitu, semua elemen akan memiliki margin dan padding yang konsisten.
   
--<img width="398" alt="Picture4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/28b6dea3-76b8-49f1-b6c7-614ddf166f33">
+- <img width="398" alt="Picture4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/28b6dea3-76b8-49f1-b6c7-614ddf166f33">
 - **Styling body**: Bagian ini mengatur tampilan elemen <body> halaman. Hal ini mencakup mengatur warna latar belakang menjadi putih, mengatur jenis font menjadi "Arial" dengan cadangan "sans-serif," dan memberikan margin bawah sebesar 50 piksel agar ada ruang untuk elemen footer.
 
--<img width="576" alt="Screenshot 2023-10-27 202833" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/a537e499-12bc-4434-831d-08e789c7932d">
-- **Stayling Navigation (.nav)**: Ini mengatur tampilan elemen navigasi yang memiliki kelas .nav. Properti position: fixed membuat elemen navigasi tetap berada di bagian atas halaman saat digulir. Lebar elemen diatur menjadi 100% dari lebar halaman, dan tingginya 50 piksel. Latar belakang diberikan warna tertentu dan z-index diatur ke 100 agar elemen navigasi selalu tampil di atas elemen lainnya.
+- <img width="576" alt="Screenshot 2023-10-27 202833" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/a537e499-12bc-4434-831d-08e789c7932d">
+- **Stayling Navigation (.nav)**: Ini mengatur tampilan elemen navigasi yang memiliki kelas .nav. Properti position: fixed membuat elemen navigasi tetap berada di bagian atas halaman saat digulir.Lebar elemen diatur menjadi 100% dari lebar halaman, dan tingginya 50 piksel. Latar belakang diberikan warna tertentu dan z-index diatur ke 100 agar elemen navigasi selalu tampil di atas elemen lainnya.
   
--<img width="252" alt="Picture10" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/703e8813-9b27-4632-93cb-6ac39a06a61f">
-- **Styling Header**: Bagian ini mengatur tampilan elemen header. Teks dalam elemen header diatur agar berada di tengah secara horizontal dengan margin atas sebesar 100 px. Selain itu, ukuran font elemen h1 diubah menjadi 28 piksel, dan warna teksnya diatur menjadi hitam.
+- <img width="252" alt="Picture10" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/703e8813-9b27-4632-93cb-6ac39a06a61f">
+- **Styling Header**: Bagian ini mengatur tampilan elemen header. Teks dalam elemen header diatur agar berada di tengah secara horizontal dengan margin atas sebesar 100 px. Selain itu ukuran font elemen h1 diubah menjadi 28 piksel, dan warna teksnya diatur menjadi hitam.
   
 - <img width="262" alt="Screenshot 2023-10-27 203257" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/bcba38a9-b25d-4150-ab6f-6430d34d99dd">
--<img width="229" alt="Screenshot 2023-10-27 203304" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/146ccca8-b1ea-45f9-87f8-82b472c0de6e">
+- <img width="229" alt="Screenshot 2023-10-27 203304" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/146ccca8-b1ea-45f9-87f8-82b472c0de6e">
 - **Styling Section**: Bagian ini mengatur tampilan elemen-elemen <section>. Mereka memiliki lebar maksimum 900 piksel, diatur agar berada di tengah secara horizontal di halaman, dan diberikan padding sebesar 20 piksel. Selain itu, ukuran font elemen-elemen h2, p, dan elemen ol, diubah sesuai yang dijelaskan.
 
--<img width="474" alt="Picture15" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/c6ee8567-5639-4e27-b2ff-3850a0728cbb">
+- <img width="474" alt="Picture15" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/c6ee8567-5639-4e27-b2ff-3850a0728cbb">
 - **Footer**: Bagian ini mengatur tampilan elemen footer. Footer diatur agar selalu berada di bagian bawah halaman. Lebar, tinggi, warna latar belakang, teks, dan line-height elemen footer diatur sesuai keinginan.
 
 ## CSS ABOUT (About.css)
 
 Berikut adalah penjelasan setiap bagian kode:
 
--<img width="219" alt="Screenshot 2023-10-27 204646" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/8dba7eec-d860-434d-97e5-3b44b1ec1fe1">
+- <img width="219" alt="Screenshot 2023-10-27 204646" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/8dba7eec-d860-434d-97e5-3b44b1ec1fe1">
 - **Reset CSS**:  Bagian ini adalah aturan umum yang mengatur ulang elemen-elemen HTML ke nilai dasar. Ini termasuk menghilangkan margin dan padding default serta mengatur model kotak elemen HTML menjadi "border-box."
   
 - <img width="513" alt="Screenshot 2023-10-27 204653" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/65105996-0a2e-44a9-8da4-b378683d8919">
 -**Styling Body**: Bagian ini mengatur tampilan elemen <body> halaman. Ini termasuk mengubah warna latar belakang menjadi abu-abu muda, menggunakan jenis font "Arial" dengan cadangan "sans-serif," dan memberikan margin bawah sebesar 50 piksel untuk memberikan ruang bagi elemen footer.
 
--<img width="563" alt="Screenshot 2023-10-27 204706" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/40a2535f-f6a6-4518-a13f-b7c52ebbaad3">
--<img width="453" alt="Screenshot 2023-10-27 204722" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/fee148f3-ed67-403a-ac90-f41919b6401b">
+- <img width="563" alt="Screenshot 2023-10-27 204706" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/40a2535f-f6a6-4518-a13f-b7c52ebbaad3">
+- <img width="453" alt="Screenshot 2023-10-27 204722" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/fee148f3-ed67-403a-ac90-f41919b6401b">
 - **Styling Navigation (.nav)**: Ini mengatur tampilan elemen navigasi yang memiliki kelas .nav. Properti position: fixed membuat elemen navigasi tetap berada di bagian atas halaman saat digulir. Lebar elemen diatur menjadi 100% dari lebar halaman, tingginya adalah 50 piksel, dan diberi latar belakang warna tertentu. Properti z-index diatur ke 100 untuk memastikan elemen navigasi selalu tampil di atas elemen lainnya.
   
 - <img width="196" alt="Screenshot 2023-10-27 204738" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/23a9b0a7-e84f-48f0-8207-b48d3d6c9a0b">
-- **Elemen Header**: Bagian ini mengatur tampilan elemen <header>, mengubah teks agar berada di tengah secara horizontal, memberikan margin atas sebesar 100 piksel, mengubah ukuran font elemen h1, dan mengganti warna teks menjadi hitam.
+- **Elemen Header**: Bagian ini mengatur tampilan elemen <header>, mengubah teks agar berada di tengah secara horizontal, memberikan margin atas sebesar 100 piksel, mengubah ukuran font elemen h1 dan mengganti warna teks menjadi hitam.
   
 - <img width="493" alt="Screenshot 2023-10-27 204755" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/4e4c1b53-2a0a-42a6-8dbe-fe6aba9db9dc">
 - **Styling Website Description**: Ini mengatur tampilan elemen dengan ID "website-description." Ini termasuk memberikan latar belakang putih, sudut elemen menjadi bulat (border-radius), dan memberikan bayangan elemen (box-shadow).
@@ -457,14 +457,14 @@ Berikut adalah penjelasan setiap bagian kode:
   
 ## CSS CARE ( Care.css )
 
--<img width="337" alt="Screenshot 2023-10-27 204846" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/00ae99f9-68d8-4dce-b3e4-39ab7b8b3d3c">
+- <img width="337" alt="Screenshot 2023-10-27 204846" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/00ae99f9-68d8-4dce-b3e4-39ab7b8b3d3c">
 - **Reset CSS**:Bagian ini merupakan aturan yang mengatur ulang elemen-elemen HTML ke nilai dasar. Ini termasuk menghilangkan margin dan padding default pada semua elemen, serta mengatur model kotak elemen HTML menjadi "border-box."
   
 - <img width="447" alt="Screenshot 2023-10-27 210552" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/6d513652-8612-48b4-8d72-a17894a3e695">
 - **Style untuk Body**: Bagian ini mengatur tampilan elemen <body> halaman. Ini mencakup mengubah warna latar belakang menjadi putih, menggunakan jenis font "Arial" dengan cadangan "sans-serif," menghapus margin default pada <body>, dan memberikan padding bawah sebesar 50 piksel untuk memberikan ruang bagi footer.
   
 - <img width="567" alt="Screenshot 2023-10-27 210603" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/aed6d37c-50bc-4ba2-8621-bb20c26fb391">
--<img width="232" alt="Screenshot 2023-10-27 210626" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/32dbd532-ee71-4661-a2d8-92f799f5e80e">
+- <img width="232" alt="Screenshot 2023-10-27 210626" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/32dbd532-ee71-4661-a2d8-92f799f5e80e">
 - **Style untuk Navigasi**: Ini mengatur tampilan elemen navigasi dengan kelas .nav. Properti position: fixed membuat elemen navigasi tetap di bagian atas halaman saat digulir. Lebar elemen diatur menjadi 100% dari lebar halaman, tingginya adalah 50 piksel, dan diberi latar belakang warna tertentu. Properti z-index diatur ke 100 untuk memastikan elemen navigasi selalu tampil di atas elemen lainnya.
   
 - <img width="553" alt="Screenshot 2023-10-27 210650" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/b37f462f-a4eb-4303-a3e8-cfc952511fc6">
@@ -476,7 +476,7 @@ Berikut adalah penjelasan setiap bagian kode:
 - <img width="439" alt="Screenshot 2023-10-27 210715" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/c087ba8f-cde0-4ad3-b5cc-a70b59b88a78">
 - **Style untuk Gambar**: Ini mengatur tampilan elemen-elemen <img> dalam elemen .content. Ini mencakup memastikan gambar tidak melebihi lebar maksimum elemen konten, menjaga aspek rasio, dan memberikan margin untuk menengahkan gambar. Properti ini memberikan padding pada bagian bawah elemen <body> sebesar 50px, memberikan ruang untuk elemen footer.
   
--<img width="229" alt="Screenshot 2023-10-27 210724" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/869e6132-96e1-436b-9efb-5ec1dff1f6f2">
+- <img width="229" alt="Screenshot 2023-10-27 210724" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/869e6132-96e1-436b-9efb-5ec1dff1f6f2">
 - **Space Antar Paragraf**: Ini adalah aturan untuk menambahkan ruang antara paragraf. Ini menggunakan elemen <br> untuk memberikan jarak yang dapat disesuaikan.
   
 - <img width="334" alt="Screenshot 2023-10-27 210732" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/d72fb7c6-675a-464c-a5a7-86be53470b10">
