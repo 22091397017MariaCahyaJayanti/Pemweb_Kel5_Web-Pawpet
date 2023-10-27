@@ -9,7 +9,8 @@ Daftar Isi
 
 Software Requirements Specification
 for
-< Paw Pet >
+
+ **< Paw Pet >**
 
 
 
@@ -17,10 +18,10 @@ for
 
 Version 1.0 approved
 Prepared by
-- Siti Rina Sari		/ (22091397014)
-- Lady Cristal Beauty Aqluilera / (2091397016)
-- Maria Cahya Jayanti 		/ (22091397017)
-- Dwi Putra Afrilianto 		/ (22091397025)
+ - Siti Rina Sari		/ (22091397014)
+ - Lady Cristal Beauty Aqluilera / (2091397016)
+ - Maria Cahya Jayanti 		/ (22091397017)
+ - Dwi Putra Afrilianto 		/ (22091397025)
 
 
 
