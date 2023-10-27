@@ -655,30 +655,30 @@ Berikut adalah penjelasan setiap bagian kode:
 
 - **Reset Default Styles**: Bagian ini mereset beberapa properti CSS ke nilai defaultnya pada semua elemen HTML, menghindari perubahan tak terduga pada tampilan elemen.
 - **Selector Universal (*)**: Ini adalah selector universal yang memilih semua elemen HTML di halaman.
-- **Margin dan Padding**: Properti ini mengatur margin dan padding semua elemen HTML menjadi nol, menghapus ruang tambahan di sekitarnya.
-- **Box-Sizing**: Properti ini mengubah model kotak elemen menjadi "border-box," sehingga lebar dan tinggi elemen mencakup padding dan border, bukan hanya isi dalamnya.
+- **Margin dan Padding**: ini mengatur margin dan padding semua elemen HTML menjadi nol, menghapus ruang tambahan di sekitarnya.
+- **Box-Sizing**: ini mengubah model kotak elemen menjadi "border-box," sehingga lebar dan tinggi elemen mencakup padding dan border, bukan hanya isi dalamnya.
 
 - <img width="293" alt="kontak css 2" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/e7df3f6b-8343-4bda-841b-a1e89dcd11bb">
 - **Body**: Selector ini digunakan untuk elemen <body> halaman.
-- **Warna Latar Belakang Body**: Properti ini mengatur warna latar belakang halaman menjadi putih.
-- **Font Family**: Properti ini mengatur jenis font yang akan digunakan untuk teks di dalam halaman, dengan mencakup jenis font "Arial" dan fallback "sans-serif" jika Arial tidak tersedia.
-- **Margin Bawah pada Body**: Properti ini memberikan margin bawah sebesar 50px pada elemen <body>, memberikan ruang untuk elemen footer.
+- **Warna Latar Belakang Body**: ini mengatur warna latar belakang halaman menjadi putih.
+- **Font Family**: ini mengatur jenis font yang akan digunakan untuk teks di dalam halaman, dengan mencakup jenis font "Arial" dan fallback "sans-serif" jika Arial tidak tersedia.
+- **Margin Bawah pada Body**: ini memberikan margin bawah sebesar 50px pada elemen <body>, memberikan ruang untuk elemen footer.
   
 - <img width="299" alt="kontak css 3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/b871eba9-2e90-4b73-bf11-30d8796cae4c">
 - **Navigasi (nav)**: Ini adalah class selector yang mengubah tampilan elemen dengan class "nav".
-- **Posisi Navigasi**: Properti ini mengunci elemen navigasi ke posisi tetap di bagian atas halaman sehingga tetap terlihat saat pengguna menggulir ke bawah.
-- **Top Navigasi**: Properti ini mengatur elemen navigasi di bagian atas halaman.
-- **Lebar dan Tinggi Navigasi**: Properti ini mengatur lebar elemen navigasi menjadi 100% dari lebar halaman dan tingginya menjadi 50px.
-- **Warna Latar Belakang Navigasi**: Properti ini mengatur warna latar belakang elemen navigasi.
-- **Z-Index Navigasi**: Properti ini memastikan elemen navigasi tampil di atas elemen lainnya dengan memberikan z-index tinggi.
+- **Posisi Navigasi**:  ini mengunci elemen navigasi ke posisi tetap di bagian atas halaman sehingga tetap terlihat saat pengguna menggulir ke bawah.
+- **Top Navigasi**:  ini mengatur elemen navigasi di bagian atas halaman.
+- **Lebar dan Tinggi Navigasi**:  ini mengatur lebar elemen navigasi menjadi 100% dari lebar halaman dan tingginya menjadi 50px.
+- **Warna Latar Belakang Navigasi**:  ini mengatur warna latar belakang elemen navigasi.
+- **Z-Index Navigasi**: ini memastikan elemen navigasi tampil di atas elemen lainnya dengan memberikan z-index tinggi.
 
 - <img width="274" alt="kontak css 4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/e8969691-1c72-4225-a6fd-2b20fe514c6e">
 - **Container Kontak (contact-container)**: Ini adalah class selector yang mengubah tampilan container yang berisi formulir kontak.
-- **Display Flex**: Properti ini mengatur elemen-elemen di dalam container untuk mengikuti model flexbox.
-- **Flex Direction**: Properti ini mengatur elemen-elemen di dalam container untuk disusun dalam kolom.
-- **Align Items**: Properti ini mengatur elemen-elemen di dalam container agar terpusat secara horizontal.
-- **Text Align**: Properti ini mengatur teks dalam container untuk menjadi rata tengah.
-- **Margin Atas pada Container**: Properti ini memberikan margin atas sebesar 70px pada container untuk menghindari tabrakan dengan elemen navigasi.
+- **Display Flex**:  ini mengatur elemen-elemen di dalam container untuk mengikuti model flexbox.
+- **Flex Direction**: ini mengatur elemen-elemen di dalam container untuk disusun dalam kolom.
+- **Align Items**:  ini mengatur elemen-elemen di dalam container agar terpusat secara horizontal.
+- **Text Align**: ini mengatur teks dalam container untuk menjadi rata tengah.
+- **Margin Atas pada Container**:ini memberikan margin atas sebesar 70px pada container untuk menghindari tabrakan dengan elemen navigasi.
 
 ## CSS THANKS ( Thanks.css )
 
@@ -687,38 +687,38 @@ Berikut adalah penjelasan setiap bagian kode:
 - <img width="215" alt="css thanks 1" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/1d29c470-0e04-4e25-9bc6-95d64944da33">
 - **Reset Default Styles**: Komentar ini digunakan untuk memberikan keterangan terhadap kode. Komentar ini menjelaskan bahwa aturan selanjutnya adalah untuk mereset atau mengatur ulang gaya-gaya bawaan (default styles) browser.
 - **Selector Universal (*)**: Ini adalah selektor universal yang berarti aturan yang didefinisikan di bawahnya akan berlaku untuk semua elemen HTML di halaman.
-- **Margin dan Padding**: Properti ini mengatur margin (ruang putih di sekitar elemen) dan padding (ruang dalam elemen) menjadi nol untuk semua elemen.
-- **Box-Sizing**: Properti ini mengatur model kotak (box model) untuk semua elemen menjadi "border-box," yang berarti ukuran elemen mencakup padding dan border, bukan hanya kontennya.
+- **Margin dan Padding**: ini mengatur margin (ruang putih di sekitar elemen) dan padding (ruang dalam elemen) menjadi nol untuk semua elemen.
+- **Box-Sizing**:  ini mengatur model kotak (box model) untuk semua elemen menjadi "border-box," yang berarti ukuran elemen mencakup padding dan border, bukan hanya kontennya.
 
 - <img width="248" alt="css thanks 2" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/99e18892-345f-4fd4-8a78-a2479b0add76">
 - **Body**: Selector ini mengatur gaya untuk elemen <body> di halaman HTML.
-- **Warna Latar Belakang Body**: Properti ini mengatur warna latar belakang halaman menjadi abu-abu muda (#f2f2f2).
-- **Font Family**: Properti ini mengatur jenis font yang akan digunakan untuk teks di halaman, dengan prioritas Arial, dan jika tidak tersedia, font sans-serif default.
-- **Display Flex**: Properti ini menggunakan model tampilan fleksibel (flexbox) untuk mengatur tata letak elemen di dalam <body>.
-- **Flex Direction**: Properti ini mengatur arah tata letak flexbox menjadi kolom (elemen-elemen akan disusun secara vertikal).
-- **Justify Content**: Properti ini mengatur posisi vertikal elemen-elemen di tengah halaman.
-- **Align Items**: Properti ini mengatur posisi horizontal elemen-elemen di tengah halaman.
-- **Tinggi Body**: Properti ini mengatur tinggi elemen body menjadi 100% dari tinggi viewport (tinggi tampilan browser), sehingga elemen-elemen di dalamnya akan selalu berada di tengah vertikal halaman.
+- **Warna Latar Belakang Body**:  ini mengatur warna latar belakang halaman menjadi abu-abu muda (#f2f2f2).
+- **Font Family**: ini mengatur jenis font yang akan digunakan untuk teks di halaman, dengan prioritas Arial, dan jika tidak tersedia, font sans-serif default.
+- **Display Flex**: ini menggunakan model tampilan fleksibel (flexbox) untuk mengatur tata letak elemen di dalam body.
+- **Flex Direction**: ini mengatur arah tata letak flexbox menjadi kolom (elemen-elemen akan disusun secara vertikal).
+- **Justify Content**:  ini mengatur posisi vertikal elemen-elemen di tengah halaman.
+- **Align Items**: ini mengatur posisi horizontal elemen-elemen di tengah halaman.
+- **Tinggi Body**: ini mengatur tinggi elemen body menjadi 100% dari tinggi viewport (tinggi tampilan browser), sehingga elemen-elemen di dalamnya akan selalu berada di tengah vertikal halaman.
 
 - <img width="203" alt="css thanks 3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/60d70d12-7b31-490f-921f-4fb946666552">
 - **Heading 1 (h1)**: Ini adalah selektor yang mengatur gaya untuk elemen heading level 1.
-- **Ukuran Font H1**: Properti ini mengatur ukuran font teks pada elemen h1 menjadi 32 piksel.
-- **Margin Bawah H1**: Properti ini menambahkan margin bawah sebesar 20 piksel pada elemen h1, yang akan memberikan jarak antara elemen h1 dengan elemen-elemen di bawahnya.
-- **Warna Teks H1**: Properti ini mengatur warna teks pada elemen h1 menjadi abu-abu gelap (#333).
-- **Rata Tengah Teks H1**: Properti ini mengatur teks pada elemen h1 menjadi rata tengah (horizontal).
+- **Ukuran Font H1**: ini mengatur ukuran font teks pada elemen h1 menjadi 32 piksel.
+- **Margin Bawah H1**:  ini menambahkan margin bawah sebesar 20 piksel pada elemen h1, yang akan memberikan jarak antara elemen h1 dengan elemen-elemen di bawahnya.
+- **Warna Teks H1**:  ini mengatur warna teks pada elemen h1 menjadi abu-abu gelap (#333).
+- **Rata Tengah Teks H1**: ini mengatur teks pada elemen h1 menjadi rata tengah (horizontal).
 
 - <img width="428" alt="css thanks 4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/a5a74d73-ade5-41e8-8bb6-a46401fc50bd">
 - **Tautan (a)**: Ini adalah selektor yang mengatur gaya untuk elemen anchor (<a>), yaitu tautan atau link.
-- **Penghapusan Garis Bawah Tautan**: Properti ini menghapus garis bawah (dekorasi) dari tautan, sehingga tautan tidak terlihat seperti tautan biasa.
-- **Warna Latar Belakang Tautan**: Properti ini mengatur warna latar belakang tautan menjadi ungu tua (#8e44ad).
-- **Warna Teks Tautan**: Properti ini mengatur warna teks tautan menjadi putih (#fff).
-- **Padding Tautan**: Properti ini mengatur padding (ruang dalam tautan) sebesar 10 piksel pada atas dan bawah, serta 20 piksel pada sisi kiri dan kanan.
-- **Border Radius Tautan**: Properti ini mengatur sudut border tautan menjadi sudut melengkung sebesar 5 piksel.
-- **Transisi Warna Latar Belakang Tautan**: Properti ini menambahkan efek transisi pada perubahan warna latar belakang tautan selama 0.3 detik dengan perubahan yang lembut (ease).
+- **Penghapusan Garis Bawah Tautan**:  ini menghapus garis bawah (dekorasi) dari tautan, sehingga tautan tidak terlihat seperti tautan biasa.
+- **Warna Latar Belakang Tautan**: ini mengatur warna latar belakang tautan menjadi ungu tua (#8e44ad).
+- **Warna Teks Tautan**: ini mengatur warna teks tautan menjadi putih (#fff).
+- **Padding Tautan**: ini mengatur padding (ruang dalam tautan) sebesar 10 piksel pada atas dan bawah, serta 20 piksel pada sisi kiri dan kanan.
+- **Border Radius Tautan**: ini mengatur sudut border tautan menjadi sudut melengkung sebesar 5 piksel.
+- **Transisi Warna Latar Belakang Tautan**: ini menambahkan efek transisi pada perubahan warna latar belakang tautan selama 0.3 detik dengan perubahan yang lembut (ease).
 
 - <img width="229" alt="css thanks 5" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/b4cba61b-558e-4a40-b916-b181bafcb6cd">
 - **Hover Tautan**: Ini adalah pseudo-class (:hover) yang mengatur gaya tautan saat kursor mouse berada di atasnya (hover).
-- **Warna Latar Belakang Tautan Hover**: Properti ini mengatur warna latar belakang tautan menjadi ungu tua yang lebih gelap (#6c3483) saat tautan dihover oleh kursor mouse..
+- **Warna Latar Belakang Tautan Hover**: ini mengatur warna latar belakang tautan menjadi ungu tua yang lebih gelap (#6c3483) saat tautan dihover oleh kursor mouse..
 
 ## JAVA SCRIPTS HOME ( Home.Js )
 Terdapat 2 Js dihalaman Home. Js ke 1 menjelasakan mirroring untuk setiap gambar. Berikut adalah penjelasan Js ke 1 disetiap kode:
