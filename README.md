@@ -409,65 +409,231 @@ Data Flow Diagram (DFD) Level 2
 Berikut adalah penjelasan singkat tentang setiap bagian kode:
 
 - <img width="279" alt="Picture3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/ab4c23d5-74de-47d2-a8a5-a410da87c66a"> 
-- **Reset CSS**:Bagian ini bertujuan untuk mengatur ulang elemen-elemen HTML ke nilai dasar (default). Ini dilakukan dengan menghilangkan margin dan padding default dari browser serta mengatur model kotak elemen HTML menjadi "border-box." Dengan begitu, semua elemen akan memiliki margin dan padding yang konsisten.
+- **Reset CSS**:Bagian Ini adalah komentar dalam CSS. Ini digunakan untuk memberikan penjelasan atau dokumentasi mengenai bagian-bagian tertentu dalam kode CSS. Pada bagian ini, komentar digunakan untuk menyatakan bahwa ini adalah bagian Reset CSS, yang digunakan untuk mengatur beberapa nilai dasar pada elemen-elemen HTML.
+Ini adalah selektor universal CSS yang memilih semua elemen di halaman web.
+- margin: 0 dan padding: 0 ini mengatur margin dan padding semua elemen HTML menjadi nol. Ini membantu menghindari margin dan padding default yang diberikan oleh browser.
+- box-sizing: border-box ini mengatur model kotak elemen HTML menjadi border-box yang berarti margin dan padding akan diperhitungkan dalam lebar dan tinggi elemen, sehingga tidak akan mengganggu layout.
   
 - <img width="398" alt="Picture4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/28b6dea3-76b8-49f1-b6c7-614ddf166f33">
-- **Styling body**: Bagian ini mengatur tampilan elemen <body> halaman. Hal ini mencakup mengatur warna latar belakang menjadi putih, mengatur jenis font menjadi "Arial" dengan cadangan "sans-serif," dan memberikan margin bawah sebesar 50 piksel agar ada ruang untuk elemen footer.
+- **Styling body**: Bagian ini adalah selektor untuk elemen body dalam halaman HTML.
+- background-color ini mengatur warna latar belakang halaman web menjadi putih.
+- font-family Arial, sans-serif ini mengatur jenis font untuk teks dalam halaman web menjadi Arial atau jika tidak tersedia, menggunakan font sans-serif umum sebagai cadangan.
+- margin-bottom ini memberikan margin bawah pada elemen body sebesar 50 piksel, memberikan ruang untuk footer.
 
 - <img width="576" alt="Screenshot 2023-10-27 202833" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/a537e499-12bc-4434-831d-08e789c7932d">
-- **Stayling Navigation (.nav)**: Ini mengatur tampilan elemen navigasi yang memiliki kelas .nav. Properti position: fixed membuat elemen navigasi tetap berada di bagian atas halaman saat digulir.Lebar elemen diatur menjadi 100% dari lebar halaman, dan tingginya 50 piksel. Latar belakang diberikan warna tertentu dan z-index diatur ke 100 agar elemen navigasi selalu tampil di atas elemen lainnya.
+- **Stayling Navigation (.nav)**: Ini adalah selektor untuk elemen dengan kelas nav yang mungkin digunakan untuk elemen navigasi di halaman. position fixed ini mengatur posisi elemen menjadi tetap sehingga elemen tetap berada di bagian atas halaman saat pengguna menggulir.
+- top ini mengatur elemen ke bagian atas halaman.
+- width ini mengatur lebar elemen menjadi 100% dari lebar halaman.
+- heigh ini mengatur tinggi elemen menjadi 50 piksel.
+- background-color ini mengatur warna latar belakang elemen navigasi.
+- z-index ini mengatur indeks z (tingkat keberadaan) elemen navigasi agar selalu berada di atas elemen lain di halaman.
+- .nav ul Ini adalah selektor untuk elemen yang berada dalam elemen dengan kelas "nav."
+- list-style ini menghilangkan tanda listing (bullet points) pada daftar yang berada dalam elemen.
+- padding ini menghilangkan padding yang biasanya diberikan oleh browser pada elemen.
+- nav ul li Ini adalah selektor untuk elemen-elemen li yang berada dalam elemen ul dengan kelas "nav."
+- display ini mengatur elemen-elemen li menjadi tampil dalam satu baris horizontal.
+- line-height ini mengatur tinggi baris (line height) elemen li menjadi 45 piksel, sehingga teksnya berada di tengah vertikal.
+- margin-right ini memberikan margin sebesar 20 piksel di sebelah kanan setiap elemen li, memberikan jarak antara tautan navigasi.
+- .nav ul li a: Ini adalah selektor untuk tautan atau elemen a yang berada dalam elemen li dalam elemen dengan kelas "nav."
+- color ini mengatur warna teks tautan menjadi putih.
+- text-decoration ini menghilangkan dekorasi tautan seperti garis bawah.
+- nav ul li a hover Ini adalah selektor yang digunakan ketika pengguna mengarahkan kursor mouse ke tautan.
+- color ini mengubah warna teks tautan menjadi hitam saat tautan dihover.
   
 - <img width="252" alt="Picture10" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/703e8813-9b27-4632-93cb-6ac39a06a61f">
-- **Styling Header**: Bagian ini mengatur tampilan elemen header. Teks dalam elemen header diatur agar berada di tengah secara horizontal dengan margin atas sebesar 100 px. Selain itu ukuran font elemen h1 diubah menjadi 28 piksel, dan warna teksnya diatur menjadi hitam.
+- **Styling Header**: bagian Ini adalah selektor untuk elemen dengan tag header.
+- text-align ini mengatur teks dalam elemen header menjadi berada di tengah secara horizontal.
+- margin-top ini memberikan margin atas sebesar 100 piksel pada elemen header.
+- .header h1 Ini adalah selektor untuk elemen h1 yang berada dalam elemen dengan kelas "header."
+- font-size ini mengatur ukuran font untuk elemen h1 menjadi 28 piksel.
+- margin-bottom ini memberikan margin bawah sebesar 20 piksel pada elemen h1.
+- color ini mengatur warna teks elemen h1 menjadi hitam.
   
 - <img width="262" alt="Screenshot 2023-10-27 203257" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/bcba38a9-b25d-4150-ab6f-6430d34d99dd">
 - <img width="229" alt="Screenshot 2023-10-27 203304" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/146ccca8-b1ea-45f9-87f8-82b472c0de6e">
-- **Styling Section**: Bagian ini mengatur tampilan elemen-elemen <section>. Mereka memiliki lebar maksimum 900 piksel, diatur agar berada di tengah secara horizontal di halaman, dan diberikan padding sebesar 20 piksel. Selain itu, ukuran font elemen-elemen h2, p, dan elemen ol, diubah sesuai yang dijelaskan.
+- **Styling Section**: Bagian ini adalah selektor untuk elemen-elemen section dalam halaman web.
+- max-width ini mengatur lebar maksimum elemen-elemen section menjadi 900 piksel.
+- marginini mengatur elemen-elemen section agar berada di tengah secara horizontal di halaman.
+- padding ini memberikan padding sebesar 20 piksel pada elemen-elemen section.
+- .section h2 Ini adalah selektor untuk elemen-elemen h2 yang berada dalam elemen-elemen section.
+- font-size ini mengatur ukuran font untuk elemen-elemen h2 menjadi 20 piksel.
+- margin-bottom ini memberikan margin bawah sebesar 10 piksel pada elemen-elemen h2.
+- color ini mengatur warna teks elemen-elemen h2 menjadi hitam.
+- .section p Ini adalah selektor untuk elemen-elemen p yang berada dalam elemen-elemen section.
+- font-size ini mengatur ukuran font untuk elemen-elemen p menjadi 16 piksel.
+- line-height ini mengatur tinggi baris (line height) elemen-elemen p menjadi 1.5 kali tinggi font memberikan jarak antarbaris yang baik.
+- margin-bottom ini memberikan margin bawah sebesar 20 piksel pada elemen-elemen p.
+- .section ol Ini adalah selektor untuk elemen-elemen ol (daftar terurut) yang berada dalam elemen-elemen section.
+- font-size ini mengatur ukuran font untuk elemen-elemen ol menjadi 16 piksel.
+- line-height ini mengatur tinggi baris (line height) elemen-elemen ol menjadi 1.5 kali tinggi font.
+- margin-bottom memberikan margin bawah sebesar 20 piksel pada elemen-elemen ol.
+- padding-left ini memberikan padding sebesar 20 piksel pada sisi kiri elemen-elemen ol.
+- list-style-type mengatur tipe tanda listing untuk elemen-elemen ol menjadi angka desimal.
 
 - <img width="474" alt="Picture15" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/c6ee8567-5639-4e27-b2ff-3850a0728cbb">
-- **Footer**: Bagian ini mengatur tampilan elemen footer. Footer diatur agar selalu berada di bagian bawah halaman. Lebar, tinggi, warna latar belakang, teks, dan line-height elemen footer diatur sesuai keinginan.
+- **Footer**: bagian Ini adalah selektor untuk elemen dengan kelas "footer," yang mungkin digunakan untuk elemen footer di halaman web.
+- bottom ini mengatur elemen footer agar selalu berada di bagian bawah halaman.
+- left ini mengatur elemen footer agar berada di sisi kiri halaman.
+- width ini mengatur lebar elemen footer menjadi 100% dari lebar halaman.
+- height ini mengatur tinggi elemen footer menjadi 50 piksel.
+- background-color ini mengatur warna latar belakang elemen footer.
+- text-align mengatur teks dalam elemen footer menjadi berada di tengah secara horizontal.
+- line-height ini mengatur tinggi baris (line height) elemen footer menjadi 50 piksel.
+- color ini mengatur warna teks elemen footer menjadi putih.
 
 ## CSS ABOUT (About.css)
 
 Berikut adalah penjelasan setiap bagian kode:
 
 - <img width="219" alt="Screenshot 2023-10-27 204646" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/8dba7eec-d860-434d-97e5-3b44b1ec1fe1">
-- **Reset CSS**:  Bagian ini adalah aturan umum yang mengatur ulang elemen-elemen HTML ke nilai dasar. Ini termasuk menghilangkan margin dan padding default serta mengatur model kotak elemen HTML menjadi "border-box."
+- **Reset CSS**:  Bagian ini adalah komentar yang tidak memengaruhi tampilan halaman web. Ini digunakan untuk memberikan penjelasan tentang bagian berikutnya, yang merupakan aturan untuk mereset beberapa properti CSS ke nilai defaultnya. Ini adalah praktik umum dalam pengembangan web untuk menghindari perubahan tak terduga pada tampilan elemen HTML. Ini adalah selector universal yang memilih semua elemen HTML di halaman.
+- margin Ini mengatur margin dan padding semua elemen HTML menjadi nol. Ini membantu menghapus ruang tambahan yang biasanya ada di sekitar elemen-elemen.
+- box-sizing Ini mengubah model kotak elemen menjadi "border-box," yang berarti lebar dan tinggi elemen sekarang mencakup padding dan border, bukan hanya isi dalamnya.
   
 - <img width="513" alt="Screenshot 2023-10-27 204653" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/65105996-0a2e-44a9-8da4-b378683d8919">
-- **Styling Body**: Bagian ini mengatur tampilan elemen <body> halaman. Ini termasuk mengubah warna latar belakang menjadi abu-abu muda, menggunakan jenis font "Arial" dengan cadangan "sans-serif," dan memberikan margin bawah sebesar 50 piksel untuk memberikan ruang bagi elemen footer.
-
+- **Styling Body**: Bagian ini Ini adalah komentar yang memberikan penjelasan tentang bagian berikutnya, yang berisi aturan untuk mengatur tampilan elemen body halaman.
+- background-color Ini mengatur warna latar belakang halaman menjadi abu-abu muda.
+- font-family Ini mengatur jenis font yang akan digunakan untuk teks di dalam halaman. Ini mencakup jenis font "Arial" dan fallback "sans-serif" jika Arial tidak tersedia.
+- margin-bottom Ini memberikan margin bawah sebesar 50px pada elemen body. Ini memberikan ruang untuk footer di bagian bawah halaman.
+  
 - <img width="563" alt="Screenshot 2023-10-27 204706" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/40a2535f-f6a6-4518-a13f-b7c52ebbaad3">
 - <img width="453" alt="Screenshot 2023-10-27 204722" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/fee148f3-ed67-403a-ac90-f41919b6401b">
-- **Styling Navigation (.nav)**: Ini mengatur tampilan elemen navigasi yang memiliki kelas .nav. Properti position: fixed membuat elemen navigasi tetap berada di bagian atas halaman saat digulir. Lebar elemen diatur menjadi 100% dari lebar halaman, tingginya adalah 50 piksel, dan diberi latar belakang warna tertentu. Properti z-index diatur ke 100 untuk memastikan elemen navigasi selalu tampil di atas elemen lainnya.
-  
+- **Styling Navigation**: bagian Ini adalah komentar yang memberikan penjelasan tentang bagian berikutnya, yang berisi aturan untuk mengatur tampilan elemen navigasi.
+- nav: Ini adalah class selector yang mengganti tampilan elemen dengan class "nav".
+- position Ini mengunci elemen navigasi ke posisi tetap di bagian atas halaman sehingga tetap terlihat saat pengguna menggulir ke bawah.
+- top  Ini mengatur elemen navigasi di bagian atas halaman.
+- width Ini mengatur lebar elemen navigasi menjadi 100% dari lebar halaman.
+- height Ini mengatur tinggi elemen navigasi menjadi 50px.
+- background Ini mengatur warna latar belakang elemen navigasi.
+- z-index ni memastikan elemen navigasi tampil di atas elemen lainnya dengan memberikan z-index tinggi.
+- .nav ul Ini adalah selector untuk elemen ul yang berada dalam elemen dengan class "nav".
+- list-style Ini menghilangkan tanda listing (bullet points) dari daftar.
+- text-align Ini mengatur teks dalam daftar menjadi rata tengah.
+- padding Ini menghapus padding dalam daftar.
+- .nav ul li Ini adalah selector untuk elemen li yang berada dalam elemen ul dalam elemen dengan class "nav".
+- display Ini mengatur elemen-elemen daftar menjadi inline-block sehingga mereka berbaris secara horizontal.
+- line-height Ini mengatur tinggi garis pada elemen-elemen daftar agar sejajar dengan tinggi elemen navigasi.
+- margin-right Ini memberikan margin kanan sebesar 20px pada elemen-elemen daftar sehingga ada jarak antara tautan navigasi.
+- .nav ul li a Ini adalah selector untuk tautan a dalam elemen li.
+- color Ini mengatur warna teks tautan menjadi putih.
+- text-decoration Ini menghapus garis bawah dari tautan.
+- nav ul li a hover: Ini adalah selector untuk tautan a saat dihover.
+- color Ini mengatur warna teks tautan menjadi hitam saat tautan dihover.
+
 - <img width="196" alt="Screenshot 2023-10-27 204738" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/23a9b0a7-e84f-48f0-8207-b48d3d6c9a0b">
-- **Elemen Header**: Bagian ini mengatur tampilan elemen <header>, mengubah teks agar berada di tengah secara horizontal, memberikan margin atas sebesar 100 piksel, mengubah ukuran font elemen h1 dan mengganti warna teks menjadi hitam.
-  
+- **Elemen Header**: Bagian ini Ini adalah selector yang mengidentifikasi elemen-elemen header dalam halaman web. Kode CSS di bawah ini akan berlaku untuk elemen-elemen header.
+- text-align Mengatur teks dalam elemen header agar terpusat secara horizontal di dalamnya. Ini akan membuat teks di dalam header menjadi terpusat.
+- margin-top Memberikan margin atas sebesar 100 piksel pada elemen header. Ini akan membuat elemen header terletak lebih tinggi dari posisi defaultnya. Biasanya digunakan untuk menciptakan ruang di atas header sebelum konten utama dimulai.
+- header h1 Ini adalah selector yang mengidentifikasi elemen-elemen h1 yang berada dalam elemen header. Ini mengatur tampilan elemen-elemen h1 tersebut.
+- font-size  Mengatur ukuran font untuk elemen-elemen h1 menjadi 32 piksel.
+- margin-bottom Memberikan margin bawah sebesar 20 piksel pada elemen-elemen h1. Ini menciptakan jarak antara elemen h1 dan elemen-elemen setelahnya.
+- color Mengatur warna teks elemen-elemen h1 menjadi hitam (#000).
+
 - <img width="493" alt="Screenshot 2023-10-27 204755" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/4e4c1b53-2a0a-42a6-8dbe-fe6aba9db9dc">
-- **Styling Website Description**: Ini mengatur tampilan elemen dengan ID "website-description." Ini termasuk memberikan latar belakang putih, sudut elemen menjadi bulat (border-radius), dan memberikan bayangan elemen (box-shadow).
+- **Styling Website Description**:  Ini adalah selector yang mengidentifikasi elemen dengan ID "website-description". Kode CSS di bawah ini akan berlaku untuk elemen ini.
+- max-width Mengatur lebar maksimum elemen menjadi 900 piksel, sehingga tidak akan melebar lebih dari itu.
+- margin Memberikan margin 20 piksel di atas dan bawah serta secara otomatis meratakan elemen secara horizontal (auto), sehingga elemen ini terletak di tengah halaman.
+- padding Memberikan ruang dalam sekitar isi elemen sejauh 20 piksel.
+- background-color Mengatur latar belakang elemen menjadi warna putih.
+- border-radius Mengatur sudut elemen menjadi bulat dengan jari-jari 10 piksel, memberikan efek estetis.
+- box-shadow Menambahkan bayangan (shadow) dengan offset horisontal dan vertikal 0 piksel, ukuran bayangan 5 piksel, dan warna
+- bayangan dengan RGBA (0, 0, 0, 0.2), sehingga menciptakan efek bayangan ringan pada elemen.
+- website-description h2: Ini adalah selector yang mengidentifikasi elemen-elemen h2 yang berada dalam elemen dengan ID "website-description". Ini mengatur tampilan elemen-elemen h2 tersebut.
+- font-size Mengatur ukuran font menjadi 25 piksel.
+- margin-bottom Memberikan margin bawah sebesar 10 piksel pada elemen-elemen h2.
+- color Mengatur warna teks elemen-elemen h2 menjadi hitam (#000).
+- website-description p Ini adalah selector yang mengidentifikasi elemen-elemen p yang berada dalam elemen dengan ID "website-description". Ini mengatur
+- tampilan elemen-elemen p tersebut.
+- font-size Mengatur ukuran font menjadi 16 piksel.
+- line-height Mengatur tinggi baris (line height) menjadi 1.5 kali ukuran font, menciptakan jarak antar baris yang baik.
+- margin-bottom Memberikan margin bawah sebesar 20 piksel pada elemen-elemen <p>, menciptakan jarak antara paragraf yang lebih luas.
   
 - <img width="486" alt="Screenshot 2023-10-27 205303" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/f7c875e4-7071-4829-9d65-682867c9e94e">
-- **Styling About Authors**: Bagian ini hampir sama dengan "Styling Website Description" tetapi diterapkan pada elemen dengan ID "about-authors." Ini termasuk latar belakang putih, sudut elemen menjadi bulat, dan bayangan elemen.
+- **Styling About Authors**: Bagian ini  Ini adalah selector yang mengidentifikasi elemen dengan ID "about-authors" dalam halaman web. Kode CSS di bawah ini akan berlaku untuk elemen tersebut.
+- max-widthMengatur lebar maksimum elemen dengan ID "about-authors" menjadi 900 piksel. Ini membatasi lebar elemen agar tidak terlalu lebar pada layar yang besar.
+- margin Memberikan margin sebesar 20 piksel di atas dan di bawah elemen "about-authors" dan mengatur margin horizontalnya ke "auto." Ini akan merapikan elemen dan membuatnya terpusat secara horizontal di dalam kontainernya.
+- padding Memberikan padding sebesar 20 piksel di dalam elemen "about-authors." Padding adalah ruang di sekitar kontennya.
+- background-color Mengatur warna latar belakang elemen "about-authors" menjadi putih (#fff).
+- border-radiu Mengatur sudut elemen agar menjadi bulat dengan jari-jari 10 piksel. Ini memberikan elemen sudut yang lembut.
+- box-shadow Menambahkan bayangan elemen. Bayangan ini akan terlihat saat elemen "about-authors" diangkat dari latar belakang halaman. Bayangan ini memiliki ketebalan 5 piksel dan memiliki warna abu-abu (rgba(0, 0, 0, 0.2)).
+- about-authors h2 Ini adalah selector yang mengidentifikasi elemen-elemen h2 yang berada dalam elemen dengan ID "about-authors." Ini mengatur tampilan elemen-elemen h2 tersebut.
+- font-size Mengatur ukuran font untuk elemen-elemen h2 menjadi 25 piksel
+- margin-bottom Memberikan margin bawah sebesar 10 piksel pada elemen-elemen h2. Ini menciptakan jarak antara elemen-elemen h2 dan elemen-elemen setelahnya.
+- color Mengatur warna teks elemen-elemen h2 menjadi hitam.
+- about-authors ol Ini adalah selector yang mengidentifikasi elemen-elemen ol (daftar bernomor) yang berada dalam elemen dengan ID "about-authors." Ini mengatur tampilan elemen-elemen ol tersebut.
+- list-style-type Mengatur tipe tanda listing dalam daftar menjadi angka desimal (1, 2, 3, dst.).
+- padding-left Memberikan padding sebesar 20 piksel pada sisi kiri daftar, menjauhkan angka dari teks.
+- font-size Mengatur ukuran font untuk teks dalam daftar menjadi 16 piksel.
+- line-height Mengatur tinggi baris dalam daftar menjadi 1.5 kali tinggi font, memberikan jarak antarbaris yang baik.
+- margin-bottom Memberikan margin bawah sebesar 20 piksel pada elemen-elemen daftar, menciptakan jarak antara daftar dengan elemen-elemen setelahnya.
   
 - <img width="506" alt="Screenshot 2023-10-27 204837" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/fe8b0bbb-8eaf-4408-b5da-1a5c0f19e008">
-- **Styling Website Topics**: Ini mengatur tampilan elemen dengan ID "website-topics." Seperti "Styling Website Description," ini termasuk memberikan latar belakang putih, sudut elemen menjadi bulat, dan bayangan elemen.
+- **Styling Website Topics**: Ini mengatur tampilan elemen dengan ID "website-topics" dan elemen footer dalam halaman web.
+- max-width Mengatur lebar maksimum elemen dengan ID "website-topics" menjadi 900 piksel. Ini membatasi lebar elemen agar tidak terlalu lebar pada layar yang besar.
+- margin Memberikan margin sebesar 20 piksel di atas dan di bawah elemen "website-topics" dan mengatur margin horizontalnya ke "auto." Ini akan merapikan elemen dan membuatnya terpusat secara horizontal di dalam kontainernya.
+- padding Memberikan padding sebesar 20 piksel di dalam elemen "website-topics." Padding adalah ruang di sekitar kontennya.
+- background-color Mengatur warna latar belakang elemen "website-topics" menjadi putih (#fff).
+- border-radius Mengatur sudut elemen agar menjadi bulat dengan jari-jari 10 piksel. Ini memberikan elemen sudut yang lembut.
+- box-shadow Menambahkan bayangan elemen. Bayangan ini akan terlihat saat elemen "website-topics" diangkat dari latar belakang
+- halaman. Bayangan ini memiliki ketebalan 5 piksel dan memiliki warna abu-abu (rgba(0, 0, 0, 0.2)).
+- font-size Mengatur ukuran font untuk elemen-elemen h2 yang berada dalam elemen dengan ID "website-topics" menjadi 25 piksel.
+- margin-bottom Memberikan margin bawah sebesar 10 piksel pada elemen-elemen h2. Ini menciptakan jarak antara elemen-elemen h2 dan elemen-elemen setelahnya.
+- color Mengatur warna teks elemen-elemen h2 menjadi hitam (#000).
+- list-style-type Mengatur tipe tanda listing dalam daftar menjadi angka desimal (1, 2, 3, dst.).
+- padding-left Memberikan padding sebesar 20 piksel pada sisi kiri daftar, menjauhkan angka dari teks.
+- font-size Mengatur ukuran font untuk teks dalam daftar menjadi 16 piksel.
+- line-height  Mengatur tinggi baris dalam daftar menjadi 1.5 kali tinggi font, memberikan jarak antarbaris yang baik.
+- margin-bottom Memberikan margin bawah sebesar 20 piksel pada elemen-elemen daftar, menciptakan jarak antara daftar dengan elemen-elemen setelahnya.
   
 - <img width="337" alt="Screenshot 2023-10-27 204846" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/b5e4f459-d7ff-4782-aeb8-11dd1721e7a9">
 - **Footer**: Bagian ini mengatur tampilan elemen footer dengan memberikan warna latar belakang, mewajibkannya berada di bagian bawah halaman, dan mengubah warna teks menjadi putih.
+- bottom ini mengatur posisi elemen footer di bagian bawah halaman. Dengan nilai 0, elemen footer akan menempel di bagian bawah halaman.
+- left ini mengatur posisi elemen footer di sisi kiri halaman. Dengan nilai 0, elemen footer akan menempel di sisi kiri halaman.
+- width ini mengatur lebar elemen footer menjadi 100% dari lebar halaman. Ini akan membuat elemen footer mengisi seluruh lebar halaman.
+- height ini mengatur tinggi elemen footer menjadi 50 piksel. Dengan tinggi ini, elemen footer akan memiliki ketinggian 50 piksel.
+- background-color ini mengatur warna latar belakang elemen <footer> menggunakan model warna RGB. Warna yang digunakan adalah warna yang memiliki komponen merah (red), hijau (green), dan biru (blue) dengan nilai masing-masing 223, 184, dan 231. Sehingga, elemen footer akan memiliki latar belakang dengan warna ini.
+- text-align: center;: Properti ini mengatur teks dalam elemen <footer> menjadi terpusat secara horizontal. Dengan demikian, teks dalam footer akan berada di tengah secara horizontal.
+- line-height mengatur tinggi baris dalam elemen footer menjadi 50 piksel. Dengan tinggi baris yang sama dengan tinggi elemen, teks dalam footer akan berada di tengah secara vertikal.
+- color Properti ini mengatur warna teks dalam elemen footer menjadi putih (#fff). Sehingga, teks dalam footer akan memiliki warna putih.
   
 ## CSS CARE ( Care.css )
 
 - <img width="337" alt="Screenshot 2023-10-27 204846" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/00ae99f9-68d8-4dce-b3e4-39ab7b8b3d3c">
-- **Reset CSS**:Bagian ini merupakan aturan yang mengatur ulang elemen-elemen HTML ke nilai dasar. Ini termasuk menghilangkan margin dan padding default pada semua elemen, serta mengatur model kotak elemen HTML menjadi "border-box."
+- **Reset CSS**: Ini adalah komentar yang tidak memengaruhi tampilan halaman web. Ini digunakan untuk memberikan penjelasan tentang bagian berikutnya, yang merupakan aturan untuk mereset beberapa properti CSS ke nilai defaultnya. Ini adalah praktik umum dalam pengembangan web untuk menghindari perubahan tak terduga pada tampilan elemen HTML. Ini adalah selector universal yang memilih semua elemen HTML di halaman.
+- margin dan padding Ini mengatur margin dan padding semua elemen HTML menjadi nol. Ini membantu menghapus ruang tambahan yang biasanya ada di sekitar elemen-elemen.
+- box-sizing Ini mengubah model kotak elemen menjadi "border-box," yang berarti lebar dan tinggi elemen sekarang mencakup padding dan border, bukan hanya isi dalamnya.
   
 - <img width="447" alt="Screenshot 2023-10-27 210552" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/6d513652-8612-48b4-8d72-a17894a3e695">
-- **Style untuk Body**: Bagian ini mengatur tampilan elemen <body> halaman. Ini mencakup mengubah warna latar belakang menjadi putih, menggunakan jenis font "Arial" dengan cadangan "sans-serif," menghapus margin default pada <body>, dan memberikan padding bawah sebesar 50 piksel untuk memberikan ruang bagi footer.
+- **Style untuk Body**: Bagian ini adalah komentar yang memberikan penjelasan tentang bagian berikutnya, yang berisi aturan untuk mengatur tampilan elemen body halaman.
+- background Ini mengatur warna latar belakang halaman menjadi putih.
+- font-family Ini mengatur jenis font yang akan digunakan untuk teks di dalam halaman. Ini mencakup jenis font "Arial" dan fallback "sans-serif" jika Arial tidak tersedia.
+- margin Ini menghapus margin default pada elemen body, sehingga tidak ada ruang tambahan di sekitarnya.
+- padding-bottom Ini memberikan padding pada bagian bawah elemen body sebesar 50px, yang memberikan ruang untuk elemen footer.
   
 - <img width="567" alt="Screenshot 2023-10-27 210603" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/aed6d37c-50bc-4ba2-8621-bb20c26fb391">
 - <img width="232" alt="Screenshot 2023-10-27 210626" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/32dbd532-ee71-4661-a2d8-92f799f5e80e">
-- **Style untuk Navigasi**: Ini mengatur tampilan elemen navigasi dengan kelas .nav. Properti position: fixed membuat elemen navigasi tetap di bagian atas halaman saat digulir. Lebar elemen diatur menjadi 100% dari lebar halaman, tingginya adalah 50 piksel, dan diberi latar belakang warna tertentu. Properti z-index diatur ke 100 untuk memastikan elemen navigasi selalu tampil di atas elemen lainnya.
-  
+- **Style untuk Navigasi**: bagian Ini adalah komentar yang memberikan penjelasan tentang bagian berikutnya, yang berisi aturan untuk mengatur tampilan elemen navigasi.
+- .nav: Ini adalah class selector yang mengganti tampilan elemen dengan class "nav".
+- position Ini mengunci elemen navigasi ke posisi tetap di bagian atas halaman sehingga tetap terlihat saat pengguna menggulir ke bawah.
+- top Ini mengatur elemen navigasi di bagian atas halaman.
+- width Ini mengatur lebar elemen navigasi menjadi 100% dari lebar halaman.
+- height Ini mengatur tinggi elemen navigasi menjadi 50px.
+- background Ini mengatur warna latar belakang elemen navigasi.
+- z-index Ini memastikan elemen navigasi tampil di atas elemen lainnya dengan memberikan z-index tinggi.
+- .nav ul Ini adalah selector untuk elemen ul yang berada dalam elemen dengan class "nav".
+- list-style Ini menghilangkan tanda listing (bullet points) dari daftar.
+- text-align Ini mengatur teks dalam daftar menjadi rata tengah.
+- padding Ini menghapus padding dalam daftar.
+- nav ul li Ini adalah selector untuk elemen li yang berada dalam elemen ul dalam elemen dengan class "nav".
+- display Ini mengatur elemen-elemen daftar menjadi inline-block sehingga mereka berbaris secara horizontal.
+- line-height Ini mengatur tinggi garis pada elemen-elemen daftar agar sejajar dengan tinggi elemen navigasi.
+- margin right Ini memberikan margin kanan sebesar 20px pada elemen-elemen daftar sehingga ada jarak antara tautan navigasi.
+- .nav ul li a Ini adalah selector untuk tautan a dalam elemen li.
+- color Ini mengatur warna teks tautan menjadi putih.
+- text-decoration Ini menghapus garis bawah dari tautan.
+- .nav ul li a hover Ini adalah selector untuk tautan a saat dihover.
+- color Ini mengatur warna teks tautan menjadi hitam saat tautan dihover
+
 - <img width="553" alt="Screenshot 2023-10-27 210650" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/b37f462f-a4eb-4303-a3e8-cfc952511fc6">
 - **Style untuk Konten:**: Bagian ini mengatur tampilan elemen dengan kelas .content. Ini mencakup memberikan lebar maksimum elemen konten, mengatur margin atas, dan memberikan padding.
   
