@@ -409,36 +409,39 @@ Data Flow Diagram (DFD) Level 2
 Berikut adalah penjelasan singkat tentang setiap bagian kode:
 
 - <img width="279" alt="Picture3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/ab4c23d5-74de-47d2-a8a5-a410da87c66a"> 
+
 - **Reset CSS**:Bagian Ini adalah komentar dalam CSS. Ini digunakan untuk memberikan penjelasan atau dokumentasi mengenai bagian-bagian tertentu dalam kode CSS. Pada bagian ini, komentar digunakan untuk menyatakan bahwa ini adalah bagian Reset CSS, yang digunakan untuk mengatur beberapa nilai dasar pada elemen-elemen HTML.
 Ini adalah selektor universal CSS yang memilih semua elemen di halaman web.
-- margin: 0 dan padding: 0 ini mengatur margin dan padding semua elemen HTML menjadi nol. Ini membantu menghindari margin dan padding default yang diberikan oleh browser.
-- box-sizing: border-box ini mengatur model kotak elemen HTML menjadi border-box yang berarti margin dan padding akan diperhitungkan dalam lebar dan tinggi elemen, sehingga tidak akan mengganggu layout.
+- **margin: 0 dan padding: 0** ini mengatur margin dan padding semua elemen HTML menjadi nol. Ini membantu menghindari margin dan padding default yang diberikan oleh browser.
+- **box-sizing: border-box** ini mengatur model kotak elemen HTML menjadi border-box yang berarti margin dan padding akan diperhitungkan dalam lebar dan tinggi elemen, sehingga tidak akan mengganggu layout.
   
 - <img width="398" alt="Picture4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/28b6dea3-76b8-49f1-b6c7-614ddf166f33">
+
 - **Styling body**: Bagian ini adalah selektor untuk elemen body dalam halaman HTML.
-- background-color ini mengatur warna latar belakang halaman web menjadi putih.
-- font-family Arial, sans-serif ini mengatur jenis font untuk teks dalam halaman web menjadi Arial atau jika tidak tersedia, menggunakan font sans-serif umum sebagai cadangan.
-- margin-bottom ini memberikan margin bawah pada elemen body sebesar 50 piksel, memberikan ruang untuk footer.
+- **background-color** ini mengatur warna latar belakang halaman web menjadi putih.
+- **font-family Arial, sans-serif** ini mengatur jenis font untuk teks dalam halaman web menjadi Arial atau jika tidak tersedia, menggunakan font sans-serif umum sebagai cadangan.
+- **margin-bottom** ini memberikan margin bawah pada elemen body sebesar 50 piksel, memberikan ruang untuk footer.
 
 - <img width="576" alt="Screenshot 2023-10-27 202833" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/a537e499-12bc-4434-831d-08e789c7932d">
+
 - **Stayling Navigation (.nav)**: Ini adalah selektor untuk elemen dengan kelas nav yang mungkin digunakan untuk elemen navigasi di halaman. position fixed ini mengatur posisi elemen menjadi tetap sehingga elemen tetap berada di bagian atas halaman saat pengguna menggulir.
-- top ini mengatur elemen ke bagian atas halaman.
-- width ini mengatur lebar elemen menjadi 100% dari lebar halaman.
-- heigh ini mengatur tinggi elemen menjadi 50 piksel.
-- background-color ini mengatur warna latar belakang elemen navigasi.
-- z-index ini mengatur indeks z (tingkat keberadaan) elemen navigasi agar selalu berada di atas elemen lain di halaman.
-- .nav ul Ini adalah selektor untuk elemen yang berada dalam elemen dengan kelas "nav."
-- list-style ini menghilangkan tanda listing (bullet points) pada daftar yang berada dalam elemen.
-- padding ini menghilangkan padding yang biasanya diberikan oleh browser pada elemen.
-- nav ul li Ini adalah selektor untuk elemen-elemen li yang berada dalam elemen ul dengan kelas "nav."
-- display ini mengatur elemen-elemen li menjadi tampil dalam satu baris horizontal.
-- line-height ini mengatur tinggi baris (line height) elemen li menjadi 45 piksel, sehingga teksnya berada di tengah vertikal.
-- margin-right ini memberikan margin sebesar 20 piksel di sebelah kanan setiap elemen li, memberikan jarak antara tautan navigasi.
-- .nav ul li a: Ini adalah selektor untuk tautan atau elemen a yang berada dalam elemen li dalam elemen dengan kelas "nav."
-- color ini mengatur warna teks tautan menjadi putih.
-- text-decoration ini menghilangkan dekorasi tautan seperti garis bawah.
-- nav ul li a hover Ini adalah selektor yang digunakan ketika pengguna mengarahkan kursor mouse ke tautan.
-- color ini mengubah warna teks tautan menjadi hitam saat tautan dihover.
+- **top** ini mengatur elemen ke bagian atas halaman.
+- **width** ini mengatur lebar elemen menjadi 100% dari lebar halaman.
+- **heigh** ini mengatur tinggi elemen menjadi 50 piksel.
+- **background-color** ini mengatur warna latar belakang elemen navigasi.
+- **z-index** ini mengatur indeks** z** (tingkat keberadaan) elemen navigasi agar selalu berada di atas elemen lain di halaman.
+- **.nav ul** Ini adalah selektor untuk elemen yang berada dalam elemen dengan kelas** "nav."**
+-** list-style** ini menghilangkan tanda listing (bullet points) pada daftar yang berada dalam elemen.
+- **padding** ini menghilangkan padding yang biasanya diberikan oleh browser pada elemen.
+- **nav ul li** Ini adalah selektor untuk elemen-elemen li yang berada dalam elemen **ul** dengan kelas** "nav."**
+- **display **ini mengatur elemen-elemen li menjadi tampil dalam satu baris horizontal.
+- **line-height** ini mengatur tinggi baris (line height) elemen **li** menjadi 45 piksel, sehingga teksnya berada di tengah vertikal.
+- **margin-right** ini memberikan margin sebesar 20 piksel di sebelah kanan setiap elemen** li**, memberikan jarak antara tautan navigasi.
+- **.nav ul li a**: Ini adalah selektor untuk tautan atau elemen a yang berada dalam elemen **li** dalam elemen dengan kelas **"nav."**
+- **color** ini mengatur warna teks tautan menjadi putih.
+- **text-decoration** ini menghilangkan dekorasi tautan seperti garis bawah.
+- **nav ul li a hover** Ini adalah selektor yang digunakan ketika pengguna mengarahkan kursor mouse ke tautan.
+- **color** ini mengubah warna teks tautan menjadi hitam saat tautan dihover.
   
 - <img width="252" alt="Picture10" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/703e8813-9b27-4632-93cb-6ac39a06a61f">
 - **Styling Header**: bagian Ini adalah selektor untuk elemen dengan tag header.
