@@ -445,35 +445,38 @@ Ini adalah selektor universal CSS yang memilih semua elemen di halaman web.
   
 - <img width="252" alt="Picture10" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/703e8813-9b27-4632-93cb-6ac39a06a61f">
 - **Styling Header**: bagian Ini adalah selektor untuk elemen dengan tag header.
-- text-align ini mengatur teks dalam elemen header menjadi berada di tengah secara horizontal.
-- margin-top ini memberikan margin atas sebesar 100 piksel pada elemen header.
-- .header h1 Ini adalah selektor untuk elemen h1 yang berada dalam elemen dengan kelas "header."
-- font-size ini mengatur ukuran font untuk elemen h1 menjadi 28 piksel.
-- margin-bottom ini memberikan margin bawah sebesar 20 piksel pada elemen h1.
-- color ini mengatur warna teks elemen h1 menjadi hitam.
+- **text-align** ini mengatur teks dalam elemen **header** menjadi berada di tengah secara horizontal.
+- **margin-top** ini memberikan margin atas sebesar 100 piksel pada elemen** header.**
+- **.header h1** Ini adalah selektor untuk elemen** h1** yang berada dalam elemen dengan kelas** "header."**
+- **font-size** ini mengatur ukuran font untuk elemen** h1 **menjadi 28 piksel.
+-** margin-bottom** ini memberikan margin bawah sebesar 20 piksel pada elemen h1.
+- **color** ini mengatur warna teks elemen **h1** menjadi hitam.
   
 - <img width="262" alt="Screenshot 2023-10-27 203257" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/bcba38a9-b25d-4150-ab6f-6430d34d99dd">
+
 - <img width="229" alt="Screenshot 2023-10-27 203304" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/146ccca8-b1ea-45f9-87f8-82b472c0de6e">
+   
 - **Styling Section**: Bagian ini adalah selektor untuk elemen-elemen section dalam halaman web.
-- max-width ini mengatur lebar maksimum elemen-elemen section menjadi 900 piksel.
-- marginini mengatur elemen-elemen section agar berada di tengah secara horizontal di halaman.
-- padding ini memberikan padding sebesar 20 piksel pada elemen-elemen section.
-- .section h2 Ini adalah selektor untuk elemen-elemen h2 yang berada dalam elemen-elemen section.
-- font-size ini mengatur ukuran font untuk elemen-elemen h2 menjadi 20 piksel.
-- margin-bottom ini memberikan margin bawah sebesar 10 piksel pada elemen-elemen h2.
-- color ini mengatur warna teks elemen-elemen h2 menjadi hitam.
-- .section p Ini adalah selektor untuk elemen-elemen p yang berada dalam elemen-elemen section.
-- font-size ini mengatur ukuran font untuk elemen-elemen p menjadi 16 piksel.
-- line-height ini mengatur tinggi baris (line height) elemen-elemen p menjadi 1.5 kali tinggi font memberikan jarak antarbaris yang baik.
-- margin-bottom ini memberikan margin bawah sebesar 20 piksel pada elemen-elemen p.
-- .section ol Ini adalah selektor untuk elemen-elemen ol (daftar terurut) yang berada dalam elemen-elemen section.
-- font-size ini mengatur ukuran font untuk elemen-elemen ol menjadi 16 piksel.
-- line-height ini mengatur tinggi baris (line height) elemen-elemen ol menjadi 1.5 kali tinggi font.
-- margin-bottom memberikan margin bawah sebesar 20 piksel pada elemen-elemen ol.
-- padding-left ini memberikan padding sebesar 20 piksel pada sisi kiri elemen-elemen ol.
-- list-style-type mengatur tipe tanda listing untuk elemen-elemen ol menjadi angka desimal.
+- **max-width** ini mengatur lebar maksimum elemen-elemen **section** menjadi 900 piksel.
+- **marginini** mengatur elemen-elemen **section** agar berada di tengah secara horizontal di halaman.
+- **padding** ini memberikan padding sebesar 20 piksel pada elemen-elemen section.
+- **.section h2** Ini adalah selektor untuk elemen-elemen h2 yang berada dalam elemen-elemen **section.**
+- **font-size** ini mengatur ukuran font untuk elemen-elemen **h2 **menjadi 20 piksel.
+-** margin-bottom** ini memberikan margin bawah sebesar 10 piksel pada elemen-elemen h2.
+-**color** ini mengatur warna teks elemen-elemen **h2** menjadi hitam.
+- **.section p** Ini adalah selektor untuk elemen-elemen **p** yang berada dalam elemen-elemen section.
+- **font-size** ini mengatur ukuran font untuk elemen-elemen **p **menjadi 16 piksel.
+- **line-height** ini mengatur tinggi baris (line height) elemen-elemen **p** menjadi 1.5 kali tinggi font memberikan jarak antarbaris yang baik.
+- **margin-bottom** ini memberikan margin bawah sebesar 20 piksel pada elemen-elemen **p**.
+- **.section ol** Ini adalah selektor untuk elemen-elemen **ol** (daftar terurut) yang berada dalam elemen-elemen **section**.
+- **font-size **ini mengatur ukuran font untuk elemen-elemen** ol** menjadi 16 piksel.
+- **line-height** ini mengatur tinggi baris (line height) elemen-elemen **ol **menjadi 1.5 kali tinggi font.
+- **margin-bottom** memberikan margin bawah sebesar 20 piksel pada elemen-elemen **ol**.
+- **padding-left** ini memberikan padding sebesar 20 piksel pada sisi kiri elemen-elemen **ol**.
+- **list-style-type** mengatur tipe tanda listing untuk elemen-elemen **ol** menjadi angka desimal.
 
 - <img width="474" alt="Picture15" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/c6ee8567-5639-4e27-b2ff-3850a0728cbb">
+
 - **Footer**: bagian Ini adalah selektor untuk elemen dengan kelas "footer," yang mungkin digunakan untuk elemen footer di halaman web.
 - bottom ini mengatur elemen footer agar selalu berada di bagian bawah halaman.
 - left ini mengatur elemen footer agar berada di sisi kiri halaman.
