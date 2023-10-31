@@ -410,7 +410,7 @@ Berikut adalah penjelasan singkat tentang setiap bagian kode:
 
 - <img width="279" alt="Picture3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/ab4c23d5-74de-47d2-a8a5-a410da87c66a"> 
 
-- **Reset CSS**:Bagian Ini adalah komentar dalam CSS. Ini digunakan untuk memberikan penjelasan atau dokumentasi 
+- **Reset CSS** :Bagian Ini adalah komentar dalam CSS. Ini digunakan untuk memberikan penjelasan atau dokumentasi 
   mengenai bagian-bagian tertentu dalam kode CSS. Pada bagian ini, komentar digunakan untuk menyatakan bahwa ini 
   adalah bagian Reset CSS, yang digunakan untuk mengatur beberapa nilai dasar pada elemen-elemen HTML.
   Ini adalah selektor universal CSS yang memilih semua elemen di halaman web.
@@ -421,7 +421,7 @@ Berikut adalah penjelasan singkat tentang setiap bagian kode:
   
 - <img width="398" alt="Picture4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/28b6dea3-76b8-49f1-b6c7-614ddf166f33">
 
-- **Styling body**: Bagian ini adalah selektor untuk elemen body dalam halaman HTML.
+- **Styling body** : Bagian ini adalah selektor untuk elemen body dalam halaman HTML.
 - **background-color** ini mengatur warna latar belakang halaman web menjadi putih.
 - **font-family Arial, sans-serif** ini mengatur jenis font untuk teks dalam halaman web menjadi Arial atau jika tidak tersedia, 
   menggunakan font sans-serif umum sebagai cadangan.
@@ -429,35 +429,36 @@ Berikut adalah penjelasan singkat tentang setiap bagian kode:
 
 - <img width="576" alt="Screenshot 2023-10-27 202833" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/a537e499-12bc-4434-831d-08e789c7932d">
 
-- **Stayling Navigation (.nav)**: Ini adalah selektor untuk elemen dengan kelas nav yang mungkin digunakan untuk elemen navigasi di 
+- **Stayling Navigation (.nav)** : Ini adalah selektor untuk elemen dengan kelas nav yang mungkin digunakan untuk elemen navigasi di 
   halaman. position fixed ini mengatur posisi elemen menjadi tetap sehingga elemen tetap berada di bagian atas halaman saat pengguna 
   menggulir.
 - **top** ini mengatur elemen ke bagian atas halaman.
 - **width** ini mengatur lebar elemen menjadi 100% dari lebar halaman.
 - **heigh** ini mengatur tinggi elemen menjadi 50 piksel.
 - **background-color** ini mengatur warna latar belakang elemen navigasi.
-- **z-index** ini mengatur indeks** z** (tingkat keberadaan) elemen navigasi agar selalu berada di atas elemen lain di halaman.
-- **.nav ul** Ini adalah selektor untuk elemen yang berada dalam elemen dengan kelas** "nav."**
+- **z-index** ini mengatur indeks ** z** (tingkat keberadaan) elemen navigasi agar selalu berada di atas elemen lain di halaman.
+- **.nav ul** Ini adalah selektor untuk elemen yang berada dalam elemen dengan kelas ** "nav."**
 - ** list-style** ini menghilangkan tanda listing (bullet points) pada daftar yang berada dalam elemen.
 - **padding** ini menghilangkan padding yang biasanya diberikan oleh browser pada elemen.
-- **nav ul li** Ini adalah selektor untuk elemen-elemen li yang berada dalam elemen **ul** dengan kelas** "nav."**
-- **display **ini mengatur elemen-elemen li menjadi tampil dalam satu baris horizontal.
+- **nav ul li** Ini adalah selektor untuk elemen-elemen li yang berada dalam elemen **ul** dengan kelas ** "nav."**
+- **display ** ini mengatur elemen-elemen li menjadi tampil dalam satu baris horizontal.
 - **line-height** ini mengatur tinggi baris (line height) elemen **li** menjadi 45 piksel, sehingga teksnya berada di tengah vertikal.
-- **margin-right** ini memberikan margin sebesar 20 piksel di sebelah kanan setiap elemen** li**, memberikan jarak antara tautan 
+- **margin-right** ini memberikan margin sebesar 20 piksel di sebelah kanan setiap elemen ** li**, memberikan jarak antara tautan 
   navigasi.
-- **.nav ul li a**: Ini adalah selektor untuk tautan atau elemen a yang berada dalam elemen **li** dalam elemen dengan kelas **"nav."**
+- **.nav ul li a** : Ini adalah selektor untuk tautan atau elemen a yang berada dalam elemen **li** dalam elemen dengan kelas **"nav."**
 - **color** ini mengatur warna teks tautan menjadi putih.
 - **text-decoration** ini menghilangkan dekorasi tautan seperti garis bawah.
 - **nav ul li a hover** Ini adalah selektor yang digunakan ketika pengguna mengarahkan kursor mouse ke tautan.
 - **color** ini mengubah warna teks tautan menjadi hitam saat tautan dihover.
   
 - <img width="252" alt="Picture10" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/703e8813-9b27-4632-93cb-6ac39a06a61f">
-- **Styling Header**: bagian Ini adalah selektor untuk elemen dengan tag header.
+
+- **Styling Header** : bagian Ini adalah selektor untuk elemen dengan tag header.
 - **text-align** ini mengatur teks dalam elemen **header** menjadi berada di tengah secara horizontal.
-- **margin-top** ini memberikan margin atas sebesar 100 piksel pada elemen** header.**
-- **.header h1** Ini adalah selektor untuk elemen** h1** yang berada dalam elemen dengan kelas** "header."**
-- **font-size** ini mengatur ukuran font untuk elemen** h1 **menjadi 28 piksel.
-- ** margin-bottom** ini memberikan margin bawah sebesar 20 piksel pada elemen h1.
+- **margin-top** ini memberikan margin atas sebesar 100 piksel pada elemen ** header.**
+- **.header h1** Ini adalah selektor untuk elemen ** h1** yang berada dalam elemen dengan kelas ** "header."**
+- **font-size** ini mengatur ukuran font untuk elemen ** h1 **menjadi 28 piksel.
+- ** margin-bottom** ini memberikan margin bawah sebesar 20 piksel pada elemen **h1** .
 - **color** ini mengatur warna teks elemen **h1** menjadi hitam.
   
 - <img width="262" alt="Screenshot 2023-10-27 203257" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/bcba38a9-b25d-4150-ab6f-6430d34d99dd">
@@ -469,31 +470,32 @@ Berikut adalah penjelasan singkat tentang setiap bagian kode:
 - **marginini** mengatur elemen-elemen **section** agar berada di tengah secara horizontal di halaman.
 - **padding** ini memberikan padding sebesar 20 piksel pada elemen-elemen section.
 - **.section h2** Ini adalah selektor untuk elemen-elemen h2 yang berada dalam elemen-elemen **section.**
-- **font-size** ini mengatur ukuran font untuk elemen-elemen **h2 **menjadi 20 piksel.
-- ** margin-bottom** ini memberikan margin bawah sebesar 10 piksel pada elemen-elemen h2.
+- **font-size** ini mengatur ukuran font untuk elemen-elemen **h2 ** menjadi 20 piksel.
+- ** margin-bottom** ini memberikan margin bawah sebesar 10 piksel pada elemen-elemen **h2** .
 - **color** ini mengatur warna teks elemen-elemen **h2** menjadi hitam.
 - **.section p** Ini adalah selektor untuk elemen-elemen **p** yang berada dalam elemen-elemen section.
-- **font-size** ini mengatur ukuran font untuk elemen-elemen **p **menjadi 16 piksel.
-- **line-height** ini mengatur tinggi baris (line height) elemen-elemen **p** menjadi 1.5 kali tinggi font memberikan jarak antarbaris 
-  yang baik.
+- **font-size** ini mengatur ukuran font untuk elemen-elemen **p ** menjadi 16 piksel.
+- **line-height** ini mengatur tinggi baris (line height) elemen-elemen **p** menjadi 1.5 kali tinggi font memberikan 
+  jarak antarbaris yang baik.
 - **margin-bottom** ini memberikan margin bawah sebesar 20 piksel pada elemen-elemen **p**.
-- **.section ol** Ini adalah selektor untuk elemen-elemen **ol** (daftar terurut) yang berada dalam elemen-elemen **section**.
-- **font-size **ini mengatur ukuran font untuk elemen-elemen** ol** menjadi 16 piksel.
-- **line-height** ini mengatur tinggi baris (line height) elemen-elemen **ol **menjadi 1.5 kali tinggi font.
+- **.section ol** Ini adalah selektor untuk elemen-elemen **ol** (daftar terurut) yang berada dalam elemen-elemen 
+  **section**.
+- **font-size ** ini mengatur ukuran font untuk elemen-elemen  ** ol** menjadi 16 piksel.
+- **line-height** ini mengatur tinggi baris (line height) elemen-elemen **ol ** menjadi 1.5 kali tinggi font.
 - **margin-bottom** memberikan margin bawah sebesar 20 piksel pada elemen-elemen **ol**.
 - **padding-left** ini memberikan padding sebesar 20 piksel pada sisi kiri elemen-elemen **ol**.
 - **list-style-type** mengatur tipe tanda listing untuk elemen-elemen **ol** menjadi angka desimal.
 
 - <img width="474" alt="Picture15" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/c6ee8567-5639-4e27-b2ff-3850a0728cbb">
 
-- **Footer**: bagian Ini adalah selektor untuk elemen dengan kelas **"footer,"** yang mungkin digunakan untuk elemen footer di halaman 
-   web.
+- **Footer** : bagian Ini adalah selektor untuk elemen dengan kelas **"footer,"** yang mungkin digunakan untuk elemen 
+  footer di halaman web.
 - **bottom** ini mengatur elemen **footer** agar selalu berada di bagian bawah halaman.
-- **left** ini mengatur elemen** footer** agar berada di sisi kiri halaman.
-- **width** ini mengatur lebar elemen **footer **menjadi 100% dari lebar halaman.
+- **left** ini mengatur elemen ** footer** agar berada di sisi kiri halaman.
+- **width** ini mengatur lebar elemen **footer ** menjadi 100% dari lebar halaman.
 - **height** ini mengatur tinggi elemen **footer** menjadi 50 piksel.
-- **background-color** ini mengatur warna latar belakang elemen** footer**.
-- ** text-align** mengatur teks dalam elemen** footer** menjadi berada di tengah secara horizontal.
+- **background-color** ini mengatur warna latar belakang elemen ** footer**.
+- ** text-align** mengatur teks dalam elemen ** footer** menjadi berada di tengah secara horizontal.
 - **line-height** ini mengatur tinggi baris (line height) elemen **footer** menjadi 50 piksel.
 - **color** ini mengatur warna teks elemen **footer** menjadi putih.
 
@@ -503,68 +505,74 @@ Berikut adalah penjelasan setiap bagian kode:
 
 - <img width="219" alt="Screenshot 2023-10-27 204646" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/8dba7eec-d860-434d-97e5-3b44b1ec1fe1">
 
-- **Reset CSS**:  Bagian ini adalah komentar yang tidak memengaruhi tampilan halaman web. Ini digunakan untuk memberikan penjelasan 
-  tentang bagian berikutnya, yang merupakan aturan untuk mereset beberapa properti CSS ke nilai defaultnya. Ini adalah praktik umum 
-  dalam pengembangan web untuk menghindari perubahan tak terduga pada tampilan elemen** HTML**. Ini adalah selector universal yang 
-  memilih semua elemen** HTML** di halaman.
-- **margin** Ini mengatur margin dan padding semua elemen HTML menjadi nol. Ini membantu menghapus ruang tambahan yang biasanya ada di 
-  sekitar elemen-elemen.
+- **Reset CSS**:  Bagian ini adalah komentar yang tidak memengaruhi tampilan halaman web. Ini digunakan untuk 
+  memberikan penjelasan tentang bagian berikutnya, yang merupakan aturan untuk mereset beberapa properti CSS ke nilai 
+  defaultnya. Ini adalah praktik umum dalam pengembangan web untuk menghindari perubahan tak terduga pada tampilan 
+  elemen ** HTML**. Ini adalah selector universal yang 
+  memilih semua elemen ** HTML** di halaman.
+- **margin** Ini mengatur margin dan padding semua elemen **HTML** menjadi nol. Ini membantu menghapus ruang tambahan 
+  yang biasanya ada di sekitar elemen-elemen.
 - **box-sizing** Ini mengubah model kotak elemen menjadi "border-box," yang berarti lebar dan tinggi elemen sekarang mencakup padding dan border, bukan hanya isi dalamnya.
   
 - <img width="513" alt="Screenshot 2023-10-27 204653" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/65105996-0a2e-44a9-8da4-b378683d8919">
 
-- **Styling Body**: Bagian ini Ini adalah komentar yang memberikan penjelasan tentang bagian berikutnya, yang berisi aturan untuk mengatur tampilan elemen body halaman.
+- **Styling Body**: Bagian ini Ini adalah komentar yang memberikan penjelasan tentang bagian berikutnya, yang berisi 
+  aturan untuk mengatur tampilan elemen body halaman.
 - **background-color** Ini mengatur warna latar belakang halaman menjadi abu-abu muda.
-- **font-family** Ini mengatur jenis font yang akan digunakan untuk teks di dalam halaman. Ini mencakup jenis font "Arial" dan fallback 
-   "sans-serif" jika Arial tidak tersedia.
-- **margin-bottom** Ini memberikan margin bawah sebesar 50px pada elemen body. Ini memberikan ruang untuk footer di bagian bawah halaman.
+- **font-family** Ini mengatur jenis font yang akan digunakan untuk teks di dalam halaman. Ini mencakup jenis font 
+  "Arial" dan fallback  "sans-serif" jika Arial tidak tersedia.
+- **margin-bottom** Ini memberikan margin bawah sebesar 50px pada elemen body. Ini memberikan ruang untuk footer di 
+  bagian bawah halaman.
   
 - <img width="563" alt="Screenshot 2023-10-27 204706" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/40a2535f-f6a6-4518-a13f-b7c52ebbaad3">
 
 - <img width="453" alt="Screenshot 2023-10-27 204722" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/fee148f3-ed67-403a-ac90-f41919b6401b">
 
-- **Styling Navigation**: bagian Ini adalah komentar yang memberikan penjelasan tentang bagian berikutnya, yang berisi aturan untuk mengatur tampilan elemen **navigasi.**
-- **nav:** Ini adalah class selector yang mengganti tampilan elemen dengan class "nav".
-- ** position** Ini mengunci elemen **navigasi** ke posisi tetap di bagian atas halaman sehingga tetap terlihat saat pengguna menggulir ke bawah.
-- **top**  Ini mengatur elemen** navigasi** di bagian atas halaman.
-- ** width** Ini mengatur lebar elemen navigasi menjadi 100% dari lebar halaman.
-- **height** Ini mengatur tinggi elemen navigasi menjadi 50px.
-- **background** Ini mengatur warna latar belakang elemen navigasi.
+- **Styling Navigation** : bagian Ini adalah komentar yang memberikan penjelasan tentang bagian berikutnya, yang 
+  berisi aturan untuk mengatur tampilan elemen **navigasi.**
+- **nav:** Ini adalah class selector yang mengganti tampilan elemen dengan class **"nav"** .
+- **position** Ini mengunci elemen **navigasi** ke posisi tetap di bagian atas halaman sehingga tetap terlihat saat 
+  pengguna menggulir ke bawah.
+- **top**  Ini mengatur elemen ** navigasi** di bagian atas halaman.
+- **width** Ini mengatur lebar elemen **navigasi** menjadi 100% dari lebar halaman.
+- **height** Ini mengatur tinggi elemen **navigasi** menjadi 50px.
+- **background** Ini mengatur warna latar belakang elemen** navigasi** .
 - **z-index** ni memastikan elemen navigasi tampil di atas elemen lainnya dengan memberikan z-index tinggi.
-- **.nav ul** Ini adalah selector untuk elemen **ul** yang berada dalam elemen dengan class "nav".
+- **.nav ul** Ini adalah selector untuk elemen **ul** yang berada dalam elemen dengan class **"nav"** .
 - **list-style** Ini menghilangkan tanda listing (bullet points) dari daftar.
 - **text-align** Ini mengatur teks dalam daftar menjadi rata tengah.
 - **padding** Ini menghapus padding dalam daftar.
 - **.nav ul li** Ini adalah selector untuk elemen li yang berada dalam elemen **ul** dalam elemen dengan class 
   **"nav"**.
 - **display** Ini mengatur elemen-elemen daftar menjadi inline-block sehingga mereka berbaris secara horizontal.
-- **line-height** Ini mengatur tinggi garis pada elemen-elemen daftar agar sejajar dengan tinggi elemen **navigasi**.
+- **line-height** Ini mengatur tinggi garis pada elemen-elemen daftar agar sejajar dengan tinggi elemen **navigasi** .
 - **margin-right** Ini memberikan margin kanan sebesar 20px pada elemen-elemen daftar sehingga ada jarak antara 
   tautan navigasi.
 - **.nav ul li a** Ini adalah selector untuk tautan a dalam elemen **li**.
 - **color** Ini mengatur warna teks tautan menjadi putih.
 - **text-decoration** Ini menghapus garis bawah dari tautan.
-- **nav ul li a hover**: Ini adalah selector untuk tautan a saat dihover.
+- **nav ul li a hover** : Ini adalah selector untuk tautan a saat dihover.
 - **color** Ini mengatur warna teks tautan menjadi hitam saat tautan dihover.
 
 - <img width="196" alt="Screenshot 2023-10-27 204738" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/23a9b0a7-e84f-48f0-8207-b48d3d6c9a0b">
+
 - **Elemen Header**: Bagian ini Ini adalah selector yang mengidentifikasi elemen-elemen header dalam halaman web. 
   Kode CSS di bawah ini akan berlaku untuk elemen-elemen header.
-- text-align Mengatur teks dalam elemen header agar terpusat secara horizontal di dalamnya. Ini akan membuat teks di 
-  dalam header menjadi terpusat.
-- margin-top Memberikan margin atas sebesar 100 piksel pada elemen header. Ini akan membuat elemen header terletak 
-  lebih tinggi dari posisi defaultnya. Biasanya digunakan untuk menciptakan ruang di atas header sebelum konten utama 
-  dimulai.
-- header h1 Ini adalah selector yang mengidentifikasi elemen-elemen h1 yang berada dalam elemen header. Ini mengatur 
-  tampilan elemen-elemen h1 tersebut.
-- font-size  Mengatur ukuran font untuk elemen-elemen h1 menjadi 32 piksel.
-- margin-bottom Memberikan margin bawah sebesar 20 piksel pada elemen-elemen h1. Ini menciptakan jarak antara elemen 
-  h1 dan elemen-elemen setelahnya.
-- color Mengatur warna teks elemen-elemen h1 menjadi hitam (#000).
+- **text-align**  Mengatur teks dalam elemen **header** agar terpusat secara horizontal di dalamnya. Ini akan 
+  membuat teks di dalam header menjadi terpusat.
+- **margin-top** Memberikan margin atas sebesar 100 piksel pada elemen header. Ini akan membuat elemen **header ** 
+  terletak lebih tinggi dari posisi defaultnya. Biasanya digunakan untuk menciptakan ruang di atas header sebelum 
+  konten utama dimulai.
+- **header h1** Ini adalah selector yang mengidentifikasi elemen-elemen **h1** yang berada dalam elemen **header** . 
+  Ini mengatur tampilan elemen-elemen **h1** tersebut.
+- **font-size**  Mengatur ukuran font untuk elemen-elemen **h1** menjadi 32 piksel.
+- **margin-bottom** Memberikan margin bawah sebesar 20 piksel pada elemen-elemen **h1** . Ini menciptakan jarak 
+  antara elemen **h1** dan elemen-elemen setelahnya.
+- color Mengatur warna teks elemen-elemen **h1** menjadi hitam (#000).
 
 - <img width="493" alt="Screenshot 2023-10-27 204755" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/4e4c1b53-2a0a-42a6-8dbe-fe6aba9db9dc">
 
-- **Styling Website Description**:  Ini adalah selector yang mengidentifikasi elemen dengan ID **"website- 
+- **Styling Website Description** :  Ini adalah selector yang mengidentifikasi elemen dengan ID **"website- 
   description"**. Kode CSS di bawah ini akan berlaku untuk elemen ini.
 - **max-width** Mengatur lebar maksimum elemen menjadi 900 piksel, sehingga tidak akan melebar lebih dari itu.
 - **margin** Memberikan margin 20 piksel di atas dan bawah serta secara otomatis meratakan elemen secara horizontal 
@@ -575,28 +583,28 @@ Berikut adalah penjelasan setiap bagian kode:
 - **box-shadow** Menambahkan bayangan (shadow) dengan offset horisontal dan vertikal 0 piksel, ukuran bayangan 5 
   piksel, dan warna
 - bayangan dengan RGBA (0, 0, 0, 0.2), sehingga menciptakan efek bayangan ringan pada elemen.
-- **website-description h2**: Ini adalah selector yang mengidentifikasi elemen-elemen **h2** yang berada dalam elemen 
-  dengan ID **"website-description"**. Ini mengatur tampilan elemen-elemen **h2** tersebut.
+- **website-description h2** : Ini adalah selector yang mengidentifikasi elemen-elemen **h2** yang berada dalam 
+  elemen dengan ID **"website-description"** . Ini mengatur tampilan elemen-elemen **h2** tersebut.
 - **font-size** Mengatur ukuran font menjadi 25 piksel.
-- **margin-bottom** Memberikan margin bawah sebesar 10 piksel pada elemen-elemen **h2**.
-- **color **Mengatur warna teks elemen-elemen **h2** menjadi hitam (#000).
-- **website-description p** Ini adalah selector yang mengidentifikasi elemen-elemen** p** yang berada dalam elemen 
-  dengan ID **"website-description"**. Ini mengatur
-- tampilan elemen-elemen** p** tersebut.
+- **margin-bottom** Memberikan margin bawah sebesar 10 piksel pada elemen-elemen **h2** .
+- **color ** Mengatur warna teks elemen-elemen **h2** menjadi hitam (#000).
+- **website-description p** Ini adalah selector yang mengidentifikasi elemen-elemen ** p** yang berada dalam elemen 
+  dengan ID **"website-description"** . Ini mengatur
+- tampilan elemen-elemen ** p** tersebut.
 - **font-size** Mengatur ukuran font menjadi 16 piksel.
 - **line-height** Mengatur tinggi baris (line height) menjadi 1.5 kali ukuran font, menciptakan jarak antar baris 
   yang baik.
-- **margin-bottom** Memberikan margin bawah sebesar 20 piksel pada elemen-elemen **<p>**, menciptakan jarak antara 
+- **margin-bottom** Memberikan margin bawah sebesar 20 piksel pada elemen-elemen **<p>** , menciptakan jarak antara 
   paragraf yang lebih luas.
   
 - <img width="486" alt="Screenshot 2023-10-27 205303" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/f7c875e4-7071-4829-9d65-682867c9e94e">
 
 
-- **Styling About Authors**: Bagian ini  Ini adalah selector yang mengidentifikasi elemen dengan ID "about-authors" 
+- **Styling About Authors** : Bagian ini  Ini adalah selector yang mengidentifikasi elemen dengan ID "about-authors" 
   dalam halaman web. Kode CSS di bawah ini akan berlaku untuk elemen tersebut.
 - **max-width** Mengatur lebar maksimum elemen dengan ID "about-authors" menjadi 900 piksel. Ini membatasi lebar 
   elemen agar tidak terlalu lebar pada layar yang besar.
--** margin** Memberikan margin sebesar 20 piksel di atas dan di bawah elemen "about-authors" dan mengatur margin 
+- **margin** Memberikan margin sebesar 20 piksel di atas dan di bawah elemen "about-authors" dan mengatur margin 
   horizontalnya ke "auto." Ini akan merapikan elemen dan membuatnya terpusat secara horizontal di dalam kontainernya.
 - **padding** Memberikan padding sebesar 20 piksel di dalam elemen **"about-authors."** Padding adalah ruang di 
   sekitar kontennya.
@@ -606,13 +614,13 @@ Berikut adalah penjelasan setiap bagian kode:
 - **box-shadow** Menambahkan bayangan elemen. Bayangan ini akan terlihat saat elemen **"about-authors"** diangkat dari 
   latar belakang halaman. Bayangan ini memiliki ketebalan 5 piksel dan memiliki warna abu-abu (rgba(0, 0, 0, 0.2)).
 - **about-authors h2** Ini adalah selector yang mengidentifikasi elemen-elemen **h2** yang berada dalam elemen dengan ID **"about- 
-  authors."****** Ini mengatur tampilan elemen-elemen **h2** tersebut.
+  authors."** Ini mengatur tampilan elemen-elemen **h2** tersebut.
 - **font-size** Mengatur ukuran font untuk elemen-elemen **h2** menjadi 25 piksel
-- **margin-bottom** Memberikan margin bawah sebesar 10 piksel pada elemen-elemen **h2**. Ini menciptakan jarak antara elemen-elemen 
+- **margin-bottom** Memberikan margin bawah sebesar 10 piksel pada elemen-elemen **h2** . Ini menciptakan jarak antara elemen-elemen 
   **h2** dan elemen-elemen setelahnya.
-- **color** Mengatur warna teks elemen-elemen** h2** menjadi hitam.
-- **about-authors ol ** Ini adalah selector yang mengidentifikasi elemen-elemen **ol** (daftar bernomor) yang berada dalam elemen dengan 
-  ID **"about-authors."** Ini mengatur tampilan elemen-elemen **ol** tersebut.
+- **color** Mengatur warna teks elemen-elemen ** h2** menjadi hitam.
+- **about-authors ol ** Ini adalah selector yang mengidentifikasi elemen-elemen **ol** (daftar bernomor) yang berada dalam elemen 
+  dengan ID **"about-authors."** Ini mengatur tampilan elemen-elemen **ol** tersebut.
 - **list-style-type** Mengatur tipe tanda listing dalam daftar menjadi angka desimal (1, 2, 3, dst.).
 - **padding-left** Memberikan padding sebesar 20 piksel pada sisi kiri daftar, menjauhkan angka dari teks.
 - **font-size** Mengatur ukuran font untuk teks dalam daftar menjadi 16 piksel.
@@ -623,139 +631,193 @@ Berikut adalah penjelasan setiap bagian kode:
 - <img width="506" alt="Screenshot 2023-10-27 204837" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/fe8b0bbb-8eaf-4408-b5da-1a5c0f19e008">
 
 
-- **Styling Website Topics**: Ini mengatur tampilan elemen dengan ID **"website-topics"** dan elemen footer dalam halaman web.
+- **Styling Website Topics** : Ini mengatur tampilan elemen dengan ID **"website-topics"** dan elemen **footer** dalam halaman web.
 - ** max-width** Mengatur lebar maksimum elemen dengan ID "website-topics" menjadi 900 piksel. Ini membatasi lebar elemen agar tidak 
   terlalu lebar pada layar yang besar.
-- ** margin** Memberikan margin sebesar 20 piksel di atas dan di bawah elemen** "website-topics" **dan mengatur margin horizontalnya ke 
-  **"auto."** Ini akan merapikan elemen dan membuatnya terpusat secara horizontal di dalam kontainernya.
-- padding Memberikan padding sebesar 20 piksel di dalam elemen "website-topics." Padding adalah ruang di sekitar kontennya.
-- background-color Mengatur warna latar belakang elemen "website-topics" menjadi putih (#fff).
-- border-radius Mengatur sudut elemen agar menjadi bulat dengan jari-jari 10 piksel. Ini memberikan elemen sudut yang lembut.
-- box-shadow Menambahkan bayangan elemen. Bayangan ini akan terlihat saat elemen "website-topics" diangkat dari latar belakang
+- ** margin** Memberikan margin sebesar 20 piksel di atas dan di bawah elemen ** "website-topics" ** dan mengatur margin horizontalnya 
+  ke **"auto."** Ini akan merapikan elemen dan membuatnya terpusat secara horizontal di dalam kontainernya.
+- **padding** Memberikan padding sebesar 20 piksel di dalam elemen **"website-topics."** Padding adalah ruang di sekitar kontennya.
+- **background-color** Mengatur warna latar belakang elemen **"website-topics"** menjadi putih (#fff).
+- **border-radius** Mengatur sudut elemen agar menjadi bulat dengan jari-jari 10 piksel. Ini memberikan elemen sudut yang lembut.
+- **box-shadow** Menambahkan bayangan elemen. Bayangan ini akan terlihat saat elemen **"website-topics"** diangkat dari latar belakang
 - halaman. Bayangan ini memiliki ketebalan 5 piksel dan memiliki warna abu-abu (rgba(0, 0, 0, 0.2)).
-- font-size Mengatur ukuran font untuk elemen-elemen h2 yang berada dalam elemen dengan ID "website-topics" menjadi 25 piksel.
-- margin-bottom Memberikan margin bawah sebesar 10 piksel pada elemen-elemen h2. Ini menciptakan jarak antara elemen-elemen h2 dan elemen-elemen setelahnya.
-- color Mengatur warna teks elemen-elemen h2 menjadi hitam (#000).
-- list-style-type Mengatur tipe tanda listing dalam daftar menjadi angka desimal (1, 2, 3, dst.).
-- padding-left Memberikan padding sebesar 20 piksel pada sisi kiri daftar, menjauhkan angka dari teks.
-- font-size Mengatur ukuran font untuk teks dalam daftar menjadi 16 piksel.
-- line-height  Mengatur tinggi baris dalam daftar menjadi 1.5 kali tinggi font, memberikan jarak antarbaris yang baik.
-- margin-bottom Memberikan margin bawah sebesar 20 piksel pada elemen-elemen daftar, menciptakan jarak antara daftar dengan elemen-elemen setelahnya.
+- **font-size** Mengatur ukuran font untuk elemen-elemen **h2** yang berada dalam elemen dengan ID **"website-topics"** menjadi 25 
+  piksel.
+- **margin-bottom** Memberikan margin bawah sebesar 10 piksel pada elemen-elemen **h2**. Ini menciptakan jarak antara elemen-elemen 
+  **h2** dan elemen-elemen setelahnya.
+- **color** Mengatur warna teks elemen-elemen **h2** menjadi hitam (#000).
+- **list-style-type** Mengatur tipe tanda listing dalam daftar menjadi angka desimal (1, 2, 3, dst.).
+- **padding-left** Memberikan padding sebesar 20 piksel pada sisi kiri daftar, menjauhkan angka dari teks.
+- **font-size** Mengatur ukuran font untuk teks dalam daftar menjadi 16 piksel.
+- **line-height**  Mengatur tinggi baris dalam daftar menjadi 1.5 kali tinggi font, memberikan jarak antarbaris yang baik.
+- **margin-bottom** Memberikan margin bawah sebesar 20 piksel pada elemen-elemen daftar, menciptakan jarak antara daftar dengan 
+  elemen - elemen setelahnya.
   
 - <img width="337" alt="Screenshot 2023-10-27 204846" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/b5e4f459-d7ff-4782-aeb8-11dd1721e7a9">
-- **Footer**: Bagian ini mengatur tampilan elemen footer dengan memberikan warna latar belakang, mewajibkannya berada di bagian bawah halaman, dan mengubah warna teks menjadi putih.
-- bottom ini mengatur posisi elemen footer di bagian bawah halaman. Dengan nilai 0, elemen footer akan menempel di bagian bawah halaman.
-- left ini mengatur posisi elemen footer di sisi kiri halaman. Dengan nilai 0, elemen footer akan menempel di sisi kiri halaman.
-- width ini mengatur lebar elemen footer menjadi 100% dari lebar halaman. Ini akan membuat elemen footer mengisi seluruh lebar halaman.
-- height ini mengatur tinggi elemen footer menjadi 50 piksel. Dengan tinggi ini, elemen footer akan memiliki ketinggian 50 piksel.
-- background-color ini mengatur warna latar belakang elemen <footer> menggunakan model warna RGB. Warna yang digunakan adalah warna yang memiliki komponen merah (red), hijau (green), dan biru (blue) dengan nilai masing-masing 223, 184, dan 231. Sehingga, elemen footer akan memiliki latar belakang dengan warna ini.
-- text-align: center;: Properti ini mengatur teks dalam elemen <footer> menjadi terpusat secara horizontal. Dengan demikian, teks dalam footer akan berada di tengah secara horizontal.
-- line-height mengatur tinggi baris dalam elemen footer menjadi 50 piksel. Dengan tinggi baris yang sama dengan tinggi elemen, teks dalam footer akan berada di tengah secara vertikal.
-- color Properti ini mengatur warna teks dalam elemen footer menjadi putih (#fff). Sehingga, teks dalam footer akan memiliki warna putih.
+
+- **Footer**: Bagian ini mengatur tampilan elemen **footer** dengan memberikan warna latar belakang, mewajibkannya berada di bagian 
+  bawah halaman, dan mengubah warna teks menjadi putih.
+- **bottom** ini mengatur posisi elemen **footer** di bagian bawah halaman. Dengan nilai 0, elemen **footer** akan menempel di bagian 
+  bawah halaman.
+- **left** ini mengatur posisi elemen **footer** di sisi kiri halaman. Dengan nilai 0, elemen **footer** akan menempel di sisi kiri 
+  halaman.
+- **width** ini mengatur lebar elemen **footer** menjadi 100% dari lebar halaman. Ini akan membuat elemen **footer** mengisi seluruh 
+  lebar halaman.
+- **height** ini mengatur tinggi elemen **footer** menjadi 50 piksel. Dengan tinggi ini, elemen **footer** akan memiliki ketinggian 50 
+  piksel.
+- **background-color**  ini mengatur warna latar belakang elemen **<footer>** menggunakan model warna RGB. Warna yang digunakan adalah 
+  warna yang memiliki komponen merah (red), hijau (green), dan biru (blue) dengan nilai masing-masing 223, 184, dan 231. Sehingga, 
+  elemen **footer** akan memiliki latar belakang dengan warna ini.
+- **text-align: center;** : Properti ini mengatur teks dalam elemen **<footer>** menjadi terpusat secara horizontal. Dengan demikian, 
+  teks dalam **footer** akan berada di tengah secara horizontal.
+- **line-height** mengatur tinggi baris dalam elemen **footer** menjadi 50 piksel. Dengan tinggi baris yang sama dengan tinggi elemen, 
+  teks dalam **footer** akan berada di tengah secara vertikal.
+- **color** Properti ini mengatur warna teks dalam elemen **footer** menjadi putih (#fff). Sehingga, teks dalam **footer** akan 
+  memiliki warna putih.
   
 ## CSS CARE ( Care.css )
 
 - <img width="337" alt="Screenshot 2023-10-27 204846" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/00ae99f9-68d8-4dce-b3e4-39ab7b8b3d3c">
-- **Reset CSS**: Ini adalah komentar yang tidak memengaruhi tampilan halaman web. Ini digunakan untuk memberikan penjelasan tentang bagian berikutnya, yang merupakan aturan untuk mereset beberapa properti CSS ke nilai defaultnya. Ini adalah praktik umum dalam pengembangan web untuk menghindari perubahan tak terduga pada tampilan elemen HTML. Ini adalah selector universal yang memilih semua elemen HTML di halaman.
-- margin dan padding Ini mengatur margin dan padding semua elemen HTML menjadi nol. Ini membantu menghapus ruang tambahan yang biasanya ada di sekitar elemen-elemen.
-- box-sizing Ini mengubah model kotak elemen menjadi "border-box," yang berarti lebar dan tinggi elemen sekarang mencakup padding dan border, bukan hanya isi dalamnya.
+
+- **Reset CSS** : Ini adalah komentar yang tidak memengaruhi tampilan halaman web. Ini digunakan untuk memberikan penjelasan tentang 
+  bagian berikutnya, yang merupakan aturan untuk mereset beberapa properti CSS ke nilai defaultnya. Ini adalah praktik umum dalam 
+  pengembangan web untuk menghindari perubahan tak terduga pada tampilan elemen **HTML** . Ini adalah selector universal yang memilih 
+  semua elemen HTML di halaman.
+- **margin dan padding** Ini mengatur margin dan padding semua elemen **HTML** menjadi nol. Ini membantu menghapus ruang tambahan yang 
+  biasanya ada di sekitar elemen-elemen.
+- **box-sizing** Ini mengubah model kotak elemen menjadi **"border-box,"** yang berarti lebar dan tinggi elemen sekarang mencakup 
+  padding dan border, bukan hanya isi dalamnya.
   
 - <img width="447" alt="Screenshot 2023-10-27 210552" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/6d513652-8612-48b4-8d72-a17894a3e695">
-- **Style untuk Body**: Bagian ini adalah komentar yang memberikan penjelasan tentang bagian berikutnya, yang berisi aturan untuk mengatur tampilan elemen body halaman.
-- background Ini mengatur warna latar belakang halaman menjadi putih.
-- font-family Ini mengatur jenis font yang akan digunakan untuk teks di dalam halaman. Ini mencakup jenis font "Arial" dan fallback "sans-serif" jika Arial tidak tersedia.
-- margin Ini menghapus margin default pada elemen body, sehingga tidak ada ruang tambahan di sekitarnya.
-- padding-bottom Ini memberikan padding pada bagian bawah elemen body sebesar 50px, yang memberikan ruang untuk elemen footer.
+
+- **Style untuk Body**: Bagian ini adalah komentar yang memberikan penjelasan tentang bagian berikutnya, yang berisi aturan untuk 
+  mengatur tampilan elemen body halaman.
+- **background** Ini mengatur warna latar belakang halaman menjadi putih.
+- **font-family** Ini mengatur jenis font yang akan digunakan untuk teks di dalam halaman. Ini mencakup jenis font "Arial" dan 
+  fallback "sans-serif" jika Arial tidak tersedia.
+- **margin** Ini menghapus margin default pada elemen body, sehingga tidak ada ruang tambahan di sekitarnya.
+- **padding-bottom** Ini memberikan padding pada bagian bawah elemen body sebesar 50px, yang memberikan ruang untuk elemen **footer** .
   
 - <img width="567" alt="Screenshot 2023-10-27 210603" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/aed6d37c-50bc-4ba2-8621-bb20c26fb391">
 - <img width="232" alt="Screenshot 2023-10-27 210626" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/32dbd532-ee71-4661-a2d8-92f799f5e80e">
-- **Style untuk Navigasi**: bagian Ini adalah komentar yang memberikan penjelasan tentang bagian berikutnya, yang berisi aturan untuk mengatur tampilan elemen navigasi.
-- .nav: Ini adalah class selector yang mengganti tampilan elemen dengan class "nav".
-- position Ini mengunci elemen navigasi ke posisi tetap di bagian atas halaman sehingga tetap terlihat saat pengguna menggulir ke bawah.
-- top Ini mengatur elemen navigasi di bagian atas halaman.
-- width Ini mengatur lebar elemen navigasi menjadi 100% dari lebar halaman.
-- height Ini mengatur tinggi elemen navigasi menjadi 50px.
-- background Ini mengatur warna latar belakang elemen navigasi.
-- z-index Ini memastikan elemen navigasi tampil di atas elemen lainnya dengan memberikan z-index tinggi.
-- .nav ul Ini adalah selector untuk elemen ul yang berada dalam elemen dengan class "nav".
-- list-style Ini menghilangkan tanda listing (bullet points) dari daftar.
-- text-align Ini mengatur teks dalam daftar menjadi rata tengah.
-- padding Ini menghapus padding dalam daftar.
-- nav ul li Ini adalah selector untuk elemen li yang berada dalam elemen ul dalam elemen dengan class "nav".
-- display Ini mengatur elemen-elemen daftar menjadi inline-block sehingga mereka berbaris secara horizontal.
-- line-height Ini mengatur tinggi garis pada elemen-elemen daftar agar sejajar dengan tinggi elemen navigasi.
-- margin right Ini memberikan margin kanan sebesar 20px pada elemen-elemen daftar sehingga ada jarak antara tautan navigasi.
-- .nav ul li a Ini adalah selector untuk tautan a dalam elemen li.
-- color Ini mengatur warna teks tautan menjadi putih.
-- text-decoration Ini menghapus garis bawah dari tautan.
-- .nav ul li a hover Ini adalah selector untuk tautan a saat dihover.
-- color Ini mengatur warna teks tautan menjadi hitam saat tautan dihover
 
-- <img width="553" alt="Screenshot 2023-10-27 210650" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/b37f462f-a4eb-4303-a3e8-cfc952511fc6">
-- **Style untuk Konten:**: Bagian ini mengatur tampilan elemen dengan kelas .content. Ini mencakup memberikan lebar maksimum elemen konten, mengatur margin atas, dan memberikan padding.
+- **Style untuk Navigasi**: bagian Ini adalah komentar yang memberikan penjelasan tentang bagian berikutnya, yang berisi aturan untuk 
+  mengatur tampilan elemen navigasi.
+- **.nav** : Ini adalah class selector yang mengganti tampilan elemen dengan class **"nav".**
+- **position** Ini mengunci elemen navigasi ke posisi tetap di bagian atas halaman sehingga tetap terlihat saat pengguna menggulir ke 
+  bawah.
+- **top** Ini mengatur elemen navigasi di bagian atas halaman.
+- **width** Ini mengatur lebar elemen **navigasi** menjadi 100% dari lebar halaman.
+- **height** Ini mengatur tinggi elemen **navigasi** menjadi 50px.
+- **background** Ini mengatur warna latar belakang elemen **navigasi.**
+- **z-index** Ini memastikan elemen **navigasi** tampil di atas elemen lainnya dengan memberikan z-index tinggi.
+- **.nav ul** Ini adalah selector untuk elemen **ul** yang berada dalam elemen dengan class **"nav".**
+- **list-style** Ini menghilangkan tanda listing (bullet points) dari daftar.
+- **text-align** Ini mengatur teks dalam daftar menjadi rata tengah.
+- **padding** Ini menghapus padding dalam daftar.
+- **nav ul li** Ini adalah selector untuk elemen **li** yang berada dalam elemen **ul** dalam elemen dengan class **"nav".**
+- **display** Ini mengatur elemen-elemen daftar menjadi inline-block sehingga mereka berbaris secara horizontal.
+- **line-height** Ini mengatur tinggi garis pada elemen-elemen daftar agar sejajar dengan tinggi elemen navigasi.
+- **margin right** Ini memberikan margin kanan sebesar 20px pada elemen-elemen daftar sehingga ada jarak antara tautan navigasi.
+- **.nav ul li a** Ini adalah selector untuk tautan a dalam elemen **li.**
+- **color** Ini mengatur warna teks tautan menjadi putih.
+- **text-decoration** Ini menghapus garis bawah dari tautan.
+- **.nav ul li** a hover Ini adalah selector untuk tautan a saat dihover.
+- **color** Ini mengatur warna teks tautan menjadi hitam saat tautan dihover
+
+- <img width="553" alt="Screenshot 2023-10-27 210650" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/b37f462f-a4eb-4303-a3e8-cfc952511fc6">  
+
+- **Style untuk Konten:**: Bagian ini mengatur tampilan elemen dengan kelas .content. Ini mencakup memberikan lebar maksimum elemen 
+  konten, mengatur margin atas, dan memberikan padding.
   
 - <img width="450" alt="Screenshot 2023-10-27 211117" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/47bd1e45-a0d6-484b-9646-62dab830f464">
-- **Style untuk Paragraf**: Bagian ini mengatur tampilan elemen-elemen p dalam elemen .content. Ini mengatur ukuran font, jarak antar baris (line-height), dan margin bawah.
+
+- **Style untuk Paragraf**: Bagian ini mengatur tampilan elemen-elemen **p** dalam elemen .content. Ini mengatur ukuran font, jarak 
+  antar baris (line-height), dan margin bawah.
   
 - <img width="439" alt="Screenshot 2023-10-27 210715" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/c087ba8f-cde0-4ad3-b5cc-a70b59b88a78">
-- **Style untuk Gambar**: Ini mengatur tampilan elemen-elemen <img> dalam elemen .content. Ini mencakup memastikan gambar tidak melebihi lebar maksimum elemen konten, menjaga aspek rasio, dan memberikan margin untuk menengahkan gambar. Properti ini memberikan padding pada bagian bawah elemen <body> sebesar 50px, memberikan ruang untuk elemen footer.
+
+- **Style untuk Gambar** : Ini mengatur tampilan elemen-elemen **<img>** dalam elemen .content. Ini mencakup memastikan gambar tidak 
+  melebihi lebar maksimum elemen konten, menjaga aspek rasio, dan memberikan margin untuk menengahkan gambar. Properti ini memberikan 
+  padding pada bagian bawah elemen <body> sebesar 50px, memberikan ruang untuk elemen **footer.**
   
 - <img width="229" alt="Screenshot 2023-10-27 210724" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/869e6132-96e1-436b-9efb-5ec1dff1f6f2">
-- **Space Antar Paragraf**: Ini adalah aturan untuk menambahkan ruang antara paragraf. Ini menggunakan elemen <br> untuk memberikan jarak yang dapat disesuaikan.
+
+- **Space Antar Paragraf** : Ini adalah aturan untuk menambahkan ruang antara paragraf. Ini menggunakan elemen **<br>** untuk 
+  memberikan jarak yang dapat disesuaikan.
   
 - <img width="334" alt="Screenshot 2023-10-27 210732" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097738/d72fb7c6-675a-464c-a5a7-86be53470b10">
-- **Footer**: Bagian ini mengatur tampilan elemen footer dengan memberikan warna latar belakang, memastikan elemen footer selalu berada di bagian bawah halaman, dan mengubah warna teks menjadi putih.
+
+- **Footer** : Bagian ini mengatur tampilan elemen **footer** dengan memberikan warna latar belakang, memastikan elemen **footer** 
+  selalu berada di bagian bawah halaman, dan mengubah warna teks menjadi putih.
 
 ## CSS CONTACT ( Contact.css )
 
 - <img width="215" alt="kontak css 1" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/7af862f4-83a5-42ce-a9f8-9fd87a430c5f">
 
-- **Reset Default Styles**: Bagian ini mereset beberapa properti CSS ke nilai defaultnya pada semua elemen HTML, menghindari perubahan tak terduga pada tampilan elemen.
-- **Selector Universal (*)**: Ini adalah selector universal yang memilih semua elemen HTML di halaman.
+- **Reset Default Styles** : Bagian ini mereset beberapa properti CSS ke nilai defaultnya pada semua elemen HTML, menghindari 
+  perubahan tak terduga pada tampilan elemen.
+- **Selector Universal (*)** : Ini adalah selector universal yang memilih semua elemen HTML di halaman.
 - **Margin dan Padding**: ini mengatur margin dan padding semua elemen HTML menjadi nol, menghapus ruang tambahan di sekitarnya.
-- **Box-Sizing**: ini mengubah model kotak elemen menjadi "border-box," sehingga lebar dan tinggi elemen mencakup padding dan border, bukan hanya isi dalamnya.
+- **Box-Sizing** : ini mengubah model kotak elemen menjadi "border-box," sehingga lebar dan tinggi elemen mencakup padding dan border, bukan hanya isi dalamnya.
 
 - <img width="293" alt="kontak css 2" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/e7df3f6b-8343-4bda-841b-a1e89dcd11bb">
-- **Body**: Selector ini digunakan untuk elemen <body> halaman.
-- **Warna Latar Belakang Body**: ini mengatur warna latar belakang halaman menjadi putih.
-- **Font Family**: ini mengatur jenis font yang akan digunakan untuk teks di dalam halaman, dengan mencakup jenis font "Arial" dan fallback "sans-serif" jika Arial tidak tersedia.
-- **Margin Bawah pada Body**: ini memberikan margin bawah sebesar 50px pada elemen <body>, memberikan ruang untuk elemen footer.
+
+- **Body** : Selector ini digunakan untuk elemen **<body>** halaman.
+- **Warna Latar Belakang Body** : ini mengatur warna latar belakang halaman menjadi putih.
+- **Font Family** : ini mengatur jenis font yang akan digunakan untuk teks di dalam halaman, dengan mencakup jenis font "Arial" dan 
+  fallback "sans-serif" jika Arial tidak tersedia.
+- **Margin Bawah pada Body** : ini memberikan margin bawah sebesar 50px pada elemen **<body>** , memberikan ruang untuk elemen 
+  **footer.**
   
 - <img width="299" alt="kontak css 3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/b871eba9-2e90-4b73-bf11-30d8796cae4c">
-- **Navigasi (nav)**: Ini adalah class selector yang mengubah tampilan elemen dengan class "nav".
-- **Posisi Navigasi**:  ini mengunci elemen navigasi ke posisi tetap di bagian atas halaman sehingga tetap terlihat saat pengguna menggulir ke bawah.
-- **Top Navigasi**:  ini mengatur elemen navigasi di bagian atas halaman.
-- **Lebar dan Tinggi Navigasi**:  ini mengatur lebar elemen navigasi menjadi 100% dari lebar halaman dan tingginya menjadi 50px.
-- **Warna Latar Belakang Navigasi**:  ini mengatur warna latar belakang elemen navigasi.
-- **Z-Index Navigasi**: ini memastikan elemen navigasi tampil di atas elemen lainnya dengan memberikan z-index tinggi.
+
+- **Navigasi (nav)** : Ini adalah class selector yang mengubah tampilan elemen dengan class **"nav".**
+- **Posisi Navigasi** :   ini mengunci elemen navigasi ke posisi tetap di bagian atas halaman sehingga tetap terlihat saat pengguna 
+  menggulir ke bawah.
+- **Top Navigasi** :  ini mengatur elemen **navigasi** di bagian atas halaman.
+- **Lebar dan Tinggi Navigasi** :  ini mengatur lebar elemen **navigasi** menjadi 100% dari lebar halaman dan tingginya menjadi 50px.
+- **Warna Latar Belakang Navigasi** :  ini mengatur warna latar belakang elemen navigasi.
+- **Z-Index Navigasi** : ini memastikan elemen navigasi tampil di atas elemen lainnya dengan memberikan z-index tinggi.
 
 - <img width="274" alt="kontak css 4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/e8969691-1c72-4225-a6fd-2b20fe514c6e">
-- **Container Kontak (contact-container)**: Ini adalah class selector yang mengubah tampilan container yang berisi formulir kontak.
-- **Display Flex**:  ini mengatur elemen-elemen di dalam container untuk mengikuti model flexbox.
-- **Flex Direction**: ini mengatur elemen-elemen di dalam container untuk disusun dalam kolom.
-- **Align Items**:  ini mengatur elemen-elemen di dalam container agar terpusat secara horizontal.
-- **Text Align**: ini mengatur teks dalam container untuk menjadi rata tengah.
-- **Margin Atas pada Container**:ini memberikan margin atas sebesar 70px pada container untuk menghindari tabrakan dengan elemen navigasi.
+
+- **Container Kontak (contact-container)** : Ini adalah class **selector** yang mengubah tampilan container yang berisi formulir 
+  kontak.
+- **Display Flex** :  ini mengatur elemen-elemen di dalam container untuk mengikuti model flexbox.
+- **Flex Direction** : ini mengatur elemen-elemen di dalam container untuk disusun dalam kolom.
+- **Align Items** :  ini mengatur elemen-elemen di dalam container agar terpusat secara horizontal.
+- **Text Align** : ini mengatur teks dalam container untuk menjadi rata tengah.
+- **Margin Atas pada Container** :ini memberikan margin atas sebesar 70px pada container untuk menghindari tabrakan dengan elemen 
+  **navigasi.**
 
 ## CSS THANKS ( Thanks.css )
 
 Berikut adalah penjelasan setiap bagian kode:
 
 - <img width="215" alt="css thanks 1" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/1d29c470-0e04-4e25-9bc6-95d64944da33">
-- **Reset Default Styles**: Komentar ini digunakan untuk memberikan keterangan terhadap kode. Komentar ini menjelaskan bahwa aturan selanjutnya adalah untuk mereset atau mengatur ulang gaya-gaya bawaan (default styles) browser.
-- **Selector Universal (*)**: Ini adalah selektor universal yang berarti aturan yang didefinisikan di bawahnya akan berlaku untuk semua elemen HTML di halaman.
-- **Margin dan Padding**: ini mengatur margin (ruang putih di sekitar elemen) dan padding (ruang dalam elemen) menjadi nol untuk semua elemen.
-- **Box-Sizing**:  ini mengatur model kotak (box model) untuk semua elemen menjadi "border-box," yang berarti ukuran elemen mencakup padding dan border, bukan hanya kontennya.
+
+- **Reset Default Styles** : Komentar ini digunakan untuk memberikan keterangan terhadap kode. Komentar ini menjelaskan bahwa aturan 
+  selanjutnya adalah untuk mereset atau mengatur ulang gaya-gaya bawaan (default styles) browser.
+- **Selector Universal (*)** : Ini adalah selektor universal yang berarti aturan yang didefinisikan di bawahnya akan berlaku untuk 
+  semua elemen HTML di halaman.
+- **Margin dan Padding** : ini mengatur margin (ruang putih di sekitar elemen) dan padding (ruang dalam elemen) menjadi nol untuk 
+  semua elemen.
+- **Box-Sizing** :  ini mengatur model kotak (box model) untuk semua elemen menjadi "border-box," yang berarti ukuran elemen mencakup 
+  padding dan border, bukan hanya kontennya.
 
 - <img width="248" alt="css thanks 2" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/99e18892-345f-4fd4-8a78-a2479b0add76">
-- **Body**: Selector ini mengatur gaya untuk elemen <body> di halaman HTML.
-- **Warna Latar Belakang Body**:  ini mengatur warna latar belakang halaman menjadi abu-abu muda (#f2f2f2).
-- **Font Family**: ini mengatur jenis font yang akan digunakan untuk teks di halaman, dengan prioritas Arial, dan jika tidak tersedia, font sans-serif default.
-- **Display Flex**: ini menggunakan model tampilan fleksibel (flexbox) untuk mengatur tata letak elemen di dalam body.
-- **Flex Direction**: ini mengatur arah tata letak flexbox menjadi kolom (elemen-elemen akan disusun secara vertikal).
-- **Justify Content**:  ini mengatur posisi vertikal elemen-elemen di tengah halaman.
-- **Align Items**: ini mengatur posisi horizontal elemen-elemen di tengah halaman.
-- **Tinggi Body**: ini mengatur tinggi elemen body menjadi 100% dari tinggi viewport (tinggi tampilan browser), sehingga elemen-elemen di dalamnya akan selalu berada di tengah vertikal halaman.
+
+- **Body** : Selector ini mengatur gaya untuk elemen **<body>** di halaman HTML.
+- **Warna Latar Belakang Body** :  ini mengatur warna latar belakang halaman menjadi abu-abu muda (#f2f2f2).
+- **Font Family** : ini mengatur jenis font yang akan digunakan untuk teks di halaman, dengan prioritas Arial, dan jika tidak 
+  tersedia, font sans-serif default.
+- **Display Flex** : ini menggunakan model tampilan fleksibel (flexbox) untuk mengatur tata letak elemen di dalam body.
+- **Flex Direction** : ini mengatur arah tata letak flexbox menjadi kolom (elemen-elemen akan disusun secara vertikal).
+- **Justify Content** :  ini mengatur posisi vertikal elemen-elemen di tengah halaman.
+- **Align Items** : ini mengatur posisi horizontal elemen-elemen di tengah halaman.
+- **Tinggi Body** : ini mengatur tinggi elemen **body** menjadi 100% dari tinggi viewport (tinggi tampilan browser), sehingga elemen- 
+  elemen di dalamnya akan selalu berada di tengah vertikal halaman.
 
 - <img width="203" alt="css thanks 3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/60d70d12-7b31-490f-921f-4fb946666552">
 - **Heading 1 (h1)**: Ini adalah selektor yang mengatur gaya untuk elemen heading level 1.
@@ -765,17 +827,23 @@ Berikut adalah penjelasan setiap bagian kode:
 - **Rata Tengah Teks H1**: ini mengatur teks pada elemen h1 menjadi rata tengah (horizontal).
 
 - <img width="428" alt="css thanks 4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/a5a74d73-ade5-41e8-8bb6-a46401fc50bd">
-- **Tautan (a)**: Ini adalah selektor yang mengatur gaya untuk elemen anchor (<a>), yaitu tautan atau link.
-- **Penghapusan Garis Bawah Tautan**:  ini menghapus garis bawah (dekorasi) dari tautan, sehingga tautan tidak terlihat seperti tautan biasa.
-- **Warna Latar Belakang Tautan**: ini mengatur warna latar belakang tautan menjadi ungu tua (#8e44ad).
-- **Warna Teks Tautan**: ini mengatur warna teks tautan menjadi putih (#fff).
-- **Padding Tautan**: ini mengatur padding (ruang dalam tautan) sebesar 10 piksel pada atas dan bawah, serta 20 piksel pada sisi kiri dan kanan.
-- **Border Radius Tautan**: ini mengatur sudut border tautan menjadi sudut melengkung sebesar 5 piksel.
-- **Transisi Warna Latar Belakang Tautan**: ini menambahkan efek transisi pada perubahan warna latar belakang tautan selama 0.3 detik dengan perubahan yang lembut (ease).
+
+- **Tautan (a)** : Ini adalah selektor yang mengatur gaya untuk elemen **anchor (<a>)** , yaitu tautan atau link.
+- **Penghapusan Garis Bawah Tautan** :  ini menghapus garis bawah (dekorasi) dari tautan, sehingga tautan tidak terlihat seperti 
+  tautan biasa.
+- **Warna Latar Belakang Tautan** : ini mengatur warna latar belakang tautan menjadi ungu tua (#8e44ad).
+- **Warna Teks Tautan** : ini mengatur warna teks tautan menjadi putih (#fff).
+- **Padding Tautan** : ini mengatur padding (ruang dalam tautan) sebesar 10 piksel pada atas dan bawah, serta 20 piksel pada sisi kiri 
+  dan kanan.
+- **Border Radius Tautan** : ini mengatur sudut border tautan menjadi sudut melengkung sebesar 5 piksel.
+- **Transisi Warna Latar Belakang Tautan** : ini menambahkan efek transisi pada perubahan warna latar belakang tautan selama 0.3 detik 
+  dengan perubahan yang lembut (ease).
 
 - <img width="229" alt="css thanks 5" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/b4cba61b-558e-4a40-b916-b181bafcb6cd">
-- **Hover Tautan**: Ini adalah pseudo-class (:hover) yang mengatur gaya tautan saat kursor mouse berada di atasnya (hover).
-- **Warna Latar Belakang Tautan Hover**: ini mengatur warna latar belakang tautan menjadi ungu tua yang lebih gelap (#6c3483) saat tautan dihover oleh kursor mouse..
+
+- **Hover Tautan** : Ini adalah pseudo-class (:hover) yang mengatur gaya tautan saat kursor mouse berada di atasnya (hover).
+- **Warna Latar Belakang Tautan Hover** : ini mengatur warna latar belakang tautan menjadi ungu tua yang lebih gelap (#6c3483) saat 
+  tautan dihover oleh kursor mouse..
 
 ## JAVA SCRIPTS HOME ( Home.Js )
 Terdapat 2 Js dihalaman Home. Js ke 1 menjelasakan mirroring untuk setiap gambar. Berikut adalah penjelasan Js ke 1 disetiap kode:
@@ -798,62 +866,92 @@ Terdapat 2 Js dihalaman Home. Js ke 1 menjelasakan mirroring untuk setiap gambar
 
 - <img width="336" alt="js Home 3" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/91af3d84-5b6c-4c9f-98bb-2e74536dc67c">
 
-- **var gambar2 = document.getElementById("gambar2");** : Baris ini mengambil elemen HTML dengan ID "gambar2" dan menyimpannya dalam variabel gambar2.
-- **gambar2.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen 'gambar2'. Ketika elemen ini diklik, fungsi yang didefinisikan dalam blok **{ ... }** akan dieksekusi.
-- **if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel 'isMirrored' adalah 'false.' Jika iya, maka blok kode dalam 'if' akan dieksekusi ';' jika tidak, maka blok kode dalam 'else' akan dieksekusi.
+- **var gambar2 = document.getElementById("gambar2");** : Baris ini mengambil elemen HTML dengan ID "gambar2" dan menyimpannya dalam 
+  variabel gambar2.
+- **gambar2.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk 
+  elemen 'gambar2'. Ketika elemen ini diklik, fungsi yang didefinisikan dalam blok **{ ... }** akan dieksekusi.
+- **if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel 'isMirrored' adalah 'false.' Jika iya, maka 
+  blok kode dalam 'if' akan dieksekusi ';' jika tidak, maka blok kode dalam 'else' akan dieksekusi.
 - **Dalam blok if:**
-- **gambar2.style.transform** = "scaleX(-1)";: Ini mengubah properti CSS transform dari elemen "gambar2" untuk memutar gambar secara horizontal dengan menggunakan nilai "scaleX(-1)". Ini menciptakan efek cermin atau mirroring gambar.
+- **gambar2.style.transform** = "scaleX(-1)";: Ini mengubah properti CSS transform dari elemen "gambar2" untuk memutar gambar secara 
+  horizontal dengan menggunakan nilai "scaleX(-1)". Ini menciptakan efek cermin atau mirroring gambar.
 - **isMirrored = true;**: Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
 - **Dalam blok else:**
-- **gambar2.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
-- **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
+- **gambar2.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai 
+  "scaleX(1)".
+- **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non- 
+  mirroring.
 
 - <img width="353" alt="js Home 4" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/a7c3bf8d-916d-45cd-9b53-2832d3a3d1e9">
 
-- **var gambar3 = document.getElementById("gambar3");**: Baris ini mengambil elemen HTML dengan ID "gambar3" dan menyimpannya dalam variabel gambar3.
-- **gambar3.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen "gambar3". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
-- **if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel isMirrored adalah false. Jika iya, maka blok kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan dieksekusi.
+- **var gambar3 = document.getElementById("gambar3");**: Baris ini mengambil elemen HTML dengan ID "gambar3" dan menyimpannya dalam 
+  variabel gambar3.
+- **gambar3.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk 
+  elemen "gambar3". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
+- **if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel isMirrored adalah false. Jika iya, maka blok 
+  kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan dieksekusi.
 - **Dalam blok if:**
-- **gambar3.style.transform = "scaleX(-1)";**: Ini mengubah properti CSS transform dari elemen "gambar3" untuk memutar gambar secara horizontal (mirroring) dengan menggunakan nilai "scaleX(-1)".
+- **gambar3.style.transform = "scaleX(-1)";**: Ini mengubah properti CSS transform dari elemen "gambar3" untuk memutar gambar secara 
+  horizontal (mirroring) dengan menggunakan nilai "scaleX(-1)".
 - **isMirrored = true;**: Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
 - **Dalam blok else:**
-- **gambar3.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
+- **gambar3.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai 
+  "scaleX(1)".
 - **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
   
 - <img width="346" alt="js Home 6" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/8d401a1e-d74e-48fa-9222-4412067aebd1">
 
-- **var gambar4 = document.getElementById("gambar4");**: Baris ini mengambil elemen HTML dengan ID "gambar4" dan menyimpannya dalam variabel gambar4.
-- **gambar4.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk elemen "gambar4". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
-- **if (!isMirrored) { ... } else { ... }**: Ini adalah kondisional yang memeriksa apakah variabel isMirrored adalah false. Jika iya, maka blok kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan dieksekusi.
+- **var gambar4 = document.getElementById("gambar4");**: Baris ini mengambil elemen HTML dengan ID "gambar4" dan menyimpannya dalam 
+  variabel gambar4.
+- **gambar4.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener untuk 
+  elemen "gambar4". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
+- **if (!isMirrored) { ... } else { ... }**: Ini adalah kondisional yang memeriksa apakah variabel isMirrored adalah false. Jika iya, 
+  maka blok kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan dieksekusi.
 - **Dalam blok if:**
-- **gambar4.style.transform = "scaleX(-1)";**: Ini mengubah properti CSS transform dari elemen "gambar4" untuk memutar gambar secara horizontal dengan menggunakan nilai "scaleX(-1)". Ini efek cermin atau mirroring gambar.
+- **gambar4.style.transform = "scaleX(-1)";**: Ini mengubah properti CSS transform dari elemen "gambar4" untuk memutar gambar secara 
+  horizontal dengan menggunakan nilai "scaleX(-1)". Ini efek cermin atau mirroring gambar.
 - **isMirrored = true;**: Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
 - Dalam blok else:
-- **gambar4.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
+- **gambar4.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai 
+  "scaleX(1)".
 - **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring
 
 - <img width="356" alt="js Home 5" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/7dc0b57a-858e-459f-95a9-cb93062773de">
 
-- **var gambar5 = document.getElementById("gambar5");**: Baris ini mengambil elemen HTML dengan ID "gambar5" dan menyimpannya dalam variabel gambar5. Ini memungkinkan kita untuk berinteraksi dengan elemen tersebut menggunakan JavaScript.
-- **gambar5.addEventListener("click", function () { ... });**: Ini adalah event listener yang ditambahkan ke elemen "gambar5". Event listener ini akan menjalankan fungsi yang didefinisikan dalam blok { ... } ketika elemen "gambar5" diklik.
+- **var gambar5 = document.getElementById("gambar5");**: Baris ini mengambil elemen HTML dengan ID "gambar5" dan menyimpannya dalam 
+  variabel gambar5. Ini memungkinkan kita untuk berinteraksi dengan elemen tersebut menggunakan JavaScript.
+- **gambar5.addEventListener("click", function () { ... });**: Ini adalah event listener yang ditambahkan ke elemen "gambar5". Event 
+  listener ini akan menjalankan fungsi yang didefinisikan dalam blok { ... } ketika elemen "gambar5" diklik.
 - **Dalam fungsi event listener:**
-- **if (!isMirrored) { ... } else { ... }**: Ini adalah pernyataan kondisional yang memeriksa apakah variabel isMirrored adalah false. Jika kondisi ini benar (artinya, gambar tidak sedang dalam keadaan mirrored), maka blok kode dalam if akan dieksekusi. Jika kondisi ini salah (artinya, gambar sudah dalam keadaan mirrored), maka blok kode dalam else akan dieksekusi.
+- **if (!isMirrored) { ... } else { ... }**: Ini adalah pernyataan kondisional yang memeriksa apakah variabel isMirrored adalah false. 
+  Jika kondisi ini benar (artinya, gambar tidak sedang dalam keadaan mirrored), maka blok kode dalam if akan dieksekusi. Jika kondisi 
+  ini salah (artinya, gambar sudah dalam keadaan mirrored), maka blok kode dalam else akan dieksekusi.
 - **Dalam blok if:**
-- **gambar5.style.transform = "scaleX(-1)";**: Baris ini mengubah properti CSS transform dari elemen "gambar5" untuk mencapai efek cermin (mirroring) horizontal dengan menggunakan nilai "scaleX(-1)".
+- **gambar5.style.transform = "scaleX(-1)";**: Baris ini mengubah properti CSS transform dari elemen "gambar5" untuk mencapai efek 
+  cermin (mirroring) horizontal dengan menggunakan nilai "scaleX(-1)".
 - **isMirrored = true;**: Ini mengatur variabel isMirrored menjadi true untuk menandakan bahwa gambar sekarang dalam keadaan mirrored.
 - **Dalam blok else:**
-- **gambar5.style.transform = "scaleX(1)";**: Baris ini mengatur properti CSS transform kembali ke nilai awalnya (tanpa mirroring) dengan menggunakan "scaleX(1)".
-- **isMirrored = false;**: Ini mengatur variabel isMirrored menjadi false untuk menandakan bahwa gambar sekarang dalam keadaan non-mirrored.
+- **gambar5.style.transform = "scaleX(1)";**: Baris ini mengatur properti CSS transform kembali ke nilai awalnya (tanpa mirroring) 
+  dengan menggunakan "scaleX(1)".
+- **isMirrored = false;**: Ini mengatur variabel isMirrored menjadi false untuk menandakan bahwa gambar sekarang dalam keadaan non- 
+  mirrored.
 
 **Js ke 2 menjelasakan fungsi untuk menyembunyikan paragraf yang lebih dari 1 paragraf. Berikut adalah penjelasan Js ke 2 disetiap kode:**
 
 - <img width="451" alt="js Home 7" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/475fdf3a-358a-4619-a3c4-70d557a4822b">
 
-- **document.querySelectorAll("section p")**: Baris ini menggunakan metode querySelectorAll untuk mencari dan mengumpulkan semua elemen paragraf (<p>) yang berada di dalam elemen "section" dalam dokumen HTML. Ini menghasilkan nodelist (kumpulan elemen) dari semua elemen paragraf yang sesuai.
-- **.forEach((p, index) => { ... })**: Metode .forEach digunakan untuk melakukan iterasi (perulangan) pada setiap elemen dalam nodelist yang ditemukan dalam langkah sebelumnya. Dalam setiap iterasi, sebuah fungsi yang didefinisikan di dalam tanda kurung kurawal { ... } akan dieksekusi.
+- **document.querySelectorAll("section p")**: Baris ini menggunakan metode querySelectorAll untuk mencari dan mengumpulkan semua 
+  elemen paragraf (<p>) yang berada di dalam elemen "section" dalam dokumen HTML. Ini menghasilkan nodelist (kumpulan elemen) dari 
+  semua elemen paragraf yang sesuai.
+- **.forEach((p, index) => { ... })**: Metode .forEach digunakan untuk melakukan iterasi (perulangan) pada setiap elemen dalam 
+  nodelist yang ditemukan dalam langkah sebelumnya. Dalam setiap iterasi, sebuah fungsi yang didefinisikan di dalam tanda kurung 
+  kurawal { ... } akan dieksekusi.
 - **Dalam fungsi yang dieksekusi pada setiap iterasi:**
-- **if (index > 0) { ... }**: Kondisi ini memeriksa indeks (posisi) dari elemen paragraf dalam nodelist. Indeks dimulai dari 0 untuk elemen pertama, 1 untuk elemen kedua, dan seterusnya. Oleh karena itu, jika indeks index lebih besar dari 0 (yang berarti elemen paragraf bukan yang pertama), maka blok kode dalam if akan dieksekusi.
-- **p.style.display = "none";**: Jika kondisi dalam if terpenuhi, maka properti CSS display dari elemen paragraf (p) akan diatur menjadi "none". Ini akan membuat elemen paragraf tersebut menjadi tidak terlihat atau disembunyikan di halaman web.
+- **if (index > 0) { ... }**: Kondisi ini memeriksa indeks (posisi) dari elemen paragraf dalam nodelist. Indeks dimulai dari 0 untuk 
+  elemen pertama, 1 untuk elemen kedua, dan seterusnya. Oleh karena itu, jika indeks index lebih besar dari 0 (yang berarti elemen 
+  paragraf bukan yang pertama), maka blok kode dalam if akan dieksekusi.
+- **p.style.display = "none";**: Jika kondisi dalam if terpenuhi, maka properti CSS display dari elemen paragraf (p) akan diatur 
+  menjadi "none". Ini akan membuat elemen paragraf tersebut menjadi tidak terlihat atau disembunyikan di halaman web.
 
 - <img width="520" alt="js Home 8" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/7694334d-7c67-485c-b67b-adf054b40598">
 
@@ -865,13 +963,19 @@ Terdapat 2 Js dihalaman Home. Js ke 1 menjelasakan mirroring untuk setiap gambar
 
 - <img width="625" alt="js Home 9" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/144097616/7078bd11-d885-4aa7-a26e-522465833c4f">
 
-- **const seeMoreButton = document.createElement("button");**: Ini adalah langkah yang membuat elemen tombol baru dengan menggunakan *document.createElement("button")* dan menyimpannya dalam variabel 'seeMoreButton.'
+- **const seeMoreButton = document.createElement("button");**: Ini adalah langkah yang membuat elemen tombol baru dengan menggunakan 
+  *document.createElement("button")* dan menyimpannya dalam variabel 'seeMoreButton.'
 - **seeMoreButton.textContent = "See More";**: Kode ini mengatur teks yang akan ditampilkan pada tombol "See More".
-- **seeMoreButton.classList.add("see-more-button");**: Kode ini menambahkan kelas CSS "see-more-button" ke tombol. Anda dapat menggunakan kelas ini untuk mengubah gaya tombol sesuai keinginan Anda.
-- **seeMoreButton.style.border = "none";**: Ini menghapus garis hitam di sekitar tombol dengan mengatur properti CSS border menjadi "none".
-- **firstParagraph.insertAdjacentElement("afterend", seeMoreButton);**: Kode ini menyisipkan tombol "See More" setelah elemen pertama dalam elemen '<section>' menggunakan insertAdjacentElement.
-- **seeMoreButton.addEventListener("click", () => { ... });**: Kode ini menambahkan event listener pada tombol "See More".** Ketika tombol ini diklik, sebuah fungsi anonim dijalankan.
-- **paragraphs.forEach((p, i) => { ... });** akan mengubah gaya CSS  'display' untuk semua elemen `<p>` dalam elemen `<section>` menjadi "block", sehingga semua teks akan ditampilkan.
+- **seeMoreButton.classList.add("see-more-button");**: Kode ini menambahkan kelas CSS "see-more-button" ke tombol. Anda dapat 
+  menggunakan kelas ini untuk mengubah gaya tombol sesuai keinginan Anda.
+- **seeMoreButton.style.border = "none";**: Ini menghapus garis hitam di sekitar tombol dengan mengatur properti CSS border menjadi 
+  "none".
+- **firstParagraph.insertAdjacentElement("afterend", seeMoreButton);**: Kode ini menyisipkan tombol "See More" setelah elemen pertama 
+ dalam elemen '<section>' menggunakan insertAdjacentElement.
+- **seeMoreButton.addEventListener("click", () => { ... });**: Kode ini menambahkan event listener pada tombol "See More".** Ketika 
+  tombol ini diklik, sebuah fungsi anonim dijalankan.
+- **paragraphs.forEach((p, i) => { ... });** akan mengubah gaya CSS  'display' untuk semua elemen `<p>` dalam elemen `<section>` 
+  menjadi "block", sehingga semua teks akan ditampilkan.
 - **seeMoreButton.style.display = "none";** : akan menyembunyikan tombol "See More" setelah teks penuh ditampilkan.
 
 
@@ -881,96 +985,165 @@ Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bag
 - ![01 js](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124496474/813fe529-2824-40fe-98d7-994bdb012655)
 
 
-- **var gambar = document.getElementById("gambar");**: Kode ini mengambil elemen HTML dengan ID "gambar" dan menyimpannya dalam variabel 'gambar'. Ini memungkinkan Anda untuk mengakses dan memanipulasi elemen gambar tersebut melalui kode JavaScript.
-- **var isMirrored = false;: Variabel isMirrored**:digunakan untuk melacak status gambar, apakah sudah dalam keadaan mirrored atau tidak. Pada awalnya, variabel ini diatur ke false yang menunjukkan gambar tidak dalam keadaan mirrored.
-- **gambar.addEventListener("click", function () { ... });**: Ini adalah blok kode yang menambahkan event listener pada elemen gambar. Ketika elemen ini diklik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
+- **var gambar = document.getElementById("gambar");**: Kode ini mengambil elemen HTML dengan ID "gambar" dan menyimpannya dalam 
+  variabel 'gambar'. Ini memungkinkan Anda untuk mengakses dan memanipulasi elemen gambar tersebut melalui kode JavaScript.
+- **var isMirrored = false;: Variabel isMirrored**:digunakan untuk melacak status gambar, apakah sudah dalam keadaan mirrored atau 
+  tidak. Pada awalnya, variabel ini diatur ke false yang menunjukkan gambar tidak dalam keadaan mirrored.
+- **gambar.addEventListener("click", function () { ... });**: Ini adalah blok kode yang menambahkan event listener pada elemen gambar. 
+  Ketika elemen ini diklik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
 - **Dalam blok event listener:**
- -**if (!isMirrored) { ... }**: Kondisi ini memeriksa apakah variabel isMirrored adalah false. Jika iya, maka blok kode dalam if akan dieksekusi, yang berarti gambar akan di-mirror (flip horizontal).
+ -**if (!isMirrored) { ... }**: Kondisi ini memeriksa apakah variabel isMirrored adalah false. Jika iya, maka blok kode dalam if akan 
+  dieksekusi, yang berarti gambar akan di-mirror (flip horizontal).
 - **Dalam blok if:**
-- **gambar.style.transform = "scaleX(-1)";**: Ini adalah pernyataan yang mengubah properti CSS transform dari elemen gambar untuk melakukan flipping horizontal dengan menggunakan nilai "scaleX(-1)". Ini menciptakan efek cermin gambar.
+- **gambar.style.transform = "scaleX(-1)";**: Ini adalah pernyataan yang mengubah properti CSS transform dari elemen gambar untuk 
+  melakukan flipping horizontal dengan menggunakan nilai "scaleX(-1)". Ini menciptakan efek cermin gambar.
 - **isMirrored = true;**: Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirrored.
 - else { ... }**: Jika kondisi if tidak terpenuhi (artinya gambar sudah mirrored), maka blok kode dalam 'else' akan dieksekusi.
 - **Dalam blok else:**
-- **gambar.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirror) dengan menggunakan nilai "scaleX(1)".
-- **isMirrored = false;**: Variabel isMirrored diatur menjadi 'false' untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirrored.
+- **gambar.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirror) dengan menggunakan nilai 
+  "scaleX(1)".
+- **isMirrored = false;**: Variabel isMirrored diatur menjadi 'false' untuk menunjukkan bahwa gambar sekarang dalam keadaan non- 
+  mirrored.
 
 - ![02 jss](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124496474/12341d89-dec7-4114-836b-3ecd03f236fa)
 
 
-- **var gambar2 = document.getElementById("gambar2");**: Baris ini mengambil elemen HTML dengan ID "gambar2" dan menyimpannya dalam variabel gambar2. Ini memungkinkan kita untuk merujuk elemen ini dalam kode berikutnya.
-- **gambar2.addEventListener("click", function () { ... });**: Kode ini menambahkan event listener ke elemen "gambar2". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok '{ ... }' akan dieksekusi.
-- **if (!isMirrored) { ... } else { ... }**: Ini adalah struktur pengkondisian yang memeriksa apakah variabel 'isMirrored' adalah false.**** Variabel ini mungkin didefinisikan di tempat lain dalam kode atau di luar dari fragmen yang Anda berikan. Jika 'isMirrored' adalah 'false',maka kode dalam blok 'if' akan dieksekusi ';' jika tidak, kode dalam blok 'else' yang dieksekusi.
+- **var gambar2 = document.getElementById("gambar2");**: Baris ini mengambil elemen HTML dengan ID "gambar2" dan 
+  menyimpannya dalam variabel gambar2. Ini memungkinkan kita untuk merujuk elemen ini dalam kode berikutnya.
+- **gambar2.addEventListener("click", function () { ... });**: Kode ini menambahkan event listener ke elemen 
+  "gambar2". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok '{ ... }' akan dieksekusi.
+- **if (!isMirrored) { ... } else { ... }**: Ini adalah struktur pengkondisian yang memeriksa apakah variabel 
+  **'isMirrored'** adalah false. Variabel ini mungkin didefinisikan di tempat lain dalam kode atau di luar dari 
+  fragmen yang Anda berikan. Jika 'isMirrored' adalah 'false',maka kode dalam blok 'if' akan dieksekusi ';' jika 
+  tidak, kode dalam blok 'else' yang dieksekusi.
 - **Dalam blok if:**
-- **gambar2.style.transform = "scaleX(-1)";**: Ini adalah bagian yang mengubah properti CSS transform dari elemen "gambar2" untuk menciptakan efek cermin horizontal. Nilai "scaleX(-1)" menghasilkan efek ini.
-- **isMirrored = true;**: Variabel 'isMirrored' diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
+- **gambar2.style.transform = "scaleX(-1)";**: Ini adalah bagian yang mengubah properti CSS transform dari elemen 
+  "gambar2" untuk menciptakan efek cermin horizontal. Nilai "scaleX(-1)" menghasilkan efek ini.
+- **isMirrored = true;**: Variabel 'isMirrored' diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam 
+  keadaan mirroring.
 - **Dalam blok else:**
-- **gambar2.style.transform = "scaleX(1)";**: Ini adalah bagian yang mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai** "scaleX(1**)".
-- **isMirrored = false;**: Variabel 'isMirrored' diatur menjadi 'false' untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
+- **gambar2.style.transform = "scaleX(1)";**: Ini adalah bagian yang mengembalikan gambar ke posisi awal (tanpa 
+   mirroring) dengan menggunakan nilai **"scaleX(1**)".
+- **isMirrored = false;**: Variabel 'isMirrored' diatur menjadi 'false' untuk menunjukkan bahwa gambar sekarang 
+  dalam keadaan non- mirroring.
 
 - ![03 js](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124496474/0f85a946-419c-4178-8d61-5bb2f19ad3cf)
 
 
-- **var gambar3 = document.getElementById("gambar3");**: Kode ini mengambil elemen HTML dengan ID "gambar3" dan menyimpannya dalam variabel 'gambar3'.Ini memungkinkan kita untuk mengakses dan memanipulasi elemen ini melalui JavaScript.
-- **gambar3.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener ke elemen "gambar3". Ini berarti ketika elemen ini diklik, fungsi yang didefinisikan dalam blok '{ ... }' akan dieksekusi.
-- **if (!isMirrored) { ... } else { ... }**: Ini adalah pernyataan kondisional yang memeriksa apakah variabel 'isMirrored' adalah 'false'. Variabel ini digunakan untuk melacak apakah gambar saat ini sedang dalam keadaan cermin (mirrored) atau tidak.
+- **var gambar3 = document.getElementById("gambar3");**: Kode ini mengambil elemen HTML dengan ID "gambar3" dan 
+  menyimpannya dalam variabel 'gambar3'.Ini memungkinkan kita untuk mengakses dan memanipulasi elemen ini melalui 
+  JavaScript.
+- **gambar3.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event 
+  listener ke elemen "gambar3". Ini berarti ketika elemen ini diklik, fungsi yang didefinisikan dalam blok '{ ... }' 
+  akan dieksekusi.
+- **if (!isMirrored) { ... } else { ... }**: Ini adalah pernyataan kondisional yang memeriksa apakah variabel 
+  'isMirrored' adalah 'false'. Variabel ini digunakan untuk melacak apakah gambar saat ini sedang dalam keadaan 
+  cermin (mirrored) atau tidak.
 - **Dalam blok if:**
-- **gambar3.style.transform = "scaleX(-1)";**: Ini adalah pernyataan yang mengubah properti CSS transform pada elemen "gambar3". Ini akan memutar gambar secara horizontal (mirror) dengan menggunakan nilai "scaleX(-1)".
-- **isMirrored = true;**: Setelah efek mirroring diterapkan, variabel 'isMirrored' diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
+- **gambar3.style.transform = "scaleX(-1)";**: Ini adalah pernyataan yang mengubah properti CSS transform pada 
+  elemen "gambar3". Ini akan memutar gambar secara horizontal (mirror) dengan menggunakan nilai "scaleX(-1)".
+- **isMirrored = true;**: Setelah efek mirroring diterapkan, variabel 'isMirrored' diatur menjadi true untuk 
+  menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
 - **Dalam blok else:**
-- **gambar3.style.transform = "scaleX(1)";**: Ini adalah pernyataan yang mengembalikan gambar ke posisi semula (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
-- **isMirrored = false;**: Variabel 'isMirrored' diatur kembali menjadi 'false' untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
+- **gambar3.style.transform = "scaleX(1)";**: Ini adalah pernyataan yang mengembalikan gambar ke posisi semula 
+  (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
+- **isMirrored = false;**: Variabel 'isMirrored' diatur kembali menjadi 'false' untuk menunjukkan bahwa gambar 
+  sekarang dalam keadaan non-mirroring.
 
 - ![04 js](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124496474/b8b0042f-e93b-455d-8983-ec9434a8da33)
 
 
-- **var gambar4 = document.getElementById("gambar4");**: Kode ini mengambil elemen HTML dengan ID "gambar4" dan menyimpannya dalam variabel gambar4.
-- **gambar4.addEventListener("click", function () { ... });**: Ini adalah bagian kode yang menambahkan event listener ke elemen "gambar4". Ketika elemen ini di-klik, fungsi yang didefinisikan dalam blok { ... } akan dijalankan.
-- **if (!isMirrored) { ... } else { ... }**: Ini adalah sebuah kondisi yang memeriksa nilai variabel 'isMirrored.' Variabel ini digunakan untuk melacak apakah gambar saat ini dalam keadaan mirrored (terbalik) atau tidak. Jika 'isMirrored' bernilai 'false', maka blok kode dalam 'if' akan dieksekusi; jika tidak, blok kode dalam 'else' akan dieksekusi.
+- **var gambar4 = document.getElementById("gambar4");**: Kode ini mengambil elemen HTML dengan ID "gambar4" dan 
+  menyimpannya dalam variabel gambar4.
+- **gambar4.addEventListener("click", function () { ... });**: Ini adalah bagian kode yang menambahkan event 
+  listener ke elemen "gambar4". Ketika elemen ini di-klik, fungsi yang didefinisikan dalam blok { ... } akan 
+  dijalankan.
+- **if (!isMirrored) { ... } else { ... }**: Ini adalah sebuah kondisi yang memeriksa nilai variabel 'isMirrored.' 
+  Variabel ini digunakan untuk melacak apakah gambar saat ini dalam keadaan mirrored (terbalik) atau tidak. Jika 
+  'isMirrored' bernilai 'false', maka blok kode dalam 'if' akan dieksekusi; jika tidak, blok kode dalam 'else' akan 
+  dieksekusi.
 - Dalam blok if:
-- **gambar4.style.transform = "scaleX(-1)";**: Kode ini mengubah properti CSS transform dari elemen "gambar4" untuk melakukan pemutaran horizontal (mirror) dengan menggunakan nilai "scaleX(-1)". Ini akan menghasilkan efek cermin atau gambar terbalik secara horizontal.
-- **isMirrored = true;**: Setelah mengubah transformasi gambar, variabel 'isMirrored' diatur menjadi true untuk menandakan bahwa gambar saat ini dalam keadaan mirrored.
+- **gambar4.style.transform = "scaleX(-1)";**: Kode ini mengubah properti CSS transform dari elemen "gambar4" untuk 
+  melakukan pemutaran horizontal (mirror) dengan menggunakan nilai "scaleX(-1)". Ini akan menghasilkan efek cermin 
+  atau gambar terbalik secara horizontal.
+- **isMirrored = true;**: Setelah mengubah transformasi gambar, variabel 'isMirrored' diatur menjadi true untuk 
+  menandakan bahwa gambar saat ini dalam keadaan mirrored.
 - **Dalam blok else:**
-- **gambar4.style.transform = "scaleX(1)";**: Kode ini mengatur properti CSS transform untuk mengembalikan gambar ke posisi awal dengan menggunakan nilai "scaleX(1)".
-- **isMirrored = false;**: Setelah mengembalikan gambar ke posisi awal, variabel 'isMirrored' diatur kembali menjadi 'false' untuk menandakan bahwa gambar saat ini tidak dalam keadaan mirrored.
+- **gambar4.style.transform = "scaleX(1)";**: Kode ini mengatur properti CSS transform untuk mengembalikan gambar ke 
+  posisi awal dengan menggunakan nilai "scaleX(1)".
+- **isMirrored = false;**: Setelah mengembalikan gambar ke posisi awal, variabel 'isMirrored' diatur kembali menjadi 
+  'false' untuk  menandakan bahwa gambar saat ini tidak dalam keadaan mirrored.
 
 - ![05 js](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124496474/9e568e47-c0db-4329-af28-2a426a74a4a4)
 
 
-- **var gambar5 = document.getElementById("gambar5");**: Kode ini mengambil elemen HTML dengan ID "gambar5" dan menyimpannya dalam variabel 'gambar5'. Dengan cara ini, kita dapat mengakses dan mengendalikan elemen gambar tersebut melalui JavaScript.
-- **gambar5.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener ke elemen "gambar5". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok '{ ... }' akan dieksekusi.
-- **if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel 'isMirrored' adalah 'false.' Variabel 'isMirrored' mungkin telah didefinisikan di tempat lain dalam kode atau di atas kode ini. Jika 'isMirrored' adalah 'false', maka blok kode dalam 'if' akan dieksekusi ';' jika 'isMirrored' adalah 'true', maka blok kode dalam 'else' akan dieksekusi.
+- **var gambar5 = document.getElementById("gambar5");**: Kode ini mengambil elemen HTML dengan ID "gambar5" dan 
+  menyimpannya dalam  variabel 'gambar5'. Dengan cara ini, kita dapat mengakses dan mengendalikan elemen gambar 
+  tersebut melalui JavaScript.
+- **gambar5.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event 
+  listener ke elemen "gambar5". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok '{ ... }' akan 
+  dieksekusi.
+- **if (!isMirrored) { ... } else { ... }**: Kondisional ini memeriksa apakah variabel 'isMirrored' adalah 'false.' 
+  Variabel  'isMirrored' mungkin telah didefinisikan di tempat lain dalam kode atau di atas kode ini. Jika 
+ 'isMirrored' adalah 'false', maka blok kode dalam 'if' akan dieksekusi ';' jika 'isMirrored' adalah 'true', maka 
+  blok kode dalam 'else' akan dieksekusi.
 - **Dalam blok if:**
-- **gambar5.style.transform = "scaleX(-1)";**: Ini adalah pernyataan yang mengubah properti CSS transform pada elemen "gambar5" untuk memiringkan (mirror) gambar horizontal dengan menggunakan nilai "scaleX(-1)". Ini akan menciptakan efek gambar yang terbalik secara horizontal seperti cermin.
-- **isMirrored = true;**: Variabel 'isMirrored' diatur menjadi true untuk menunjukkan bahwa gambar saat ini dalam keadaan mirroring (terbalik secara horizontal).
+- **gambar5.style.transform = "scaleX(-1)";**: Ini adalah pernyataan yang mengubah properti CSS transform pada 
+  elemen "gambar5" untuk memiringkan (mirror) gambar horizontal dengan menggunakan nilai "scaleX(-1)". Ini akan 
+  menciptakan efek gambar yang terbalik secara horizontal seperti cermin.
+- **isMirrored = true;**: Variabel 'isMirrored' diatur menjadi true untuk menunjukkan bahwa gambar saat ini dalam 
+  keadaan mirroring (terbalik secara horizontal).
 - **Dalam blok else:**
-- **gambar5.style.transform = "scaleX(1)";**: Ini adalah pernyataan yang mengembalikan gambar ke posisi awal (tidak mirroring) dengan menggunakan nilai "scaleX(1)" pada properti transform.
-- **isMirrored = false;**: Variabel 'isMirrored' diatur menjadi 'false' untuk menunjukkan bahwa gambar saat ini dalam keadaan non-mirroring (tidak terbalik secara horizontal).
+- **gambar5.style.transform = "scaleX(1)";**: Ini adalah pernyataan yang mengembalikan gambar ke posisi awal (tidak 
+  mirroring) dengan  menggunakan nilai "scaleX(1)" pada properti transform.
+- **isMirrored = false;**: Variabel 'isMirrored' diatur menjadi 'false' untuk menunjukkan bahwa gambar saat ini 
+  dalam keadaan non-  mirroring (tidak terbalik secara horizontal).
 
 - ![06 js](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124496474/9b8c3959-3591-4465-8718-b08dc3d05379)
 
 
-- **var gambar6 = document.getElementById("gambar6");**: Baris ini mengambil elemen HTML dengan ID "gambar6" dan menyimpannya dalam variabel gambar6.
-- **gambar6.addEventListener("click", function () { ... });** : Ini adalah bagian dari kode yang menambahkan event listener untuk elemen "gambar6". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok { ... } akan dieksekusi.
-- **if (!isMirrored) { ... } else { ... }** : Ini adalah kondisional yang memeriksa apakah variabel isMirrored adalah false. Jika benar, maka blok kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan dieksekusi.
+- **var gambar6 = document.getElementById("gambar6");**: Baris ini mengambil elemen HTML dengan ID "gambar6" dan 
+  menyimpannya dalam variabel gambar6.
+- **gambar6.addEventListener("click", function () { ... });** : Ini adalah bagian dari kode yang menambahkan event 
+  listener untuk elemen "gambar6". Ketika elemen ini di klik, fungsi yang didefinisikan dalam blok { ... } akan 
+  dieksekusi.
+- **if (!isMirrored) { ... } else { ... }** : Ini adalah kondisional yang memeriksa apakah variabel isMirrored 
+  adalah false. Jika benar, maka blok kode dalam if akan dieksekusi; jika tidak, maka blok kode dalam else akan 
+  dieksekusi.
 - **Dalam blok if:**
-- **gambar6.style.transform = "scaleX(-1)";**: Ini mengubah properti CSS transform dari elemen "gambar6" untuk memutar gambar horizontal dengan menggunakan nilai "scaleX(-1)". Ini menciptakan efek cermin atau mirroring pada gambar.
-- **isMirrored = true;:** Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam keadaan mirroring.
+- **gambar6.style.transform = "scaleX(-1)";**: Ini mengubah properti CSS transform dari elemen "gambar6" untuk 
+  memutar gambar horizontal dengan menggunakan nilai "scaleX(-1)". Ini menciptakan efek cermin atau mirroring pada 
+  gambar.
+- **isMirrored = true;:** Variabel isMirrored diatur menjadi true untuk menunjukkan bahwa gambar sekarang dalam 
+  keadaan mirroring.
 - **Dalam blok else:**
-- **gambar6.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan menggunakan nilai "scaleX(1)".
-- **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam keadaan non-mirroring.
+- **gambar6.style.transform = "scaleX(1)";**: Ini mengembalikan gambar ke posisi awal (tanpa mirroring) dengan 
+  menggunakan nilai  "scaleX(1)".
+- **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menunjukkan bahwa gambar sekarang dalam 
+  keadaan non- mirroring.
 
 - ![c49c7b86-c984-4ef8-ac99-befbdece0ebe](https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124496474/dfd5fa3c-0d40-4de7-974e-7e322d760958)
 
 
-- **var gambar7 = document.getElementById("gambar7");**: Kode ini mengambil elemen HTML dengan ID "gambar7" dan menyimpannya dalam variabel gambar7. Ini memungkinkan Anda untuk mengakses dan memanipulasi elemen ini melalui JavaScript.
-- **gambar7.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event listener ke elemen "gambar7". Event listener ini akan merespons saat elemen "gambar7" diklik.
-- **if (!isMirrored) { ... } else { ... }**: Ini adalah blok kondisional yang memeriksa apakah variabel isMirrored memiliki nilai false. Variabel isMirrored digunakan untuk melacak apakah gambar sedang dalam keadaan "mirror" atau tidak.
+- **var gambar7 = document.getElementById("gambar7");**: Kode ini mengambil elemen HTML dengan ID "gambar7" dan 
+  menyimpannya dalam variabel gambar7. Ini memungkinkan Anda untuk mengakses dan memanipulasi elemen ini melalui 
+  JavaScript.
+- **gambar7.addEventListener("click", function () { ... });**: Ini adalah bagian dari kode yang menambahkan event 
+  listener ke elemen "gambar7". Event listener ini akan merespons saat elemen "gambar7" diklik.
+- **if (!isMirrored) { ... } else { ... }**: Ini adalah blok kondisional yang memeriksa apakah variabel isMirrored 
+  memiliki nilai false. Variabel isMirrored digunakan untuk melacak apakah gambar sedang dalam keadaan "mirror" atau 
+  tidak.
 - **Dalam blok if:**
-- **gambar7.style.transform = "scaleX(-1)";**: Kode ini mengatur properti CSS transform dari elemen "gambar7" untuk melakukan efek mirroring secara horizontal dengan menggunakan nilai "scaleX(-1)". Ini akan membuat gambar terlihat seperti dicerminkan secara horizontal.
-- **isMirrored = true;**: Variabel isMirrored diatur menjadi true untuk menandakan bahwa gambar sekarang dalam keadaan mirroring.
+- **gambar7.style.transform = "scaleX(-1)";**: Kode ini mengatur properti CSS transform dari elemen "gambar7" untuk 
+  melakukan efek  mirroring secara horizontal dengan menggunakan nilai "scaleX(-1)". Ini akan membuat gambar 
+  terlihat seperti dicerminkan secara horizontal.
+- **isMirrored = true;**: Variabel isMirrored diatur menjadi true untuk menandakan bahwa gambar sekarang dalam 
+  keadaan mirroring.
 - **Dalam blok else:**
-- **gambar7.style.transform = "scaleX(1)";**: Kode ini mengembalikan gambar ke posisi asalnya (tanpa mirroring) dengan mengatur nilai "scaleX(1)".
-- **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menandakan bahwa gambar sekarang dalam keadaan non-mirroring
+- **gambar7.style.transform = "scaleX(1)";**: Kode ini mengembalikan gambar ke posisi asalnya (tanpa mirroring) 
+  dengan mengatur nilai "scaleX(1)".
+- **isMirrored = false;**: Variabel isMirrored diatur menjadi false untuk menandakan bahwa gambar sekarang dalam 
+  keadaan non-mirroring
 
 
 
@@ -981,11 +1154,20 @@ Fungsi Js ini agar gambar bisa bolak balik. Berikut adalah penjelasan setiap bag
 - <img width="340" alt="js about" src="https://github.com/22091397017MariaCahyaJayanti/Pemweb_Kel5_Web-Pawpet/assets/124496474/82ce3d56-243b-4789-9e2f-b4516ad12a64">
 
 
-- **var gambar = document.getElementById("gambar");** : Kode ini  mendefinisikan variabel 'gambar' dan mengambil elemen HTML dengan ID "gambar" dari halaman.
-- **var isMirrored = false;** : Ini mendefinisikan variabel 'isMirrored' yang digunakan untuk melacak apakah gambar saat ini sudah terbalik (mirrored) atau tidak. Pada awalnya, variabel ini diatur sebagai 'false' karena gambar belum terbalik.
-- **gambar.addEventListener("click", function () {** : Ini menambahkan sebuah event listener pada gambar yang akan menangani peristiwa saat gambar di-klik. Ketika gambar di-klik, fungsi di bawah ini akan dijalankan.
-- **if (!isMirrored) {** : Ini memeriksa apakah gambar saat ini belum terbalik (mirrored) dengan memeriksa nilai 'isMirrored'.
-- **gambar.style.transform = "scaleX(-1)";** : Jika gambar belum terbalik, maka perintah ini akan membalikkan gambar horizontal (mirrored) dengan mengubah properti CSS 'transform' menggunakan 'scaleX(-1)'.
-- **isMirrored = true;** : Ini mengatur variabel 'isMirrored' menjadi 'true' untuk menandakan bahwa gambar saat ini dalam keadaan terbalik (mirrored).
-- **gambar.style.transform = "scaleX(1)";** : Ini mengembalikan gambar ke posisi awal dengan mengubah properti CSS 'transform' menggunakan 'scaleX(1)'.
-- **isMirrored = false;** : Ini mengatur variabel 'isMirrored' kembali menjadi 'false' untuk menandakan bahwa gambar telah dikembalikan ke posisi awal.
+- **var gambar = document.getElementById("gambar");** : Kode ini  mendefinisikan variabel 'gambar' dan mengambil 
+  elemen HTML dengan ID "gambar" dari halaman.
+- **var isMirrored = false;** : Ini mendefinisikan variabel 'isMirrored' yang digunakan untuk melacak apakah gambar 
+  saat ini sudah terbalik (mirrored) atau tidak. Pada awalnya, variabel ini diatur sebagai 'false' karena gambar 
+  belum terbalik.
+- **gambar.addEventListener("click", function () {** : Ini menambahkan sebuah event listener pada gambar yang akan 
+  menangani peristiwa saat gambar di-klik. Ketika gambar di-klik, fungsi di bawah ini akan dijalankan.
+- **if (!isMirrored) {** : Ini memeriksa apakah gambar saat ini belum terbalik (mirrored) dengan memeriksa nilai 
+  'isMirrored'.
+- **gambar.style.transform = "scaleX(-1)";** : Jika gambar belum terbalik, maka perintah ini akan membalikkan gambar 
+  horizontal (mirrored) dengan mengubah properti CSS 'transform' menggunakan 'scaleX(-1)'.
+- **isMirrored = true;** : Ini mengatur variabel 'isMirrored' menjadi 'true' untuk menandakan bahwa gambar saat ini 
+  dalam keadaan terbalik (mirrored).
+- **gambar.style.transform = "scaleX(1)";** : Ini mengembalikan gambar ke posisi awal dengan mengubah properti CSS 
+  'transform' menggunakan 'scaleX(1)'.
+- **isMirrored = false;** : Ini mengatur variabel 'isMirrored' kembali menjadi 'false' untuk menandakan bahwa gambar 
+  telah dikembalikan ke posisi awal.
